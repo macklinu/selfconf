@@ -14,10 +14,6 @@ app.config(function($routeProvider) {
         templateUrl: 'pages/coc.html'
     });
 
-    $routeProvider.when('/thank-you', {
-        templateUrl: 'pages/thank-you.html'
-    });
-
     $routeProvider.otherwise({ redirectTo: '/' });
 
 });
