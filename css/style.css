@@ -231,6 +231,12 @@ ul.tag-line li {
 	color: #f7f7f7;
 }
 
+.sale-banner {
+	line-height: 90px;
+	padding-top: 0px;
+	font-size: 85px;
+}
+
 /*Google form styles*/
 
 .google-form {
