@@ -17,11 +17,9 @@ body{
 
 h1{
 	font-family:"Lato";
-	font-size: 100px;
 	font-weight: 100;
 	color: #f7f7f7;
 	text-align: center;
-	padding: 34px 0px 40px 0px;
 	letter-spacing:2px;
 }
 h2{
@@ -67,21 +65,83 @@ p {
 	font-style: italic;
 }
 
-.wrapper {
-	width: 692px;
-	height: auto;
-	margin: 0 auto;
+@media (max-width: 480px) { 
+	
+	.wrapper {
+		width: 375px;
+		height: auto;
+		margin: 0 auto;
+	}
+
+	h1{
+		font-size: 53px;
+		padding: 12px 0px 16px 0px;
+	}
+
+	ul.tag-line {
+		font-size: 16px;
+	}
+
+	ul.footer li {
+		padding: 0;
+	}
+
+	ul.tag-line li {
+		padding: 0;
+	}
+
+	.span5, .span2 {
+		padding: 0 20px;
+	}
+
+	.btn-medium {
+		margin-bottom: 50px;
+	}
+
+	ul.footer {
+		width: 202px;
+	}
+
+}
+
+@media (min-width: 481px) { 
+
+	.wrapper {
+		width: 692px;
+		height: auto;
+		margin: 0 auto;
+	}
+
+	h1{
+		font-size: 100px;
+		padding: 34px 0px 40px 0px;
+	}
+
+	ul.tag-line {
+		font-size: 20px;
+	}
+
+	ul.footer li {
+		padding: 0 9px;
+	}
+
+	ul.tag-line li {
+		padding: 0 9px;
+	}
+
+	ul.footer {
+		width: 447px;
+	}
+
 }
 
 ul.footer {
 	margin: 0 auto;
-	width: 447px;
 	letter-spacing:.3px;
 }
 
 ul.footer li {
 	float: left;
-	padding: 0 9px;
 }
 
 ul.tag-line {
@@ -89,13 +149,11 @@ ul.tag-line {
 	font-weight: 100;
 	color: #f7f7f7;
 	letter-spacing:2px;
-	font-size: 20px;
 	padding-bottom: 25px;
 }
 
 ul.tag-line li {
 	float: left;
-	padding: 0 9px;
 }
 
 .sponsors {
