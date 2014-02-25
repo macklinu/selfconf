@@ -85,6 +85,8 @@ p {
 
 	ul.footer li {
 		padding: 0;
+		text-align: center;
+		float: none;
 	}
 
 	ul.tag-line li {
@@ -125,6 +127,7 @@ p {
 
 	ul.footer li {
 		padding: 0 9px;
+		float: left;
 	}
 
 	ul.tag-line li {
@@ -140,10 +143,6 @@ p {
 ul.footer {
 	margin: 0 auto;
 	letter-spacing:.3px;
-}
-
-ul.footer li {
-	float: left;
 }
 
 ul.tag-line {
