@@ -68,18 +68,19 @@ p {
 @media (max-width: 480px) { 
 	
 	.wrapper {
-		width: 375px;
+		width: 350px;
 		height: auto;
 		margin: 0 auto;
 	}
 
 	h1{
-		font-size: 53px;
+		font-size: 50px;
 		padding: 12px 0px 16px 0px;
 	}
 
 	ul.tag-line {
-		font-size: 16px;
+		font-size: 21px;
+		letter-spacing: 1px
 	}
 
 	ul.footer li {
@@ -119,6 +120,7 @@ p {
 
 	ul.tag-line {
 		font-size: 20px;
+		letter-spacing: 2px
 	}
 
 	ul.footer li {
@@ -148,7 +150,6 @@ ul.tag-line {
 	font-family:"Lato";
 	font-weight: 100;
 	color: #f7f7f7;
-	letter-spacing:2px;
 	padding-bottom: 25px;
 }
 
