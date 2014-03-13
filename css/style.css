@@ -198,6 +198,10 @@ ul.tag-line li {
 	float: left;
 }
 
+.italic {
+	font-style: oblique;
+}
+
 .sponsors {
 	margin-top: 25px;
 }
