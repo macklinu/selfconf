@@ -2,6 +2,7 @@
 	1 PAGER STYLE
 ==========================================================*/
 body{
+	/*background-color: #f7f7f7;*/
 	background-color: #364660;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -41,10 +42,10 @@ h3{
 }
 h4{
 	font-family:"Lato";
-	font-size: 32px;
+	font-size: 30px;
 	font-weight: 900;
 	color: #b80c0c;
-	text-align: center;
+	text-align: left;
 	line-height:150%;
 }
 h5{
@@ -52,8 +53,7 @@ h5{
 	font-size: 20px;
 	font-weight: 300;
 	color: #b80c0c;
-	text-align: center;
-	padding: 20px;
+	text-align: left;
 	letter-spacing:2px;
 }
 
@@ -66,76 +66,38 @@ p {
 }
 
 @media (max-width: 480px) { 
-	
-	.wrapper {
-		width: 350px;
-		height: auto;
-		margin: 0 auto;
-	}
 
 	h1{
-		font-size: 50px;
-		padding: 12px 0px 16px 0px;
+		font-size: 52px;
+		padding: 30px 0px 14px 0px;
 	}
 
 	ul.tag-line {
-		font-size: 21px;
-		letter-spacing: 1px
+		font-size: 23px;
 	}
 
-	ul.footer li {
-		padding: 0;
-		text-align: center;
-		float: none;
-	}
-
-	ul.tag-line li {
-		padding: 0;
-	}
-
-	.span5, .span2 {
+	.span2, .span5, .span10 {
 		padding: 0 20px;
 	}
 
 	.btn-medium {
 		margin-bottom: 50px;
-	}
-
-	ul.footer {
-		width: 202px;
 	}
 
 }
 
 @media (min-width: 481px) and (max-width: 767px) { 
-	
-	.wrapper {
-		width: 600px;
-		height: auto;
-		margin: 0 auto;
-	}
 
 	h1{
-		font-size: 88px;
-		padding: 22px 0px 25px 0px;
+		font-size: 64px;
+		padding: 30px 0px 21px 0px;
 	}
 
 	ul.tag-line {
-		font-size: 30px;
-		letter-spacing: 1px
+		font-size: 28px;
 	}
 
-	ul.footer li {
-		padding: 0;
-		text-align: center;
-		float: none;
-	}
-
-	ul.tag-line li {
-		padding: 0;
-	}
-
-	.span5, .span2 {
+	.span2, .span5, .span10 {
 		padding: 0 20px;
 	}
 
@@ -143,63 +105,91 @@ p {
 		margin-bottom: 50px;
 	}
 
-	ul.footer {
-		width: 202px;
-	}
-
 }
 
-@media (min-width: 768px) { 
-
-	.wrapper {
-		width: 692px;
-		height: auto;
-		margin: 0 auto;
-	}
+@media (min-width: 768px) and (max-width: 979px) { 
 
 	h1{
-		font-size: 100px;
-		padding: 34px 0px 40px 0px;
+		font-size: 88px;
+		padding: 50px 0px 33px 0px;
 	}
 
 	ul.tag-line {
-		font-size: 20px;
-		letter-spacing: 2px
-	}
-
-	ul.footer li {
-		padding: 0 9px;
-		float: left;
-	}
-
-	ul.tag-line li {
-		padding: 0 9px;
-	}
-
-	ul.footer {
-		width: 447px;
+		font-size: 22px;
 	}
 
 }
 
-ul.footer {
-	margin: 0 auto;
+@media (min-width: 980px) and (max-width: 1199px) { 
+
+	h1{
+		font-size: 116px;
+		padding: 50px 0px 46px 0px;
+	}
+
+	ul.tag-line {
+		font-size: 29px;
+	}
+
+}
+
+@media (min-width: 1200px) { 
+
+	h1{
+		font-size: 146px;
+		padding: 60px 0px 60px 0px;
+	}
+
+	ul.tag-line {
+		font-size: 36px;
+	}
+
+}
+
+ul.footer, ul.tag-line {
+	text-align: center;
 	letter-spacing:.3px;
+}
+
+ul.footer li, ul.tag-line li {
+	text-align: center;
+	display: inline;
+}
+
+ul.footer li {
+	padding: 0 9px;
 }
 
 ul.tag-line {
 	font-family:"Lato";
 	font-weight: 100;
 	color: #f7f7f7;
-	padding-bottom: 25px;
-}
-
-ul.tag-line li {
-	float: left;
 }
 
 .italic {
 	font-style: oblique;
+}
+
+.speaker-img {
+	margin-bottom: 25px;
+}
+
+.keynote h4 {
+	margin-bottom: 25px;
+}
+
+.hotels h5 {
+	color: #f7f7f7;
+	font-weight: 900;
+}
+
+.sponsor_us {
+	padding: 18px;
+	font-size: 16px;
+}
+
+.sponsor_us h4 {
+	font-size: 25px;
 }
 
 .sponsors {
@@ -242,6 +232,7 @@ ul.tag-line li {
 .colored_line_c {width: 20%; height: 4px; display: inline-block; background-color: #fc7a17;}
 .colored_line_d {width: 20%; height: 4px; display: inline-block; background-color: #9ecfc5;}
 .colored_line_e {width: 20%; height: 4px; display: inline-block; background-color: #b84a0c;}
+.blue_line {width: 100%; height: 4px; display: inline-block; background-color: #364660;}
 
 .mid_block {
 	padding-bottom: 50px;
@@ -249,38 +240,20 @@ ul.tag-line li {
 	background-color: #f7f7f7;
 }
 
-.white_block {
-	width: auto;
-	padding: 45px 20px;
-	margin-left:auto;
-	margin-right:auto;
-	padding-bottom: 25px;
-	color: #364660;
-	background-color: #f7f7f7;
+.shadow {
 	-webkit-box-shadow:  0px 5px 20px 0px rgba(0, 0, 0, .5);
 	box-shadow:  0px 5px 20px 0px rgba(0, 0, 0, .5);
 }
 
 .blue_block {
-	width: auto;
-	padding: 45px 20px;
-	margin-left:auto;
-	margin-right:auto;
-	padding-bottom: 25px;
+	padding-bottom: 50px;
+	padding-top: 40px;
 	color: #f7f7f7;
 	background-color: #364660;
-	-webkit-box-shadow:  0px 5px 20px 0px rgba(0, 0, 0, .5);
-	box-shadow:  0px 5px 20px 0px rgba(0, 0, 0, .5);
 }
 
 .blue_block h4 {
-	font-family:"Lato";
-	font-size: 30px;
-	font-weight: 900;
 	color: #f7f7f7;
-	text-align: left;
-	letter-spacing:2px;
-	line-height: 35px;
 }
 
 .blue_block a, .footer a {
@@ -293,14 +266,6 @@ ul.tag-line li {
 	line-height: 25px;
 }
 
-.img_block {
-	width: auto;
-	padding: 80px 0px;
-	background-image: url("../img/img_con.png");
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-
 .fields_block {
 	margin-left:auto;
 	margin-right:auto;
@@ -309,11 +274,6 @@ ul.tag-line li {
 	background-color: #364660;
 	-webkit-box-shadow:  0px 5px 20px 0px rgba(0, 0, 0, .5);
 	box-shadow:  0px 5px 20px 0px rgba(0, 0, 0, .5);
-}
-
-.submit-wrapper {
-	width: 241px;
-	margin: 25px auto 0 auto;
 }
 
 .btn-medium {
@@ -326,12 +286,11 @@ ul.tag-line li {
 	letter-spacing:.3px;
 	font-weight: 900;
 	font-size: 24px;
-	background-image: linear-gradient(to bottom,#faad25,#fc7a17);
+	background-image: linear-gradient(to bottom,#526a91,#364660);
 }
 
 .btn:hover, .btn:focus, .btn:active, .btn.active, .btn.disabled, .btn[disabled] {
-	background-color: #fc7a17;
-	color: #f7f7f7;
+	background-color: #364660;
 }
 
 .sale-banner {
@@ -346,9 +305,17 @@ ul.tag-line li {
 	background-color: #f7f7f7;
 }
 
+.google-form h4 {
+	text-align: center;
+}
+
 .form-horizontal {
 	margin-top: 25px;
 	padding-left: 30px;
+}
+
+.form-horizontal .controls {
+	margin-left: 0px;
 }
 
 label {
@@ -357,17 +324,15 @@ label {
 
 input {
 	height: 35px !important;
-	width: 400px;
 	margin-left: 30px;
 }
 
 textarea {
-	width: 400px;
 	margin-left: 30px;
 }
 
 .control-label {
-	width: 190px !important;
+	width: 100% !important;
 }
 
 .ss-navigate {
