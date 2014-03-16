@@ -2,7 +2,6 @@
 	1 PAGER STYLE
 ==========================================================*/
 body{
-	margin-top: 46px;
 	background-color: #364660;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -122,6 +121,10 @@ a {
 
 @media (min-width: 980px) and (max-width: 1199px) { 
 
+	body {
+		margin-top: 92px;
+	}
+
 	h1{
 		font-size: 116px;
 		padding: 50px 0px 46px 0px;
@@ -134,6 +137,10 @@ a {
 }
 
 @media (min-width: 1200px) { 
+
+	body {
+		margin-top: 46px;
+	}
 
 	h1{
 		font-size: 146px;
@@ -164,7 +171,7 @@ a {
 	letter-spacing: 1px;
 	text-shadow: none;
 	font-family: "Lato";
-	padding: 10px 21px 10px;
+	padding: 10px 17px;
 }
 
 .navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus {
@@ -176,7 +183,6 @@ a {
 .navbar .nav>li>a:focus, .navbar .nav>li>a:hover {
 	background-color: #364660;
 	color: #f7f7f7;
-	font-weight: 900;
 }
 
 .social {
