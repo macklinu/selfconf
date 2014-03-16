@@ -178,11 +178,6 @@ ul.tag-line {
 	margin-bottom: 25px;
 }
 
-.hotels h5 {
-	color: #f7f7f7;
-	font-weight: 900;
-}
-
 .sponsor_us {
 	padding: 18px;
 	font-size: 16px;
@@ -266,14 +261,27 @@ ul.tag-line {
 	line-height: 25px;
 }
 
-.fields_block {
-	margin-left:auto;
-	margin-right:auto;
-	width: 360px;
-	padding-bottom: 25px;
-	background-color: #364660;
+ul.hotels li {
+	background-color: #f7f7f7;
+	color: #364660;
+	padding: 5px;
+	margin-bottom: 10px;
+	height: 115px;
+	font-weight: 400;
 	-webkit-box-shadow:  0px 5px 20px 0px rgba(0, 0, 0, .5);
 	box-shadow:  0px 5px 20px 0px rgba(0, 0, 0, .5);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+ul.hotels li a {
+	color: #b80c0c;
+}
+
+.hotels img {
+	height: 115px;
+	margin-right: 25px;
 }
 
 .btn-medium {
