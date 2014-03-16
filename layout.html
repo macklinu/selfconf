@@ -11,7 +11,28 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-  <div class="top_line"></div>
+  <div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <div class="row">
+          <div class="offset1 span10">
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#">keynote</a></li>
+              <li><a href="#">location</a></li>
+              <li><a href="#">register</a></li>
+              <li><a href="#">sponsors</a></li>
+              <li><a href="#">organizers</a></li>
+              <li><a href="#">code of conduct</a></li>
+              <li><a href="http://twitter.com/selfconference"><img src="../img/twitter.png" class="social"></a></li>
+              <li><a href="#"><img src="../img/lanyrd.png" class="social"></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="top_block">
     <a href="#/">
       <header class="jumbotron subhead">
@@ -36,22 +57,6 @@
   </div>
 
   <div ng-view></div>
-
-  <div class="top_block">
-    <div class="container">
-      <div class="row">
-        <div class="offset1 span10">
-          <ul class="footer">
-            <li><a href="#/coc">Code of Conduct</a></li>
-            <li class="muted">·</li>
-            <li><a href="http://twitter.com/selfconference">@selfconference</a></li>
-            <li class="muted">·</li>
-            <li><a href="http://lanyrd.com/2014/selfconf/">Lanyard</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
 
 <script type="text/javascript" src="js/angular.js"></script>
 <script type="text/javascript" src="js/angular-route.js"></script>

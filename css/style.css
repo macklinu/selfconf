@@ -2,7 +2,7 @@
 	1 PAGER STYLE
 ==========================================================*/
 body{
-	/*background-color: #f7f7f7;*/
+	margin-top: 46px;
 	background-color: #364660;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -59,10 +59,6 @@ h5{
 
 p {
 	margin: 0 0 15px 0;
-}
-
-.credit-line {
-	font-style: italic;
 }
 
 a {
@@ -148,6 +144,49 @@ a {
 		font-size: 36px;
 	}
 
+}
+
+.navbar-inner {
+	background-color: #7d8fac;
+	background-image: none;
+	border: none;
+	color: #f7f7f7;
+}
+
+.navbar a {
+	color: #f7f7f7;
+}
+
+.navbar .nav>li>a {
+	color: #f7f7f7;
+	font-weight: 100;	
+	font-size: 17px;
+	letter-spacing: 1px;
+	text-shadow: none;
+	font-family: "Lato";
+	padding: 10px 21px 10px;
+}
+
+.navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus {
+	background-color: #364660;
+	color: #f7f7f7;
+	font-weight: 900;
+}
+
+.navbar .nav>li>a:focus, .navbar .nav>li>a:hover {
+	background-color: #364660;
+	color: #f7f7f7;
+	font-weight: 900;
+}
+
+.social {
+	width: 18px;
+	padding-top: 5px;
+	padding-bottom: 4px;
+}
+
+.credit-line {
+	font-style: italic;
 }
 
 ul.footer, ul.tag-line {
