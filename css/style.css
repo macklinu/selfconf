@@ -166,12 +166,12 @@ a {
 
 .navbar .nav>li>a {
 	color: #f7f7f7;
-	font-weight: 100;	
-	font-size: 17px;
-	letter-spacing: 1px;
+	font-weight: 500;
+	font-size: 18px;
+	letter-spacing: 1.5px;
 	text-shadow: none;
 	font-family: "Lato";
-	padding: 10px 17px;
+	padding: 10px 14px;
 }
 
 .navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus {
@@ -186,7 +186,7 @@ a {
 }
 
 .social {
-	width: 18px;
+	width: 16px;
 	padding-top: 5px;
 	padding-bottom: 4px;
 }
