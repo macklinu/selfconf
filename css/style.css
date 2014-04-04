@@ -179,6 +179,12 @@ ul.tag-line {
 	width: 200px;
 }
 
+.speaker {
+	margin-bottom: 40px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #b80c0c;
+}
+
 .img-polaroid {
 	background-color: #f7f7f7;
 }

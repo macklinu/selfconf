@@ -1,0 +1,596 @@
+[
+  {
+    "Name":"Nayan Hajratwala",
+    "Title":" Agile: from Principles to Practice",
+    "Description":"You've heard that Agile & Lean practices have great power -- from helping a business be more responsive, to increasing quality of software, to creating a happier workplace. Test Driven Development, User Stories, Pair Programming, Stand up Meetings. How can using these practices possibly lead to such change? The answer lies not within the practices, but within the principles set forth in the Agile Manifesto. In this session, Nayan will guide you through the 12 Agile Principles and describe how to use them to revolutionize your work or neglect them and be content with getting \"slightly better\".",
+    "Bio":"Nayan Hajratwala is the owner of Chikli Consulting. A Lean/Agile Coach with over 15 years of hands-on experience delivering software, he has significant programming experience and is a deep technologist always exploring new languages and ideas. His specialties include training software teams to increase their productivity and decrease their time-to-market while improving the quality of their product.<br />Nayan is a speaker at many user groups and conferences in the Midwest. He is also one of the core organizers for Southeast Michigan's Agile & Beyond conference.<br />He is one of the founders of CodeRetreat, designed to increase the skill level of developers through techniques such as Test Driven Development, Paired Programming, and Simple Design.",
+    "Headshot":"http://www.gravatar.com/avatar/1f1d8371eca200cc839af02a2c9a4334.png",
+    "Twitter":"@nhajratw"
+  },
+  {
+    "Name":"nathan dotz",
+    "Title":"A Brave New World of Android Testing",
+    "Description":"Find out how your code will be better if you define in a provable way how your code should function before you write it. Test-driving code reduces the penchant for writing code we don’t need while increasing productivity on the code we do need, and provides a working model of how each part of our system works, deterring regressions. Don’t believe me? Come follow along with me as we walk through testing a simple game before we write a lick of production code.",
+    "Bio":"Nathan is a software engineer at Detroit Labs, where miracles are performed on mobile devices. He is a founding member of the All Hands Active Hackerspace, which has been working steadfastly to awesomify the brains of creators for over 4 years. He’s an open-source contributor, an open-education advocate, and a functional programming fanboy.",
+    "Headshot":"http://i.imgur.com/ABipvhd.jpg",
+    "Twitter":"@nathandotz"
+  },
+  {
+    "Name":"Jeff Kelley",
+    "Title":"A Gentle Introduction to OpenGL ES on iOS",
+    "Description":"OpenGL ES is one of the most intimidating technology stacks on mobile platforms today. Outside of audio/video processing, there isn’t much with the same performance demands, intractable troubleshooting, and deeply entrenched knowledge. Yet the introductory texts available online tend to be of two varieties: “Introduction to OpenGL” and “OpenGL ES If You’re An OpenGL Expert.”<br /><br />This session aims to introduce you to the wonderful world of OpenGL ES programming without assuming any non-ES OpenGL knowledge. We’ll stick to iOS (hey, the session is only 50 minutes long) and look at the fundamentals of how OpenGL works, how we can use Apple’s GLKit framework to streamline development, and how awesome the OpenGL debugging tools in Xcode are (really). When we’re done you’ll have seen how to draw a basic 3D scene on iOS, and at the very least know if you want to pursue learning more or run away screaming.",
+    "Bio":"Jeff Kelley makes iOS apps for Detroit Labs, and wrote Learn Cocoa Touch for iOS. He’s a frequent guest star on podcasts, CocoaHeads within driving distance of Detroit, and iOS-focused conferences. He’s been working with iOS since its infancy in 2008, and managed the OS X environment at the University of Michigan before that.",
+    "Headshot":"http://i.imgur.com/NJCt8DH.jpg",
+    "Twitter":"@SlaunchaMan"
+  },
+  {
+    "Name":"Jamie Wright",
+    "Title":"A Tale of Two Apps : How Ember Changed the Way I Build Web Apps",
+    "Description":"Customers want to see your web application in a working state so they can make more meaningful and more rapid decisions on requirements. I used to accomplish this with some fake data hard coded in the html and some thrown together jQuery when I needed to simulate user feedback and transitions. This would get thrown away and reimplemented in production code and the interface was not fully polished.<br /><br />Ember.js and front end tooling has changed that. Fat client, Javascript heavy, web applications and server side code can now be built in segregation. Rich and polished user interfaces can be developed faster and easier. Developers and designers can reach 'done' without wasting development cycles.",
+    "Bio":"Jamie Wright is a part of Brilliant Fantastic, a software development consulting service provider and an ISV for software management applications. He has over ten years of software development experience in Microsoft technologies and over 5 years development experience in Ruby and Ruby on Rails. He specializes in application architecture, design patterns, object-oriented design, and test driven development. He blogs at brilliantfantastic.com and is currently seeking help for his gadget addiction.",
+    "Headshot":"http://www.gravatar.com/avatar/94d3675b2e2431b326b0de7aff01b742.png",
+    "Twitter":"@jwright"
+  },
+  {
+    "Name":"Stacey O'Connor (CSM, CSP, PMP)",
+    "Title":"Agile: Don't Underestimate the Squishy Stuff",
+    "Description":"Many organizations and teams are using agile methodologies with varying levels of success and satisfaction.  So one could ask, “What is it that makes one team happier and more productive than the other?”<br />While company culture plays a role in aligning the broader organization, one can find vast differences from one team to the next. How can these differences between teams in the same organization be explained? <br />The differences are in the intangibles, the “Squishy Stuff”, like the spirit of collaboration and teamwork, supported by an underlining feeling of trust.  When trust is present a safety net for fearless expression is created. <br />Strong teams are made of members who trust and consistently seek feedback from their peers; this interaction supports the personal growth for all because feedback consists of encouragement to reinforce positive behaviors and honest conversation about where there is opportunity.<br />While collaboration and teamwork are important, the essential component driving any team’s success is unified vision and mission; “What is our purpose?”  Purpose is the signpost to keep the team on track.  And with defined purpose, you get “Squishy Stuff”: agile teams that are more meaningful and productive.<br />In this session we will review a case study showing the value of the “Squishy Stuff” through a comparison of two organizations with similar processes and very different results, and what happened when the teams were combined.",
+    "Bio":"As a Delivery Practice Manager and Agile Coach for RIIS, Stacey leads teams in agile best practices and delivery. She has nearly a decade of experience working with organizations to discover how agile can create stronger teams and better products. Stacey is a Certified Scrum Professional (CSP) and has volunteered at many agile conferences in the community. She is passionate about coaching at multiple levels within an organization and building strong teams.",
+    "Headshot":"http://www.riis.com/wp-content/uploads/2014/03/s-oconnor.jpg",
+    "Twitter":"@riisllc_stacey"
+  },
+  {
+    "Name":"Chelsey Baker",
+    "Title":"An Intro to Auto Layout",
+    "Description":"Goodbye initWithFrame, hello Auto Layout! Creating dynamic, flexible views with Auto Layout can make UI in iOS simple and clean. Hardcoding frames and constraints based on screen size makes code brittle, but Auto Layout can be intimidating if you’ve never used it before. Join Chelsey for an intro to writing reusable views with Auto Layout!",
+    "Bio":"Chelsey has been programming professionally for two years, focusing on iOS development for the past six months. After working on a complex UI project, she experienced the perks (and the pain) of using Auto Layout properly. She enjoys making other people’s lives simpler, and hopes to save fellow developers some time and frustration with iOS.",
+    "Headshot":"http://static.squarespace.com/static/512050cfe4b068400108abd5/5254540ee4b05048ea3b7f4b/5304dd83e4b00af361a01543/1392827886748/Chelsey3.jpg?format=300w",
+    "Twitter":"@_chelseybaker"
+  },
+  {
+    "Name":"Kevin Swiber",
+    "Title":"Approaching the Singularity: A Stroll into the Future",
+    "Description":"Software has penetrated every aspect of our lives.  The tools and techniques we employ to build software continue to evolve.  What is the programming landscape today, and where do we go from here?  We’ll examine industry buzzwords such as mobile, social, big data, cloud, and the Internet of Things.  Will JavaScript really run everywhere?  Are we shifting to a world of APIs?  How smart is a wristwatch?   Let's explore language evolution, design patterns, architecture, databases, smart devices, and more!  The Singularity is just around the corner.  Are you ready for the future?",
+    "Bio":"Kevin has spent over a decade participating in software projects for enterprises and the community, sporting classy titles such as Sr. Software Engineer and Enterprise Architect.  He has a strong focus on creating strategies that spark innovation and facilitate growth within organizations.  Kevin is passionate about open collaboration and the benefits of free software.  He is the author of Siren, a hypermedia specification, as well as many open source software projects.  Kevin is the co-organizer of API Craft Conference, DetNode (the Detroit Node.js Meetup), and the regional API Craft Detroit Meetup.",
+    "Headshot":"http://i.imgur.com/kzHH6U8.jpg",
+    "Twitter":"@kevinswiber"
+  },
+  {
+    "Name":"Ron Martin",
+    "Title":"Asynchronous JavaScript",
+    "Description":"I talk about how JavaScript handles asynchronous tasks, then we come up with ways to be smart about it, and then *BAM* we invent promises.                                ",
+    "Bio":"My first program, which I wrote when I was 10, was a version of Rock, Scissors, Paper done in BASIC on an Aquarius computer (and it cheated when the user entered my sister's name) and from there I continued to use computers as a tool for creativity by making games, writing software to help my dad, building software to help my family, and crafting software to help my employer. I strive to encourage people to use computers for their own creative purposes or to take over the world.",
+    "Headshot":"https://media.licdn.com/media/p/1/005/029/07e/109516e.jpg",
+    "Twitter":"@ronsbrain"
+  },
+  {
+    "Name":"Terry Weymouth",
+    "Title":"Automate Functional Testing of Your Web App: Geb with Selenium",
+    "Description":"I will present a tutorial on Geb with Selenium. Selenium is a framework for web site automation and interrogation; it supports automated testing of web-based interfaces. Geb is a language for web navigation, DOM examination, and functional test assertion. With Geb you can automate functional testing of any web application.",
+    "Bio":"I am a senior software developer at the Medical School, University of Michigan, Ann Arbor. For the past ten years, I have been building custom data-to-web applications for research projects. Programming is my passion, and I want to share it with you.",
+    "Headshot":"https://lh5.googleusercontent.com/-Px6ZDDJH8RU/AAAAAAAAAAI/AAAAAAAAABg/7bdbQ4mrBtg/s120-c/photo.jpg",
+    "Twitter":"@weymouth_umich"
+  },
+  {
+    "Name":"Jeffery Thomas",
+    "Title":"Big Improvements Can Come in Tiny Classes",
+    "Description":"In the iOS development community, every one seems to have a giant framework which you should integrate into your project. Of course, that giant framework dictates how you must write your code, interact with network services, and build your workspace. The problem is usually all you need is a tiny bit of functionality to fix a pain-point in your code.<br /><br />In this talk, I will demonstrate tiny single file classes and categories which allow a developer to solve real world problems without having to refactor their code to fit into a giant framework.<br /><br />Featured in this talk are context info, easy observation, waiter, map/reduce/filter for NSArray, and more. Context info is a way to add a little extra data to any object. Easy observation takes the pain and redundancy out of adding and removing observers and notifications. Waiter can turn unit tests into system tests. Map/reduce/filter are basic array operations which are missing or broken in NSArray. As time allows, I will also demonstrate event bus: adding type safety to NSNotification or custom segues for more complex transitions.",
+    "Bio":"Jeff is a software developer in the Metro-Detroit area with 15 years of professional experience. He has worked on enterprise tools like DevPartner Studio, Web sites like therapycharts.com, and apps like Service MIT. He is language agnostic having written in C, C++, Perl, Java, JavaScript, C#, Python, and Objective-C. He has instructed classes and presented on webinars. Currently, he is doing iOS app development for General Motors. Jeff has a passion for minimalist code, user-centered design, and continuous integration.",
+    "Headshot":"http://i.imgur.com/inEUROP.jpg",
+    "Twitter":"@jeffery_thomas"
+  },
+  {
+    "Name":"Mike Behnke",
+    "Title":"Blind faith and best practices",
+    "Description":"Stop using ==, you must use SASS, all your coding problems can be solved with Node.JS.  So much advice, some of it from well-respected leaders in our web-dev community and much of it extremely dogmatic.  <br /><br />So how do you filter out the noise and find a happy middle ground?  How do you go about finding the best practices you should follow in a practical world where things are messy?",
+    "Bio":"Mike Behnke is a website developer and software engineer, a tech geek, focused on front-end programming but also a bit dangerous on the server-side.  He is a JavaScript and Android enthusiast. Mike Behnke works at Enlighten Agency (@EnlightenAgency) and tweets at @LocalPCGuy.",
+    "Headshot":"http://i.imgur.com/utzvKNZ.jpg",
+    "Twitter":"@LocalPCGuy"
+  },
+  {
+    "Name":"Tony Surma",
+    "Title":"Build Cross-Platform Apps that Work When All Else Fails",
+    "Description":"Anyone with a phone knows that despite widespread coverage cellular connections are spotty and often slower and weaker than what we hope.<br /><br />Are your apps one of the few that responsibly handles connectivity issues and manages delays and stale data for the user?  Based upon experiences designing and deploying applications in areas hit by natural disasters, we will discuss best practices and strategies for coding these responsible applications across mobile platforms that minimize data transferred, connection delays, store and forward uploads and requests, and use fallback technologies, like SMS, that are more likely to work in limited connectivity scenarios.  To help you build consistent user experiences across device platforms we will focus on implementations with C# and .NET, leveraging open source frameworks and Mono/Xamarin across Windows Phone, Windows 8 and iOS & Android apps.",
+    "Bio":"Tony Surma is the CTO of Microsoft’s Disaster Response program which is responsible for the development and deployment of Microsoft and their partners' technologies to enable response organizations’ critical relief efforts and connect communities affected by natural disasters throughout the world. He is a member of the core team for Random Hacks of Kindness on behalf of Microsoft and is one of founders of the Humanitarian Toolbox initiative. He now spends seemingly equal amounts of time in making presentations at work and writing code at home and at work with a technical focus on user experience (UX) of mobile, web and desktop applications and the architecture of the large cloud applications they depend on. Beyond work, Tony is always looking forward to volunteering to help non-profits leverage angle brackets, semi-colons and command line switches.",
+    "Headshot":"https://pbs.twimg.com/profile_images/3108386270/23db259358b497e4e7cda2b825b028e3.jpeg",
+    "Twitter":"@tonysurma"
+  },
+  {
+    "Name":"Talia Selitsky",
+    "Title":"Building Glass with Class",
+    "Description":"Google released their Glass Development Kit(GDK) Sneak Preview recently for Google Glass.  The GDK is an add-on to the Android SDK.  Android developers can now make glassware using the programming paradigms that they are used to.  Most of the APIs are the same, with some specific features for Glass. Glass apps can now be built for offline-use, real-time user interaction, and have more access to the hardware. This workshop walks through the basics of glassware creation using the GDK, and helps developers write their first Google Glass apps.",
+    "Bio":"Talia Selitsky is a mobile developer based in Detroit. She currently works for HP as a mobile developer, and recently worked at Ford developing apps for in-vehicle systems.  She is also an app developer for Photosynq, an open-research project that focuses on developing open-hardware solutions for measuring plant-health.",
+    "Headshot":"https://media.licdn.com/media/p/4/000/15e/325/1cd2e8a.jpg",
+    "Twitter":"@Talia_Selitsky"
+  },
+  {
+    "Name":"Angela Harms",
+    "Title":"Careful with those People Skills: You'll Poke Somebody's Eye Out!",
+    "Description":"\"People skills\" are offered up as a way to get along with people better, to get them to do what you want, and to generally make your life easier. But often, a simple technique can backfire and produce the opposite response. How do you know you're doing it right? Why do people get mad when you give your feedback exactly like the book says to do it?<br /><br />Lao Tzu said \"The world is won by those who let it go.\" Giving up the steps and practices -- focusing instead on the underlying ideas and values -- can guide you to better relationships and better collaboration. Dig deep and learn how empathetic listening, authentic connection, and embodying compassion can fit naturally into your life and your work.",
+    "Bio":"Angela Harms is an agile developer, coach, facilitator, and instigator. She loves beautiful code that emerges from collaboration, and learning new ways to make it work. When she’s not pairing on tests and the code they inspire, you can find her at conferences speaking about what she’s learned (so far), facilitating kick-ass retrospectives, or discussing the intersection of software and love in open space.",
+    "Headshot":"img/speakers/angela.jpg",
+    "Twitter":"@angelaharms"
+  },
+  {
+    "Name":"Aimme Keener",
+    "Title":"Choose a tribe.  Not a job.",
+    "Description":"We are all members of tribes.  If we take a job for a huge raise or a given technology, we can't pass up the fact that we are joining an existing tribe, a group of people that work together to solve a common problem.  Sometimes those tribes inspire you; sometimes they do not.  Why?  People.  When you pick your job, you are actually picking your tribe, a tribe that is going to have an impact on your career.  Be sure to select wisely. <br /><br />In this session, we'll discuss and/or run exercises covering:<br />- Why tribes are so important<br />- What a healthy tribe and an unhealthy tribe look and feel like<br />- How to identify how healthy your tribe is<br />- Why would you want to take your tribe to the next level<br />- How to avoid the \"I'm great, and you're not\" plateau<br />- How to build great tribes",
+    "Bio":"Aimme Keener is passionate about building collaborative, cross-functional, high performing teams. Aimme started using agile based frameworks to create these types of environments about ten years ago. It didn't take her long in her journey to realize that people problems were the biggest issue facing most software development companies. However, it was a only a few years ago that she understood the root of the \"people problem\": company culture. Since then, Aimme has spent her time and energy trying to make every organization a better place to work, play and do business. Aimme works for Cengage Learning as a sometime engineering manager and sometime software developer and is the organizer of Michigan Agile Enthusiasts meetings. A certified culture freak, Aimme also dabbles in lean start up and is a start up wannabee.",
+    "Headshot":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/248/120/0c6a8a5.jpg",
+    "Twitter":"@AimmeKeener"
+  },
+  {
+    "Name":"Vince Speelman",
+    "Title":"Creating Design Systems That Work",
+    "Description":"In a world of bootstrap, foundation, pure, topcoat, etc., designers are falling into a pattern – reusing the same ole' patterns for every project. You're solving a unique problem and you need a unique solution.<br /><br />Rolling your own design system can help you solve problems, make decisions, retain consistency, and create a meaningful and recognizable experience for your users. Follow along as I explain the rationale, process, tools, and techniques that go into creating a deliverable and documented design system – be it from scratch or derived from an existing product.",
+    "Bio":"My name is Vince Speelman I'm a front-end developer from Detroit, Michigan that loves moving the web forward. My weapons of choice are CSS, HTML, and JavaScript. I also love pre-processors (Sass, CoffeeScript) good tools (Vim, TMUX, Git, LiveReload), and people who care.<br /><br />I'm all about responsive web design, unwavering semantics, and modular code. I've created responsive web apps for multi-billion dollar financial institutions, social communities for teen pop idols, socially aware movements for anti-bullying campaigns, accessible sites for government organizations, and platforms for musical revolutions.<br /><br />I ship code outside of my day job and I fight for what's right inside of it. User experience is king. Accessibility and interoperability must not be an afterthought. Progressive enhancement is a mantra.<br /><br />Off-screen, I'm a musician, beer snob, and food lover.",
+    "Headshot":"http://i.imgur.com/iBoCzu3.jpg",
+    "Twitter":"@VinSpee"
+  },
+  {
+    "Name":"Jay Harris",
+    "Title":"Dethroning Grunt: Simple and Effective Builds with Gulp",
+    "Description":"Grunt is king. It is the ubiquitous task runner used for most nodejs projects and has quickly expanded to conquer other software ecosystems. However, its kingdom is vulnerable. Grunt does not align well with many nodejs paradigms and is notorious for its harsh learning curve. Meet Gulp, the challenger in the taskrunner revolution. Gulp’s easy configuration produces an easy learning curve, and its alignment with nodejs paradigms eliminates the friction. Grab your ticket, your foam finger, and your team-colored face paint and witness the battle, the revolution, and the crowning of Gulp.",
+    "Bio":"Jay is a code wrangler, software consultant, and president of Arana Software. He has been developing on the web since 1995, when the Blink tag lured him away from Visual Basic 3. With a career focus on user experience, Jay has a passion for practices that improve quality and user experience, such as performance optimization, unit testing, and proper grammar.",
+    "Headshot":"https://dl.dropboxusercontent.com/u/3407542/Headshot-Color-300x300.png",
+    "Twitter":"@jayharris"
+  },
+  {
+    "Name":"Scott Weber",
+    "Title":"Effective Use of the Volley Networking Library",
+    "Description":"Announced and released at Google I/O 2013, Volley is a powerful Android library that makes common, complex networking tasks vastly simpler. Even better, it is highly customizable and extendable, allowing for plenty of flexibility to work with your app's requirements. Unfortunately, there is not a lot of great documentation on how to use Volley, especially when you get past the most basic use cases. This talk will get you started with Volley and dive deeper to help you leverage its power and go beyond just loading images from the network.﻿",
+    "Bio":"Scott Weber is lead Android developer for the Mobiata-branded apps FlightTrack and FlightBoard at Expedia. He has been doing Android development for two and  a half years and finds something new to love about it almost every day.",
+    "Headshot":"http://i.imgur.com/SmCQHZv.png",
+    "Twitter":"@ScottDWeber"
+  },
+  {
+    "Name":"Dave Strock",
+    "Title":"Empathy as a Superpower",
+    "Description":"You've likely noticed our industry is in the midst of a grand struggle toward equality, the roots of which go back thousands of years through numerous cultures and many amazingly strong and inspirational individuals, but this talk isn't about that. <br /><br />This talk is about you. And the person sitting next to you.<br /><br />Everyone's heard the old adage that \"No software project has ever failed for technical reasons\", yet as an industry it seems the only thing we spend time and energy to improve are technical skills. Everyone nods when someone notes \"people are the hard part\", yet so-called \"soft skills\" often get little more than lip service. This is because, as they are usually taught, these soft skills do not address the root of the problem: the human mind. Humans are a complex system, each influencing and being influenced by an enormous complex system that we call life. So how is it some have a great capacity for peace, calmness, and compassion? It all starts with deeply understanding the process of our thinking and feelings.<br /><br />This talk is about the journey that starts when you begin actively cultivating empathy, both towards others and yourself. Along the way, we'll learn about tools that help us understand what we are thinking and feeling, the processes our mind uses to create those thoughts and feelings, and how to gradually make vast improvements to your life and the lives of those around you. Many of these tools you may already be familiar with but the application may be different. Others have been around for eons and are just beginning to be backed up by modern cognitive and neuroscience research. We'll re-frame many familiar concepts to gain a helpful perspective<br /><br />This talk won't tell you how to relate differently to people around you, but it will give you tools to clearly see the many systems in play in those interactions. Then you'll have the insight needed to alter that system.",
+    "Bio":"Dave is an embedded developer and Rubyist who has worked on projects as diverse as operating system kernels, safety critical systems, web apps, and 3D graphics rendering engines. He is the organizer of the Milwaukee Ruby users group and teaches a weekly programming class for kids.",
+    "Headshot":"https://pbs.twimg.com/profile_images/1498305795/head_shot.jpg",
+    "Twitter":"@davestrock"
+  },
+  {
+    "Name":"Chris Trevarthen",
+    "Title":"Estimation for the Real World",
+    "Description":"Estimation sucks. You can poker-plan and t-shirt-size like crazy, but it seems like as soon as you're done with one round, you're asked to re-estimate the whole project again.  Let's talk about how we can reduce the amount of time we spend by estimating when it makes sense, providing more meaningful estimates, and building trust with the business.",
+    "Bio":"Author of over two dozen tweets, Chris has been continuously re-estimating projects for almost 15 years. Chris has been a part of several waterfall and Agile projects, each one with the burning question: \"When will it be done?\"  In between estimates, he develops mobile apps for Detroit Labs where he also curates the Hot Vinyl Lounge.",
+    "Headshot":"http://static.squarespace.com/static/512050cfe4b068400108abd5/5254540ee4b05048ea3b7f4b/5266c0c2e4b0547c6f288493/1382553548618/ChrisT.jpg",
+    "Twitter":"@malusman"
+  },
+  {
+    "Name":"BJ Allmon",
+    "Title":"Feedback By Design",
+    "Description":"For decades rock music has benefitted from a glorious set of tones delivered to sets of ears across the globe. This wonderful thing is called feedback.<br /><br />Just like in music, we have glorious vibes of wonderful truth screeching through to us everyday. The only problem is we don't know how to listen to them or tune in to the right station.<br /><br />We are going to discuss the breath of agility. Feedback.                                 ",
+    "Bio":"Husband, dad, team builder, software developer and founder with songbird products, author, problem solver, innovator, music artist, landlord, deck swabber and life long learner.                                ",
+    "Headshot":"https://pbs.twimg.com/profile_images/378800000610146726/965761143f66c0ade28555c6b9fd2f11.jpeg",
+    "Twitter":"@bjallmon"
+  },
+  {
+    "Name":"Aaron Maturen",
+    "Title":"Forms, the Universe and Everything",
+    "Description":"It’s inevitable at some point you’re going to need a form on your website somewhere. Gone are the days of your Grandparent’s web forms. With the advent of HTML5 our options for types have exploded, it is now possible to make forms that are more functional, more usable, and a joy to use. That’s just using vanilla html, how much more trouble can we get in if we start playing with CSS and JavaScript? I for one, am tired of trying to use forms with the wrong input types on my smartphone. Won’t you join me in the coalition to end inferior forms, to make the world better for everyone?",
+    "Bio":"I'm a developer with 4 years of professional experience. I'm interested in all kinds of digital media, but my major focus is on designing websites and web applications. Recently I've been playing with AngularJS and Laravel and conducting usability testing to see if users find what I develop as intuitive as I think it is.",
+    "Headshot":"http://aaronmaturen.com/assets/me.jpg",
+    "Twitter":"@atmaturen"
+  },
+  {
+    "Name":"Alan Languirand",
+    "Title":"From Napkin to App",
+    "Description":"Start with a sketch, end with some code. <br /><br />How to help guide your clients through the app ideation process to create something that is credible for their brand, relevant to their customers, and differentiated from the rest of the marketplace. <br /><br />The first part of the talk is about a framework for that through process, the second a recommendation for tools and methods to get the job done. <br /><br />It's a version of this talk: <br />https://www.youtube.com/watch?v=0xFGyXLGxnI",
+    "Bio":"I'm a UI/UX designer at Apigee. I work out of our Detroit field office helping to build an IoT platform for makers and hardware engineers. <br /><br />I'm a graphic designer and photographer by education, and have over 7 years of experience with web technologies like HTML, CSS, JS and now Node. <br /><br />I love to bike, cook in large groups, sail, and go stand-up paddling. ",
+    "Headshot":"https://pbs.twimg.com/profile_images/3088922099/e9d262863c424b2090422e6eff5c0e94.jpeg",
+    "Twitter":"@13protons"
+  },
+  {
+    "Name":"Dan Wiebe",
+    "Title":"Fun With Felons: Places Mama Hoped You Wouldn't End Up",
+    "Description":"Discouraged because the number of experienced Agilists in the industry isn't growing fast enough?  Disappointed with the level of Agility coming out of colleges and universities?  Diffident about the value you've received from offshore teams?  Me too.  Good news: those aren't the only places available to look for skilled Agile software developers can be found!  In this presentation I'll flesh out the rumors you've heard about Coding in the Clink, talk about how it came to be, and speculate about what it could mean to you and your future.",
+    "Bio":"Dan has been developing software for 45 years and, after a long and checkered career, has come home to roost at Pillar Technology, where he mostly pairs with  client developers as a coach in Agile methodologies.  For about half that long, he's been a volunteer for a Christian prison ministry known as Kairos.  For about half <i>that</i> long, he's been helping prisoners learn to be Agile software developers.  He's a fan of Perlis languages, business value, and turning up the juice to see what shakes loose.",
+    "Headshot":"http://i.imgur.com/sYpw2yS.jpg",
+    "Twitter":"@dnwiebe"
+  },
+  {
+    "Name":"Julie Cameron",
+    "Title":"Getting Sassy with CSS",
+    "Description":"I don't know about you, but vanilla CSS always leaves me wanting more.  It's a fairly simple language, can do some pretty powerful things, but after a while.. well, it can become rather tedious to work with.  Enter Sass: Syntactically Awesome Stylesheets.  Sass is a CSS meta-language and precompiler that makes the prettification of your website a breeze by adding invaluable features of more traditional programming languages.  In this session, we'll jump right in to the Sass workflow and cover all the key game changers - nesting, variables, mixins, inheritance, and directives.  We'll also cover some of the gotchyas, tools and extensions, and tips for organization and coding standards.",
+    "Bio":"Julie Cameron is a frontend developer for Articulate working in the metro-Detroit area.  Julie is a fan of Sassy CSS and modular architecture, responsive web design, and is a student of JavaScript and self-improvement.",
+    "Headshot":"http://www.gravatar.com/avatar/f49c5780805d9e50bdc348069a7db59d.png?size=200",
+    "Twitter":"@jewlofthelotus"
+  },
+  {
+    "Name":"Magnus Stahre",
+    "Title":"git gone wild: how to recover from common git mistakes.",
+    "Description":"\"Oh no! I just typed something into git and now my work is gone! Ahh!\"<br /><br />Don't panic. Contrary to popular belief, git is one of the most non-destructive version control systems available. When used right, git<br />never loses any data, and even when misused, chances are very high you can still recover.<br /><br />This talk will present turn-by-turn directions on how to recover from a wide array of common git mistakes, and also provide some workflows<br />to minimize them.<br /><br />Examples include, but are not limited to:<br />* Changing spelling errors in commit messages.<br />* Split commits into multiple commits with logical separation.<br />* Combining multiple commits into one.<br />* Resetting the base commit when you accidentally branch off of the wrong branch.<br />* Recovering from merge conflicts.<br /><br />As well as more advanced topics, such as:<br />* Extracting parts (e.g. sub-directory) of a repository as a new repository.<br />* Merging multiple repositories into one while retaining version history.<br />* Removing confidential data accidentally committed.<br />",
+    "Bio":"\"Forged of iron and walrus blood, Magnus Stahre comes from an ancient line of nordic code smiths. His technology engineering heritage was primarily responsible for preventing the narwahl invasions of Sweden in both 1683 and 1915. As a craftsman of such pedigree, Magnus knows from generation of experience meticulously hand-crafting from some of the worst raw-material code out there that the only way to have exquisite code is with expertly wielded revision control. Mere mortals must often avert their gaze from his profound use of git to avoid being paralyzed in awe.\"<br /><br />- Nathan Dotz (@nathandotz)<br /><br />\"Magnus is a local software engineer known far-and-wide as a master of all, and one with the version control.\"<br /><br />- Andrew Sardone (@andrewa2)<br /><br />\"Magnus fed > 5000+ people with < 3 fishes && 5 loaves\"<br /><br />- James York (@kroysemaj)<br /><br />\"Magnus is mostly harmless.\"<br /><br />- Magnus Stahre (@magnusstahre)™",
+    "Headshot":"https://pbs.twimg.com/profile_images/1927778787/IMG_6728.jpg",
+    "Twitter":"@magnusstahre"
+  },
+  {
+    "Name":"Brandon Linton",
+    "Title":"Go Team!",
+    "Description":"Trust, communication and collaboration between team members are critical elements to the success of any Agile team, but fostering the environment for those things to occur takes time and can be a challenge for new or growing organizations.  This session will highlight methods that are useful for making the most of day-to-day interactions and important ceremonies to improve the state of affairs within your team and organization using real-life examples as mini case-studies.",
+    "Bio":"Just a city boy born and raised in south Detroit (Windsor), Brandon Linton officially started his career in product development in a tent in Fort McMurray, Alberta in the summer of 2007.  That adventure got old quick and he left Never Never Land for more sensible career opportunities in project leadership/mobile apps.  Longing for Tigers baseball and Buddy’s Pizza, Brandon returned to Detroit in 2010 to take a role as Mobile Application Product Owner at General Motors and has been falling off of bar stools in the 313 ever since.",
+    "Headshot":"http://photos3.meetupstatic.com/photos/member/5/6/3/8/member_103222072.jpeg",
+    "Twitter":"@brandon_linton"
+  },
+  {
+    "Name":"Baraa Basata",
+    "Title":"Hello Ansible: a story about infrastructure agility",
+    "Description":"This is the story of how our team is automating our infrastructure using Ansible (http://ansible.com). The story is told from the perspective of a software developer with an interest in operations.<br /><br />In the talk, we will get familiar with Ansible using simple examples. We'll then see how to assemble Ansible's basic building blocks into reliable and repeatable playbooks for server configuration.<br /><br />We will briefly compare Ansible with other tools that we have used, such as Chef and Capistrano. We will visit other technologies along the way, including Packer (http://packer.io) and Amazon Web Services.<br /><br />Beyond specific tools, the talk will also explore practical principles for succeeding with automation, such as disposable servers, package management, and applying software design principles to infrastructure automation.",
+    "Bio":"I am a team-oriented, value-driven software delivery professional. I help businesses to raise the bar for delighting their customers through technology delivery. I reside in Flint, Michigan, and I work with a team that is distributed cross-country from Virginia to California.",
+    "Headshot":"http://0.gravatar.com/avatar/9ca621fb982fd8664ecd168426518620?size=400px",
+    "Twitter":"@baraabasata"
+  },
+  {
+    "Name":"Steve Keinath",
+    "Title":"High Schoolers Made an App",
+    "Description":"Students from the Jackson Area Career Center worked with elementary kids to create a writing prompts app called, Things to Think About - http://bit.ly/TTAapp   They used Corona SDK to code once for both iPad and Android.  The iPad app has over 7,500 installs.  Current students are working on adding features and updating code to new APIs.",
+    "Bio":"Steve Keinath has been teaching Programming at the Jackson Area Career Center for thirteen years.  His students are high school juniors and seniors interested in learning programming to make cool things.",
+    "Headshot":"https://pbs.twimg.com/profile_images/2457866229/e7o8fqgrh955kwx4aoh9.jpeg",
+    "Twitter":"@keinath"
+  },
+  {
+    "Name":"Mark Stanislav",
+    "Title":"How We're Failing to Secure the \"Internet of Things\"",
+    "Description":"This presentation will do a deep dive into security research, outcomes, and recommendations for two very different contexts of improperly securing the \"Internet of Things\".<br /><br />Discussion of network protocols, iOS reverse engineering, firmware security, cloud APIs, and other technical topics will be presented in a straight-forward manner to help ensure that every attendee walking out will know what avenues lead to failure when designing software for Internet-enabled devices.<br /><br />Hear first hand about the research Mark has conducted that has exposed critical failures in seemingly secure devices that inadvertently put consumers at risk for compromise of personal data and worse. Mark will also explain a best practices list of what to do if a security research ever contacts you to make sure the process goes as well as possible for your company.<br /><br />If you're a developer who plans to work on embedded devices (especially with a mobile component) this talk will give you real-world examples of what not to do with your software. Don’t make the same mistakes others have as we continue to quickly expand the network of connectivity-centric devices populating our homes, businesses, and pockets.",
+    "Bio":"Mark Stanislav is the Security Evangelist for Duo Security, an Ann Arbor, Michigan-based startup focused on two-factor authentication and mobile security. With a career spanning over a decade, Mark has worked within small business, academia, startup, and corporate environments, primarily focused on Linux architecture, information security, and web application development. <br /><br />Mark has spoken internationally at over 75 events including RSA, ISSA, B-Sides, GrrCon, Infragard, and the Rochester Security Summit. Mark’s security research has been featured on web sites including CSO Online, Security Ledger, and Slashdot. Additionally, Mark is an active participant of local and nationals security organizations including ISSA, Infragard, HTCIA, ArbSec, and MiSec.<br /><br />Mark earned his Bachelor of Science Degree in Networking & IT Administration and his Master of Science Degree in Technology Studies, focused on Information Assurance, both from Eastern Michigan University. During his time at EMU, Mark built the curriculum for two courses focused on Linux administration and taught as an Adjunct Lecturer for two years. Mark holds CISSP, Security+, Linux+, and CCSK certifications.",
+    "Headshot":"http://www.rsaconference.com/writable/speakers/photo/520x520centertop/mark_stanislav.jpg",
+    "Twitter":"@markstanislav"
+  },
+  {
+    "Name":"Ryan Albertson",
+    "Title":"If you wish to make a mobile app, first you must invent the universe.",
+    "Description":"You have your great idea, you know how its going to work under the hood, but you have no idea how it should look. Whether you plan to make your app cross platform or have it be the iApp. The only way to get any users to download your app is to convince them in 5 pictures or less that your app is great. <br /><br /><br />Easy, right? <br /><br />In this talk I go from start to finish mocking up and designing the look, feel, and experience of a mobile application.                         ",
+    "Bio":"After seven years of pretending he knows what he is doing, Ryan Albertson settled into the glamorous life of a graphic  designer. Fast cars, hot nightclubs, beautiful women... Ryan designed them all, working out of his tiny, one-bedroom apartment. Today he does User Experience & Graphic Design, working on web and mobile applications and attempting to convince clients that pink is not the color of the future.",
+    "Headshot":"http://giard.smugmug.com/Tech-Community/Great-Lakes-Area-Net-User-1/i-XSjfGST/0/M/IMG_5272-M.jpg",
+    "Twitter":"@PellHelix"
+  },
+  {
+    "Name":"Joseph Guadagno",
+    "Title":"Introduction to Bootstrap",
+    "Description":"Twitter Bootstrap is a \"Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development\". Let's see how using Twitter's Bootstrap can make your website come alive with little work.  We'll walk through:<br />· Getting started with Bootstrap<br />· The Layout Framework<br />· The Styling Bootstrap gives to basic HTML controls<br />",
+    "Bio":"I have been in software development for about 15 years or so. I started out with a small book on QuickBASIC, then moved the Visual Basic for DOS, then Visual Basic for Windows, then Visual Basic .NET and eventually Visual C#. When I am not working at my full time job I donate my time to several community efforts like:<br /><br />Former President of INETA North America, currently Vice President.<br />Founder of the Southeast Valley .NET User Group (SEVDNUG) in Chandler, AZ.<br />Serving on my City's Parks and Recreation board.<br />I have or have had the following \"MVP\" awards:<br />Visual Basic MVP in 1996<br />C# MVP since 2009<br />Telerik MVP from 2010 to 2012<br />I maintain a Open Source project on CodePlex which wraps the Bing API called BingSharp.<br /><br />I also help / organize or participate in several community events:<br />Desert Code Camp<br />AZGiveCamp<br />Organizer for the 1st Time MVP event at the MVP Summit<br />MVP 2 MVP Sessions at MVP Summit.<br />Awesome bean pusher at GeekGive at the MVP Summit.",
+    "Headshot":"https://mrytkg.dm1.livefilestore.com/y2mGD-sAm-Z9m6h3vNnn2PUEbtbi6uGc3Ec3o5W3L37XWeGVpspSdJW56WJXz8NzXLW_Jy0-nklVO3JBaqynVWGGGQLeQ_OGoL5gfuPg6I0REc4OWMiPRH32_zSCjRJ_F3y/jguadagno_headshot_small.png?psid=1",
+    "Twitter":"@jguadagno"
+  },
+  {
+    "Name":"Bill Wagner",
+    "Title":"Introduction to TypeScript",
+    "Description":"Intro to TypeScript <br />Javascript is the assembly language for the web. Does that make TypeScript the  Next Big Thing (tm)? <br />It's too early to tell, but it's one of the paths developers and teams can choose to be more productive writing large-scale applications for the web. <br />In this session, we'll go through the basics of TypeScript syntax, and how to integrate TypeScript with common javascript libraries. You'll learn the basics of TypeScript, and have a basic understanding of the language.  You'll leave with the basic skills in TypeScript to continue your own learning of this new language.<br /><br />                                ",
+    "Bio":"Bill’s time is spent between curly braces, primarily with C#. His technical areas of focus are C#, .NET, TypeScript. His other, non-coding passion is to help organizations build effective, high-functioning developer teams.<br /><br />Bill is the author of the best selling \"Effective C#\", now in its second edition, and \"More Effective C#\". He has created LiveLessons on Async programming in C# and C# Puzzlers. His articles have appeared in MSDN Magazine, the C# Developer Center, Visual C++ Developer's Journal, Visual Studio Magazine, ASP.NET Pro, .NET Developer's Journal and more. He's written hundreds of technical articles for software developers. He actively blogs about technical and business topics. Bill is also a regional director for Microsoft.<br />",
+    "Headshot":"http://thebillwagner.com/Media/Default/Page/DSC_4599-Edit-Small.jpg",
+    "Twitter":"@billwagner"
+  },
+  {
+    "Name":"Alex Koppel",
+    "Title":"iPads everywhere: Working with tablets at scale",
+    "Description":"How do you manage a hundred thousand Internet-enabled devices scattered around the country? As smartphones proliferate and everything from thermostats to light bulbs connect to the Internet, this isn’t just a question for academics and huge corporations anymore. <br /><br />At eSpark, we work with teachers and students across the country to provide education using a personalized iPad-based curriculum. Over the last two years, we’ve seen explosive growth in the number of tablets at schools: tablets that require a unique, personalized curriculum of apps; tablets that are not always reliably on wifi; tablets that are often use by kids who haven’t yet learned to read.<br /><br />In this talk, I’ll share what it’s like to go from deploying iPads to a few schools in places like Utica and Romeo near Detroit up to a hundred districts and now beyond, and how we solved the challenges we encountered: building tools atop reverse-engineered iTunes APIs, creating our own mobile device management (MDM) system from scratch, tracking state across multiple systems (including our native iPad app and sometimes-unreliable third-party systems). Along the way, I’ll also show how having a scalable, responsive infrastructure for managing iPads will allow us to innovate and improve K-8 education in future years.<br /><br />",
+    "Bio":"Alex is a senior engineer at eSpark learning, using technology to make an impact on the way students learn. Previously, Alex led the API and infrastructure team for Wunderlist in Berlin, built a social marketing platform at what is now Adobe, and led part of a massive electronic medical record project. He’s active in the open source community as the author of the Koala Facebook gem, and has spoken at conferences and meetups in Europe and the US. Alex studied computer science and scavenger hunts at the University of Chicago.",
+    "Headshot":"http://www.gravatar.com/avatar/5c442951c4a3d0315580f45e4ffe551f.png?s=1000",
+    "Twitter":"@arsduo"
+  },
+  {
+    "Name":"April Jefferson and Gerry Kirk",
+    "Title":"It's Your Fault!",
+    "Description":"Is your team pointing the finger at one another? Does development hold responsible the business and is the business accusing development? Is everyone to busy pointing the finger to address the problems? Discover how to recognize blame, foster a safe culture, and move beyond it. Come to this interactive talk to discover ways to change culture, leave with tools to help you initiate change immediately, and learn from observations and experiments from real experiences with various teams in different organizations in different size businesses.",
+    "Bio":"April is an agilest passionate about helping deliver world class software to customers whether as a team member, facilitator, or coach. Has worked in IT for over thirteen years with an agile journey that began nine years ago as an XP team member. Currently working as a scrum master and process coach with multiple Scrum/XP teams.<br /><br />Gerry focuses on improving individual, team, project, program and portfolio performance in the context of organizational change – specifically in reducing the time it takes to move from the birth of an idea to the delivery of customer value. He specializes in bringing to life change initiatives involving Agile, Lean and Kanban, whether it’s across your team, group, division or organization. He delivers creative, engaging learning using training from Innovation Games® and Training from the Back of the Room.",
+    "Headshot":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/082/2a1/29a3e7e.jpg",
+    "Headshot2":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/05c/0ce/193e1a3.jpg",
+    "Twitter":"@gerrykirk"
+  },
+  {
+    "Name":"James York",
+    "Title":"Jr. Developer's Survival Guide",
+    "Description":"Are you a new developer? Are you new to the professional world of software development? Are you wondering why college and/or the School of Hard Knocks did such a bad job preparing you to be functional on a team? Take some advice from someone who's walked the path, avoid some of the mistakes I made and have seen others make. ",
+    "Bio":"James York is a musician-turned-software-developer who likes knowing stuff. He builds AngularJS apps for OnStar's connected car platform. He has previously worked in Enterprise Java and other Enterprise-y sounding things that are both impressive and forgettable.",
+    "Headshot":"http://www.gravatar.com/avatar/77da3b4d41f980aad1a08076f3ecd661.png",
+    "Twitter":"@kroysemaj"
+  },
+  {
+    "Name":"Jeff McWherter",
+    "Title":"Leading through Uncertainty ",
+    "Description":"Some say the only certainty in life is death and taxes. We face uncertainty in the business world every day: how clients will react to budget and deadlines, how employees deliver the end product, and getting the next contract are uncertainties I regularly face. It is possible to commit no mistakes and still lose, because there is always uncertainty. <br /><br />As a business leader, I have learned controlling how uncertainty is handled can lead to success. In this talk, I will discuss how honesty and transparency, as well as motivating and inspiring employees can help reduce uncertainty in the business world.  ",
+    "Bio":"Jeff McWherter is the Director of Development at Gravity Works Design and Development (www.GravityWorksDesign.com). Jeff graduated from Michigan State University with a degree in Telecommunications, and has fourteen years of professional experience in software development. He is a founding member and current Vice President for the Greater Lansing Users for .NET (GLUG.net). He enjoys profiling code, applying design patterns, finding obscure namespaces, and long walks in the park. His lifelong interest in programming began with a Home Computing Magazine in 1983, which included an article about writing a game called Boa Alley in BASIC. Jeff currently lives in a farming community near Lansing, MI. When he is not in front of the computer he enjoys rock and ice climbing with his smart and beautiful wife; which leads to his favorite activity of all, road trips.",
+    "Headshot":"http://www.gravityworksdesign.com/Portals/0/Photos/About/Gravity-Works_Jeff-McWherter.jpg",
+    "Twitter":"@jmcw"
+  },
+  {
+    "Name":"Victor R. Volkman",
+    "Title":"Learn Python in one hour",
+    "Description":"You'll learn enough Python in this workshop to get you writing scripts to solve real problems. Starting with a blank screen, you'll watch a live coding demonstration of a program in seven distinct stages from script to procedural (functions) to full fledged object-oriented program.  When completed, the program will will analyze text files for word frequency and build an index.  ",
+    "Bio":"Victor R. Volkman graduated cum laude from Michigan Technological University with a BS in Computer Science in 1986.  Since then, he has written for numerous publications including The C Gazette, C/C++ Users Journal, Windows Developers Journal and many others. Victor has 30 years of programming experience in SouthEastern Michigan. He has taught college-level programming classes at Washtenaw Community College and has served on the CS Faculty Advisory Board for more than a decade.  You can find books he has written on Amazon.com",
+    "Headshot":"http://www.lovinghealing.com/authors/VictorVolkman_2012.jpg",
+    "Twitter":"@vvolkman"
+  },
+  {
+    "Name":"Daniel Davis",
+    "Title":"Learning Agility over Learning Agile",
+    "Description":"We've all caught some of the hype around \"agile\" and most have at least heard (if not directly seen) its benefits. In this talk, we are going to dive deep into one key aspect - Continual Learning.  We'll discuss how it has become a staple for our modern day technical careers; how if you aren't growing, adapting, and evolving you're stagnating and how eventually you won't outgrow your job - it will outgrow you.  We'll then investigate the factors of Learning Agility and explore ways that we can use it to help us not just survive, but thrive in our current environments.",
+    "Bio":"Daniel Davis is a Business Improvement Consultant, Agile Practitioner/Developer, Innovator, Hacker, and Maker. He has been working in Agile and Agile Software Development for the last nine years. Currently, he is a Delivery Lead with Pillar and has spent the last few years focused on driving solutions at an enterprise level working with companies such as Delphi, AAA Life, General Motors, Blue Cross Blue Shield, Cengage Learning, and Delta Dental. Daniel's prior work background includes a wide range of disciplines such as mobile development, web development, design, marketing, and photography. His prevailing passion lies in helping businesses and people discover the true value in their efforts.",
+    "Headshot":"https://lh3.googleusercontent.com/-ncPF665rXAw/UpYNcEAPyMI/AAAAAAAAAI4/RKeZ854JIak/s898-no/crazy-hair-dano.jpg",
+    "Twitter":"@daniel_davis"
+  },
+  {
+    "Name":"Leon Gersing",
+    "Title":"Leon's Allegory of the Cave",
+    "Description":"What is the role of the software developer in the modern world? We are more educated now than during any time in recorded human history. We have more access to tools and the ability to craft our own in order to better communicate with one another; to see the world in all of its various forms, beautiful and strange. All of this information, all of this knowledge and yet the quest for truth, understanding and wisdom has become increasingly strained. We adopt the ideologies and rituals of archetypes instead of masters and therein feel the hollowness of the modern human condition. In this session, I will present to you the teachings of my masters as I have come to understand them and the wisdom I’ve gained over the years in my relentless pursuit for truth in the modern world. Our collective existential ennui is distorting the very fabric of reality. Seeing the world as it truly is can free our minds to the infinite possibilities that lie before us. Can we be more than the context we are born into? Can we rise above the confining binds of hierarchy, class, status and the distortions of those we choose to associate ourselves? Let’s take some time to remember who we are, where we are going and discover, perhaps, why we are here.",
+    "Bio":"Leon tends binary zen gardens. He currently works with the wonderful folks at GitHub building tools to make collaboration even better for developers. An avid public speaker, Leon travels the region speaking on topic ranging from learning Ruby to humanity's quixotic reverence for time and it’s impact on the collective unconscious. Leon loves hats, being barefoot and talking for hours with friends old and new. His favorite languages currently are Ruby, JavaScript, Objective-C, and Go. You can find him online at leongersing.com.<br />",
+    "Headshot":"http://d13pix9kaak6wt.cloudfront.net/background/leongersing_1327030832_56.png",
+    "Twitter":"@rubybuddha"
+  },
+  {
+    "Name":"Jonah Bailey",
+    "Title":"Living Happily Ever After in Balanced Team Land",
+    "Description":"By now, we've all heard about how awesome it is to work on a balanced team. But sometimes life on balanced teams doesn't end happily ever after. Developers can become trolls under bridges and designers can act like princesses in ivory towers.   There is a chasm between what designers create and the reality of what is developed. As designers in ivory towers, we often throw our design deliverables at a development team and trust them to cross that chasm to make our designs reality. On the other hand, developers excel at logically creating an interface between humans and machines that speak in 1's and 0's. But sometimes what they create doesn't connect with the heart of users. <br /><br />In this presentation, participants will gain understanding of how designers view developers and engage in strategic activities that will positively influence the software development process. By understanding the bounds between what designers and developers do in the creation of software, we gain empathy for our team members. We understand what they need from us, when they need it and how we can best communicate. I will also advocate for clear activities and strategies that will promote empathy and communication within teams while setting developers free to be developers and designers free to be designers.",
+    "Bio":"Jonah is a multidisciplinary designer whose practices begin and end with empathy. His experience, both in life and academia, has taught him to approach each opportunity as a tabula rasa, setting aside assumptions and letting the truth rise to meet him through research and thoughtful consideration. Jonah doesn't ever shy away from challenging visual design tasks, but believes that a pretty solution without empathy is, at its foundation, hollow. There are days he wishes he'd gone to art school instead of studying European history, but believes that doing so has given him an invaluable understanding of human nature and the systems to which we adhere or break from.",
+    "Headshot":"http://www.mutuallyhuman.com/assets/avatars/jonah-bailey/face-full-a6f902e60c0e9deabcafd25eff17d5c0.jpg",
+    "Twitter":"@jonahbailey"
+  },
+  {
+    "Name":"Adam Goodman",
+    "Title":"Making Web Development \"Secure by Default\"",
+    "Description":"The OWASP Foundation maintains a list of the top 10 most critical types of web security vulnerabilities. In the last decade, many of the entries on the list have remained constant, even though they represent issues that are quite well­ understood by the software security community. Worse, when new vulnerabilities are discovered, we still often see developers employ a “whack-a-mole” patching strategy that may block a particular exploit, but does nothing to prevent similar issues from recurring.<br /><br />This talk will explore a much broader and more systemic approach to mitigating some common types of web vulnerabilities, by demonstrating how well­-designed frameworks (and other tools) can eliminate some entire classes of vulnerabilities from web applications. Together, these examples will illustrate a different mindset to security bugs which, when applied correctly, can greatly improve software quality in general.",
+    "Bio":"Adam Goodman is Principal Security Architect at Duo Security, where he and his cohorts work to radically improve the ease-of-use in strong authentication systems. He was previously a founding engineer at Zattoo, Europe's leading live-streaming Internet TV operator, where he led the development of secure P2P distribution and digital rights management protocols. Adam enjoys bicycles and craft beer (sometimes in close proximity to one another), and has a fondness for puns that has led to many threats of bodily harm...",
+    "Headshot":"http://i.imgur.com/OV3uKRx.jpg",
+    "Twitter":"@akgood"
+  },
+  {
+    "Name":"Brian Korzynski",
+    "Title":"Math is everywhere and why you should care",
+    "Description":"As developers, we are surrounded by math. While much of it is hidden or abstracted away by our language of choice, understanding it will allow you to make better decisions. Do you really know the difference between a linked list and a hash table? How about a tree or a trie? The data structures and algorithms we use daily are bursting with math, and being aware of the basics can mean the difference between success today and failure next year. Topics covered will include LINQ in C#, underscore.js, map/reduce, recursion, and combinatorics.               ",
+    "Bio":"Brian Korzynski is the lead developer of a .NET consulting firm based in Troy, MI. During his 5+ years of experience as a developer he has done everything from database development with WinForms to enterprise level web applications. He specializes in software engineering & architecture, .NET, SQL Server, MVC, and mathematics.",
+    "Headshot":"http://www.gravatar.com/avatar/b7787634d9e6f488d2b9f314d6ef5946.png",
+    "Twitter":"@bkorzynski"
+  },
+  {
+    "Name":"Jason Bock",
+    "Title":"Modern .NET Development Practices and Principles",
+    "Description":"Terms, acronyms, and phrases like \"loose coupling\", \"SOLID\", \"unit testing\" are becoming prevalent in developer jargon. No matter what kind of applications you write, these techniques are essential to writing maintainable, resilient pieces of code. However, it's also quite common that many developers don't know what these concepts are, yet want to learn about them with clear, concise language. If you're a developer that wants to understand these ideas but haven't had the time to focus on them, this presentation is for you. We'll cover topics like dependency injection, mocking, and testing, just to name a few. At the end of this session, you'll have a foundational understanding of these ideas that you can use right away in your current (and hopefully future!) projects.",
+    "Bio":"Jason Bock is a Practice Lead for Magenic (http://www.magenic.com) and a Microsoft MVP (C#). He has worked on a number of business applications using a diverse set of substrates and languages such as C#, .NET, and JavaScript. He is the author or co-author of a number of technical books, including \"Metaprogramming in .NET\", \"Applied .NET Attributes\", and \"CIL Programming: Under the Hood of .NET\", and he has written articles on software development issues and has presented at conferences and user groups. He is a leader of the Twin Cities Code Camp (http://www.twincitiescodecamp.com). Jason holds a Master's degree in Electrical Engineering from Marquette University. Visit his web site at http://www.jasonbock.net.",
+    "Headshot":"http://www.jasonbock.net/jb/images/Portrait.png",
+    "Twitter":"@jasonbock"
+  },
+  {
+    "Name":"David Giard",
+    "Title":"Own Your Own Career – Advice from a Veteran Consultant",
+    "Description":"I have witnessed or committed many mistakes during my decades of consulting. I will pack into this presentation as much advice as I can about managing your career and your customer as you traverse the wilds of consulting. I’ll start with ways to take ownership of your career and responsibility for achieving your goals; then, I will teach key lessons on working with your customer in a way that benefits you both.                                ",
+    "Bio":"David Giard is a former accountant and a former biochemist, who has been developing solutions using Microsoft technologies for over 2 decades.  Currently, David helps people build solutions in his role as a Microsoft Technical Evangelist. David has been very active in the developer community, speaking at numerous major conferences, code camps, and user groups; helping to lead user groups; and helping to organize conferences and other geek events. He is the host and producer of the mildly popular online TV show Technology and Friends. He is the co-author of the Wrox book Real World .NET, C#, and Silverlight. You can read his latest thoughts at www.DavidGiard.com.  His hobbies include video, photography, sports, and embarrassing his sons.                                ",
+    "Headshot":"https://tena2013.eventpoint.com/resources/documents/p/tena2013/photos/913a496b-7099-e211-ae09-001ec953730b.jpg",
+    "Twitter":"@DavidGiard"
+  },
+  {
+    "Name":"Andrew Kehrig",
+    "Title":"PHP misses you.",
+    "Description":"PHP has been long relegated to the Wordpress, Drupal, Joomla, and cheap shared-hosting crowd. You've long since dismissed PHP entirely, but the times have changed!<br />I hear your retorts; I've seen the countless \"PHP Sucks\" blog posts, but hear me out - there's a reason PHP is still super popular, and I'd like to show you how it has all the fancy asynchronous, functional, generator, event-driven, non-blocking I/O goodies that your heart desires with a syntax that you're probably already familiar with.<br /><br />PHP misses you, and with greater performance enhancements coming faster than ever before thanks to HHVM, maybe you could make some time to come visit it?",
+    "Bio":"I'm a software developer that has historically worked in Perl and PHP though I've worked on projects in Objective-C, Java, Python, and Ruby.<br /><br />I've mainly worked for very corporate companies such as Level 3, Global Crossing, and Consumers Energy but have also done consulting gigs in the past specializing in custom software development, custom VoIP PBX solutions, and virtualized infrastructure deployments.<br /><br />My biggest project to date has consisted of writing software to manipulate and transfer alarming data for one of the largest fiber optic networks in the world; I also have an adopted pug named Gainsborough. I feel the latter of those two statements is the most braggable.",
+    "Headshot":"https://pbs.twimg.com/profile_images/178578911/andrew.jpg",
+    "Twitter":"@andrewkehrig"
+  },
+  {
+    "Name":"Lien Van Den Steen",
+    "Title":"Pivoting myself or How I stopped hiding behind the word “junior” in “Junior Web Developer”",
+    "Description":"This talk will give more insight on how you can turn being \"just a junior\" into a wonderful experience where you can learn a lot. It begins on how I felt being a junior and the common mistakes I used to make. Using being a junior as an excuse and/or making myself feel bad because I was only a junior. Until I didn't want that anymore and I started the make some changes. I'm living an awesome life now. When talking to peers, I found out they had the same troubles, so with this talk I would like to show what I changed and I'm absolutely 100% sure that a lot of those things are applicable for my peers. ",
+    "Bio":"I'm a web developer for Engagor, a company based in Gent, Belgium and San Francisco, California. I was a buspreneur on the StartupBus where I co-founded Plumer, an A/B testing tool for online dating profiles.<br /><br />I'm passionate about hackathons and StartupWeekends. I'm splitting my time between Gent, Belgium and Phoenix, Arizona. <br /><br />Since I'm a social female developer, I feel like I should take advantage of that fact to use my voice to reach out to more people. I hope some people will be inspired by it. ",
+    "Headshot":"https://pbs.twimg.com/profile_images/1825342672/image.jpg",
+    "Twitter":"@lienvdsteen"
+  },
+  {
+    "Name":"Kaitlin Flynn",
+    "Title":"Programming life by coding with DNA",
+    "Description":"Your body is made up of tiny cellular machines, that are controlled by many other tiny protein-based robots. Recent advances in science and technology have made redesigning and directing these robots easier than filing your taxes-- and with much more of a payoff, to boot! This exciting field, called synthetic biology, uses genetic toggle switches, logic gates and other toolkits to create complex bacterial systems that sense their surroundings, compute or calculate a response, and then deliver the effect-- just like simple input and output systems. This type of engineering and tight control over biologicals has enormous and awesome potential for design of therapeutic systems, curing complex diseases and creating useful consumer products. Imagine a toothpaste that is full of predatory bacteria that will prevent cavities from forming, flashlights that glow without electricity or mats of cells that can transport electrical current as they grow. This talk will start with the basics of biology and DNA \"code\", transition into discussing the components to write complex \"functions\" within cells and discuss the \"compiler\", or the bacteria that put it all together, to complete a successful cellular program. ",
+    "Bio":"Kaitlin Flynn is a 4th year PhD candidate in Microbiology and Immunology at the University of Michigan Medical School. Kaitlin studies genetic regulation of the spread of antibiotic resistance in the lung pathogen Legionella pneumophila. Kaitlin got interested in programming for biology after taking her first C++ class at Michigan. She is originally from Holland, Michigan and also holds a Bachelor's in Biochemistry, as well as loves to run, eat sushi and drink beer. ",
+    "Headshot":"https://media.licdn.com/media/p/8/000/21a/0b2/2e78864.jpg",
+    "Twitter":"@runforsushi"
+  },
+  {
+    "Name":"Gabbie Gibson",
+    "Title":"Resistance is Futile you Will be Glass-imilated",
+    "Description":"Seen Google Glass in the wild? Wanted to learn how to make apps to run on it?<br />If you answered no to any of these questions, then come and learn what you have been missing out on! Of course, if you said yes, then you already know that this is the session for you.<br />In this talk, I will go over the basics of what Google glass is and isn't. I will demo the Google Glass that I have had since I got into the explorer's program in November 2013, which will be available for people to try after the session.Of course, since this is a technical conference, I will spend the majority of the time going over how to write native Glassware apps that will run directly on the device. I will go over how to use the voice commands, the touch gestures, and using the specific interface that glass provides. In addition to learning the technical details of how to write code for the glass, all examples I provide will be test driven and made available on Git Hub.",
+    "Bio":"Game developer, gamer, musician, and oh yeah, polyglot software craftsman. I am an avid fan of AR (augmented reality) and game development, which is why I was happy to pay more money than I should to be a part of the Google Glass Explorers program. It is something that I am passionate about, and hope to share that passion with you! As for the boring bits, I have been developing professionally for 8 years in a number of different languages, and multiple platforms, from back end java webservices, to flash webgames, to automated cucumber test suites and of course, mobile applications. I have been doing agile development for most of them, and am happy to consider myself a software craftsman who is interested in improving her skills!",
+    "Headshot":"https://pbs.twimg.com/profile_images/2706931002/0830d05aa8cbe60a7b3db47f37d65b37.jpeg",
+    "Twitter":"@GabbieGibson"
+  },
+  {
+    "Name":"Matt Shwery",
+    "Title":"Reusable Charts with d3.js",
+    "Description":"With Big Data becoming more and more prevalent, we are being tasked to create custom visualizations to our users and stakeholders. Data drives our business intelligence, applications, gamification, and our quantified selves.<br /><br />D3.js is a fantastic library for creating compelling, completely customizable visualizations with that data. It focuses on providing great tools for svg composition to create data-rich visuals, but doesn't really give you much in terms of reusability. We'll take a look at how we can work towards reusable visualizations with D3.js so you can keep on creating those beautiful big-data-powered dashboards.<br /><br />Takeaways:<br />- D3.js best-practices<br />- Identify patterns in D3.js<br />- Create lean, reuseable charts",
+    "Bio":"Matt Shwery is a hybrid developer-designer, who specializes in UI design. His knack for simple, semantic markup and rich JavaScript applications has helped raise dev standards in New Orleans, Louisiana. He has brought beautifully functional pattern libraries and living styleguides to the booming startups in his region. Senior Front-end Developer at Federated Sample, Matt is charting a new path forward to transform the tools for the next generation of market research.",
+    "Headshot":"http://farm8.staticflickr.com/7355/12908448205_f77a65a184_o.jpg",
+    "Twitter":"@mshwery"
+  },
+  {
+    "Name":"Terry Wiegmann",
+    "Title":"Rock Your Retrospectives!",
+    "Description":"Are your Retrospectives in retrograde? Are they dull, boring and predictable? Are they like bad cover versions of something that once was great? While the work of retros is serious, it doesn't have to be somber. Terry presents a variety of ideas to amp them up! Learn how to get the most out of retros and make sure it's an investment not a cost. You're sure to come away with new ideas and new resources you can use to start planning your next retro tomorrow and take it to the top of the charts!",
+    "Bio":"",
+    "Headshot":"",
+    "Twitter":""
+  },
+  {
+    "Name":"Dave Goerlich",
+    "Title":"Ruby in the Real World",
+    "Description":"Ruby is an elegant language, and it’s a lot of fun to build things with it. Most of what is written with Ruby doesn’t reach outside the digital realm into the “real world”. It interacts with mouse, keyboard, monitor and storage, and often other computers. This talk will explore how we can use Ruby, with the help of a Raspberry Pi and an Arduino Uno to reach out beyond it’s digital ecosystem and interact with our physical world.                      ",
+    "Bio":"Dave is a software developer with over 20 years of professional IT experience, which the D-I team often reminds him is almost longer than some of them have been alive. He is passionate about clean, well tested code. He also has a mildly disturbing love of SQL, and is often found serving as the team's DBA. Even though Dave was the old man of the team, he's unquestionably the best volleyball player. ",
+    "Headshot":"http://d-i.co/images/team/dave-goerlich.png",
+    "Twitter":"@dgoerlich"
+  },
+  {
+    "Name":"J Wolfgang Goerlich",
+    "Title":"SDLC in Hostile Environments",
+    "Description":" Short:<br />What happens when end-users have the motive, opportunity, and skillset to attack our software? When two hacker conferences hosted a six week capture-the-flag contest, organizers learned first-hand how this impacts the software development life cycle (SDLC). We will discuss wins and losses, successes and failures, and hard lessons learned.<br /><br />Long:<br />What happens when end-users have the motive, opportunity, and skillset to attack our software? When two hacker conferences hosted a six week capture-the-flag contest, organizers learned first-hand how this impacts the software development life cycle (SDLC). The development team featured managers steeped in SDLC concepts and developers trained on secure practices. The framework was built over several months and then exposed to skilled attackers for weeks, many of whom were more interested in exploring the scoreboard’s weaknesses than in capturing the flags. This talk presents a software development case study and reviews the security breaches that occurred during the competition. We will discuss wins and losses, successes and failures, and hard lessons learned about the difference between textbook SDLC and SDLC in hostile environments.<br />              ",
+    "Bio":"J Wolfgang Goerlich supports information security initiatives for clients in the healthcare, education, financial services, and energy verticals. As Vice President of Consulting Services for VioPoint, Wolfgang leads an information security team specializing in managed security services, regulatory compliance, and penetration testing. Wolfgang regularly advises and presents on the topics of managing security risks and securing systems through-out the development lifecycle.                     ",
+    "Headshot":"http://technologyfirst.org/images/jwgoerlich.png",
+    "Twitter":"@jwgoerlich"
+  },
+  {
+    "Name":"E.J. Dyksen",
+    "Title":"Seamless Software: Making All the Pieces Fit",
+    "Description":"Software can quickly become complicated; to help make sense of the complexity, we divide software into manageable pieces. These pieces, however, don’t always fit together perfectly. Eventually, the seams in your software are going to show.<br /><br />In this talk, by looking at examples of software, we’ll talk about what “seams” are, the different kinds of seams that exist, and how they can impact your user experience. We’ll look at examples of software that do an exemplary job of hiding seams. <br /><br />Though this may sound like a talk about design—and it is—seams can just as easily arise from failures in project management and poor engineering decisions. Therefore, we’ll discuss how everyone on your team—software engineering, project management, design—can contribute towards making your software as seamless as possible.",
+    "Bio":"E.J. is currently a Software Craftsman at Mutually Human. He works with clients of all sizes to make software that is well-designed, easy to maintain, and a joy to use. His experience ranges from being an engineer at an early-stage Silicon Valley startup, building and scaling v1.0 of scienceexchange.com; to being a program manager on the Exchange team at Microsoft, designing and building the primary mail reading experience for the latest version of Outlook Web App.",
+    "Headshot":"http://www.mutuallyhuman.com/assets/avatars/e-j-dyksen/face-full-41bc98efb08bf03f1383deef852ff309.jpg",
+    "Twitter":"@ejdyksen"
+  },
+  {
+    "Name":"Mark Stanislav",
+    "Title":"Two-Factor Authentication for Developers",
+    "Description":"Just a few years ago, it was rare for end-users and developers to know about two-factor authentication. With implementations by big names such as Twitter, Facebook, LinkedIn, and Dropbox, two-factor authentication is now being used by all sorts of users and not just enterprise and government employees. With increasing pressure to prevent stolen passwords from allowing security breaches to occur, small and large businesses alike are quickly moving to integrate and deploy two-factor solutions.<br /><br />This workshop will provide insight into what two-factor authentication is, how it works, who uses it, and how to implement it. By leveraging both WebSDK libraries and a REST API, attendees will be able to leave the class having actually integrated two-factor authentication into sample web applications.<br /><br />If you have wanted to learn about this in-demand technology or have a need to be able to build two-factor into your company's web applications, this class will get you on a path to success. Participants are highly encouraged to have experience building web applications (Ruby and PHP will be discussed) and a working knowledge of information security.",
+    "Bio":"Mark Stanislav is the Security Evangelist for Duo Security, an Ann Arbor, Michigan-based startup focused on two-factor authentication and mobile security. With a career spanning over a decade, Mark has worked within small business, academia, startup, and corporate environments, primarily focused on Linux architecture, information security, and web application development. <br /><br />Mark has spoken internationally at over 75 events including RSA, ISSA, B-Sides, GrrCon, Infragard, and the Rochester Security Summit. Mark’s security research has been featured on web sites including CSO Online, Security Ledger, and Slashdot. Additionally, Mark is an active participant of local and nationals security organizations including ISSA, Infragard, HTCIA, ArbSec, and MiSec.<br /><br />Mark earned his Bachelor of Science Degree in Networking & IT Administration and his Master of Science Degree in Technology Studies, focused on Information Assurance, both from Eastern Michigan University. During his time at EMU, Mark built the curriculum for two courses focused on Linux administration and taught as an Adjunct Lecturer for two years. Mark holds CISSP, Security+, Linux+, and CCSK certifications.",
+    "Headshot":"http://www.rsaconference.com/writable/speakers/photo/520x520centertop/mark_stanislav.jpg",
+    "Twitter":"@markstanislav"
+  },
+  {
+    "Name":"Nilanjan Raychaudhuri",
+    "Title":"self.improve",
+    "Description":"The goal is to find fulfillment and happiness in the career. Fulfillment and happiness don’t (often) come by chance. They require thought, intention, action, and a willingness to change course when you’ve made mistakes. We all want a successful career as a programmer but the challenge is to get there.Building a successful software career is hard. In this presentation we will look into some strategies that will help you to be successful and happy.",
+    "Bio":"Nilanjan is a consultant/trainer and core member of Play framework team. He works for Typesafe. He has more than 14 years of experience managing and developing software solutions in Java, Ruby, Groovy and also in Scala. He is zealous about programming in Scala ever since he got introduced to this beautiful language. He enjoys sharing his experience via talks in various conferences and he is also the author of the “Scala in Action” and upcoming \"Play recipes\" book.                ",
+    "Headshot":"https://avatars3.githubusercontent.com/u/41426?s=460",
+    "Twitter":"@nraychaudhuri"
+  },
+  {
+    "Name":"Jeff McKenzie",
+    "Title":"Software Empires and Ruins: Version Control and the History of Gitlandia",
+    "Description":"So all the cool kids are preaching the Git Gospel, pushing everything to the GitHub promised land. But what is Git anyway? Should you use it? How is it different from other Version Control systems? What is Version Control anyway, and why do I need it? Turns out all of these questions can be answered by a quick trip through history. Newly discovered ancient writings reveal the sprawling province of Gitlandia, an early distributed civilization that bears an eerie resemblance to Git. Exploration of Gitlandia will be followed by a close look at Git itself, how to use it, and how it works with remote systems such as Visual Studio Online, and yes, even GitHub.",
+    "Bio":"Jeff McKenzie has worked in software development for fifteen years, in both freelance and full-time capacities, as a developer and team leader. He enjoys helping others solve problems through technology, whether it's the small business getting on the web for the first time, or a Fortune 500 company expanding its enterprise. Although he started his career using BASIC on an Atari 800, he took a big detour, getting Biology and English degrees before rediscovering programming, with a new thing called the World Wide Web. He is currently Managing Architect for the .NET practice at Information Control Company in Columbus, Ohio.",
+    "Headshot":"https://pbs.twimg.com/profile_images/1357274436/jeffreymckenzie.png",
+    "Twitter":"@jeffreymckenzie"
+  },
+  {
+    "Name":"Ryan Cromwell",
+    "Title":"Sweet Elixir! A Gentle Introduction to Erlang’s cute younger brother Elixir",
+    "Description":"Around 60% of telecom passes through Erlang.  Facebook uses it and RabbitMQ is built on it. It’s fast, concurrent, distributed, but its Prolog-inspired syntax leaves much to be desired. Ruby is beautiful and powerful, but struggles at scale and treats concurrency as a second class citizen. Elixir - a young, functional, meta programming language - aims to resolve this mighty conflict by providing a rosy syntax inspired by Ruby that compiles to Erlang VM compatible bytecode.<br />Together we’ll take a guided tour of Elixir basics and functional programming concepts like pattern matching, pipelines and tail-call recursion. From there we’ll explore the distributed and concurrent nature of Elixir, the fault tolerant features of OTP, and ways you can leverage Elixir in your existing architectures today.<br /><br />Whether you roll with a Mac, Windows or Linux everyone will leave an Elixir programmer.",
+    "Bio":"Ryan Cromwell is a coder by trade with over 10 years of experience delivering solutions ranging from real-time customer loyalty systems and elegant user experiences to streamlined statistical process control software.  Having worked with passionate, high-performing Agile teams, Ryan ventured into the world of Scrum.org training and Agile coaching to replicate those amazing experiences.  Ryan's passion remains delivering software as a member the Sparkbox Team in Dayton, OH.  He is co-founder of Dayton Clean Coders, the Dayton Elixir virtual Meetup, co-organizer of Southwest Ohio GiveCamp, and all around software community ally.  You can find Ryan at http://cromwellhaus.com and on Twitter as @cromwellryan.",
+    "Headshot":"http://i.imgur.com/Kut5iBS.png",
+    "Twitter":"@cromwellryan"
+  },
+  {
+    "Name":"Dylan Swartz",
+    "Title":"TDD Mobile Apps with Ionic",
+    "Description":"Sacrilege! Building mobile apps with JavaScript! BOOO! YOU SUCK! We all know native apps are better. But there is this thing called \"failing fast\". What if you need to get a rock solid app into the app store as quickly as possible? In this talk I'll introduce the Ionic framework, demonstrate building a mobile app in AngularJS, and ship it! Oh btw, we'll TDD the hell out of this app.",
+    "Bio":"Dylan Swartz is a developer at Cengage Learning with a passion for education and technology. AngularJS is his current tool of choice, but he isn't a hater. Lately he has been playing with Elixir, Rasberry PIs and Arduinos. He frequents Startup Weekends just for the rush and high stakes awesomenss. Dylan has a love for developer conferences, user groups and software craftsmanship. ",
+    "Headshot":"http://dylanswartz.com/selfie.jpg",
+    "Twitter":"@dylan_swartz"
+  },
+  {
+    "Name":"Jason Felice",
+    "Title":"TDD: Why We Don't Party Like It's 1999",
+    "Description":"Smart people love TDD, so why is it sometimes so painful? We get advice like practice relentless refactoring, implement hexagonal architecture, use interfaces everywhere, stub--don't mock, MOCK ALL THE THINGS!!! What does it all mean, and how do I make it work?<br /><br />You may have heard that there are two schools of TDD. What you may not know is that the two schools can actually give conflicting advice.<br /><br />Digging into this, I've discovered some surprising ways the mockist approach has affected how we do TDD, though we still talk in terms of classical TDD, as described by Kent Beck in TDD by Example. After this session, you will know more about the history of TDD, how both kinds work, how to tell which school produced which soundbites, and when to ignore which advice.",
+    "Bio":"Jason Felice is an XP developer from Cleveland, Ohio (USA).   He's been coding since he discovered there's no level after 99 in Space Invaders on the Atari 800, using Vim and hitting the *nix man pages for twelve years, and been around more environments (POSIX, Windows, mobile, embedded, web) than he remembers.<br /><br />In previous lives, he was a game developer, a full-stack consultant and the guy who used TDD, software kanban, and continuous integration to turn around a large code base and a department.",
+    "Headshot":"https://lh6.googleusercontent.com/-uvwQuCHS-9g/UzY3hpIlDhI/AAAAAAAACbg/cMzIS1rpdPk/w1186-h1185-no/IMG_20140328_155323.jpg",
+    "Twitter":"@eraserhd"
+  },
+  {
+    "Name":"Andy Brown",
+    "Title":"Teaching Agile Principles Through Experiential Exercises",
+    "Description":"Agile values and principles like individuals and interactions, limiting work-in-process, and continuous improvement are relatively simple to discuss but difficult to internalize and convert into value systems. Facilitated exercises and games that illustrate them can be used to drive home why they really matter. This session will combine the experience of participating in some key exercises, seeing firsthand how they run, and learning how to translate them into practical lessons on why Agile advocates certain values.",
+    "Bio":"Andy Brown brings over 8 years of applying Agile thinking to organizations trying to change the way technology solutions get delivered. Having worked in a variety of verticals over the past 15 years in a range of roles, he brings a broad perspective to every situation. The best part of every experience along the way has been the people he's had the opportunity to connect with, learn from and deliver value for. Andy works with the University of Michigan's Medical School and is an instructor with Grand Circus. When he's not talking about Agile, expressing optimism over the latest Tigers' game or off-season move, or lamenting the torture of being a Lions fan, Andy finds few things better than spending time with his wife and two kids.",
+    "Headshot":"http://i.imgur.com/fdlROe2.jpg",
+    "Twitter":"@turbobrown"
+  },
+  {
+    "Name":"Scott Radcliff",
+    "Title":"Teaching Programmers Through Empathy",
+    "Description":"There is a saying that those that can’t do, teach. Nothing could be further from the truth. In fact, teaching may be one of the more difficult things you can do as a programmer. Once you start to think about how to explain complex topics to a beginner, you start to realize how far you’ve come and how difficult it is to explain what you know.<br /><br />In this talk, I will share my experience teaching web development to those that have little to no prior experience. Topics include creating and maintaining a safe learning environment, using real examples to make concepts more concrete, and teaching how to learn and not always how to do. ",
+    "Bio":"Scott Radcliff is a Software Developer and proponent of example based teaching from Toledo Ohio. He has been building stuff on the web in some capacity for 10 years and designed and taught a web development program at a Toledo area college for 3 years before moving on to bigger and better things.<br />",
+    "Headshot":"http://scottradcliff.com/assets/profile-2c8326ecd221a884a4f06258217c4fc5.jpg",
+    "Twitter":"@scottradcliff"
+  },
+  {
+    "Name":"Jason Dinkelmann",
+    "Title":"The Accidental Volunteer: How saying yes can feel so good",
+    "Description":"Who knows where our careers begin?  It can be a single point in time or an accumulation of moments.  One thing is for sure, if you close doors because you are uncomfortable or lazy, you may miss that moment that could be your biggest break.<br /><br />Volunteering comes in many shapes and sizes, and every opportunity can help you learn and grow in ways you never thought possible.  Getting your hands dirty and digging in to help a group or cause will allow you to meet new people, start businesses, work on something bigger than yourself.<br /><br />In this presentation, I will walk through my steps and stories, showcasing lessons learned and how you can apply those to your own career.  Having a career is much more than a cube and four walls, get out of that box and expand who you are.<br />",
+    "Bio":"I am a husband, father and software craftsman from Brighton, MI.  I am currently a Senior Web Developer for aboutGolf Ltd. <br /><br />I started my career in sales, but volunteered a lot of my time helping others build (bad) web sites.  That experience lead me to a job with the Onion (www.theonion.com) and has grown ever since.  Without opening those doors I would not be where I am today.<br /><br />I live in Brighton, MI with my beautiful wife Maria and my two kids Lauren and Evan.  And our goldfish Goldie.",
+    "Headshot":"https://secure.gravatar.com/avatar/cd45a1374966337e5d4d31da0ad0eb86",
+    "Twitter":"@jdinkelmann"
+  },
+  {
+    "Name":"Bryan Kelly and David McKinnon",
+    "Title":"The Android Developer's Tool Chest",
+    "Description":"The Android SDK, Android Studio or the ADT plug-in, are essential tools for building Android apps.  <br />However, there are a number of open source libraries and projects that can help speed development, reduce boilerplate code and provide new solutions for old problems. This session will give a practical overview of several such libraries. We’ll also code some working examples and discuss possible pitfalls.  <br />Attendees will come away from this session with a solid grasp of open source tools, that every Android developer, should have in their tool chest. ",
+    "Bio":"Bryan Kelly and David McKinnon are Android app developers with Detroit Labs. <br />While Bryan specializes in Android development, he also has iOS experience and a working knowledge of robotics.   <br />David, will forever be trying to catch up to Bryan's Android knowledge. This makes Dave generally grumpy, much of the time. ",
+    "Headshot":"http://tinyurl.com/lyloubg",
+    "Headshot2":"http://tinyurl.com/m2enjln",
+    "Twitter":""
+  },
+  {
+    "Name":"Brian Korzynski",
+    "Title":"The Secrets of LINQ: the modern day Houdini",
+    "Description":"To many, LINQ is magic, but when you pull up the curtains and turn on the lights and see what the magician is doing, all becomes clear. You to have access to all the same constructs that LINQ uses to do its magic. Things like Funcs, Actions, lambdas, and expressions. By knowing how they work, you too will be able to pull a rabbit out of a hat.",
+    "Bio":"Brian Korzynski is the lead developer of a .NET consulting firm based in Troy, MI. During his 5+ years of experience as a developer he has done everything from database development with WinForms to enterprise level web applications. He specializes in software engineering & architecture, .NET, SQL Server, MVC, and mathematics.                 ",
+    "Headshot":"http://www.gravatar.com/avatar/b7787634d9e6f488d2b9f314d6ef5946.png",
+    "Twitter":"@bkorzynski"
+  },
+  {
+    "Name":"Jonathan Ozeran",
+    "Title":"The Tail of a Wireless Dog Collar: Building a Hardware Product with a Globally Dispersed Team for Fun and Profit",
+    "Description":"This is the tale of a globally distributed team of individuals who came together to build a product for their dogs in 2013 without ever having been in the same room together. Month by month, the team started to grow and now includes individuals from the U.S., Canada, France, Germany, Venezuela and Pakistan, all working to bring the product to life and into the marketplace of wearable dog collars.<br /><br />A few of the experiences to be shared with the audience will include how team member initiatives and responsibilities have been divvied up, approaches to making routine team communication work, insights into assembling software engineering talent and building a business pipeline of customer demand and preorders. Additionally, current challenges will be shared and discussed alongside open Q&A.",
+    "Bio":"Jonathan is a product designer, software engineer, team builder and startup evangelist who enjoys contributing to the growth of the Chicago and Detroit startup communities.<br /><br />In his current role, Jonathan serves as VP, Product at Zest Health, a Chicago-based start-up that is reinventing the healthcare experience for its members via mHealth innovation. Backed by Lightbank and 7wire Ventures, Zest’s dual focus on healthcare innovation and consumerism is deeply engrained in the company’s DNA. Additionally, he is an Adjunct Lecturer at Northwestern University where he teaches mobile application design and prototyping and also serves as Technical Director and Co-Founder at Ridogulous Labs.<br /><br />In an earlier role as VP of Product & Mobile for RECSOLU, he led product development and focused on the customer experience, API architecture and mobile applications in a mission to reinvent face-to-face recruiting via a SaaS enterprise platform and connected mobile apps. <br /><br />Prior to RECSOLU, he served as mobile technology strategist and headed the design team for Lextech, a mobile engineering group focused on Fortune-1000 enterprise customers looking to deploy custom business apps to an employee workforce.<br /><br />Before Lextech, he built and led the mobile applications / R&D group for the Tribune Company and was responsible for several dozen apps from conception to shipping including the L.A. Times for iPhone, Chicago Blackhawks for Android, etc as well as the architecture, design and delivery of mobile tools and APIs used across newspaper, radio and television businesses.<br /><br />Academically, Jonathan received a bachelor's degree in political science from the University of Michigan and a master's degree in computer & information systems from Northwestern University.",
+    "Headshot":"https://media.licdn.com/media/p/7/005/00d/1f8/07f2eef.jpg",
+    "Twitter":"@jozeran"
+  },
+  {
+    "Name":"Charlie Wollborg",
+    "Title":"The Virtue of Pissing People Off",
+    "Description":"\"If you're not pissing off a few people, you're probably not exciting anybody either.\"  <br /><br />In the rush for likes, fans and followers, we are afraid to offend anyone. We play it safe. We want to be \"well liked\". Trouble is, all the likes, fans and followers in the world don't amount to diddly squat without a legion of passionate advocates. We're living through the meh economy – a market is saturated with polite mediocrity. It's time to wake up. It's time to take a stand. It's time to transform ourselves, our companies and our causes. Let's be a catalyst for passionate ideas. Let's create big red Kool-Aid Pitchers of awesomeness that makes our fans bust through walls and say \"Oh hell yeah!\"  ",
+    "Bio":"                                Charlie is a purveyor of attention. He helps growing brands stand out from the clutter.  <br /><br />He opened the doors at Curve Detroit Marketing Strategy & Creative Design after being thrown out of several well respected ad agencies. As a marketing strategist and creative director, he has delivered blue sky ideas and bottom line results for blue chip national clients and budding challenger brands.   <br /><br />Charlie's an unabashed lover of Detroit where he's actively involved in the social media and entrepreneur communities. Along with a handful of cool friends, he produces the annual TEDxDetroit conference.<br /><br />When he's not building brands, you'll find Charlie inspiring, educating and entertaining business audiences with his lively keynote presentations on marketing, innovation and motivation. Last year, he was named the second best PowerPoint Karaoke presenter in the world. This year, he hopes to win something that people have actually heard of. <br /><br />Charlie is happily married to his unhappily married wife, Elena. They have two young sons with wild imaginations and boundless energy and one lazy cat. ",
+    "Headshot":"http://www.curvedetroit.com/images/CharlieHeadshot.jpg",
+    "Twitter":"@CharlieCurve"
+  },
+  {
+    "Name":"Christopher Smith",
+    "Title":"Top Down Angular.js",
+    "Description":"Angular.js is a powerful Single Page App framework that will change the way you think about building web apps. Top Down Angular.js peals to onion of the framework in easy to understand parts and examples. Whether your a designer, analyst, JavaScript developer, or hobbyist you should leave this talk dangerous... With Angular. Dangerous with Angular.",
+    "Bio":"Christopher Smith developer in SE Michigan. He graduated from the University of Michigan, Dearborn with a BS Software Engineering. He has worked for large companies and small start-ups. Currently he get paid to learn Angular, D3, and other JavaScript technology. With his free time he likes to learn from his peers and share what he knows.",
+    "Headshot":"https://pbs.twimg.com/profile_images/425496919591243777/guka21d0.jpeg",
+    "Twitter":"@cmsmithco"
+  },
+  {
+    "Name":"Tom Churchwell",
+    "Title":"Trust Centered Teams",
+    "Description":"Your \"trust quotient\"- the people you trust and vice versa- is what will determine the success of your teams and your career.  Building trust requires skill.  It requires understanding distinctions of trust far deeper than the simple trust we learned as children.  We need deeper levels of understanding how to build, maintain and recover trust.<br /><br />We need the skill of building trust so that regardless of how the world keeps changing, one of the things that cannot be taken from us is our identity of trust.<br /><br />",
+    "Bio":"Call me \"TC\"<br /><br />Military roots and a career in aviation are an eclectic backdrop for an IT Transformation Leader.  Paralleling his 20 year military career with a civilian career in Information Technology that spanned banking, aerospace, non-profits, health services, marketing, education and consulting, TC has had exposure to organizational design and business challenges in a wide variety of cultures and environments.  <br /><br />He is an enthusiastic IT Leader and understands firsthand, that adaptive and agile execution challenges are as much organizational and cultural as they are technical issues. Fundamental coordination and communication practices are the difference between success and failure on both business and IT projects.  In his experience, he finds the most precious skills to foster are passion for excellence, infinite curiosity, commitment to the skills of human interaction and rigorous execution practices.    <br /><br />                                ",
+    "Headshot":"https://pbs.twimg.com/profile_images/378800000506692268/00d0e9dd37606a15def62b9ff01e6f41.png",
+    "Twitter":"@tchurchwell"
+  },
+  {
+    "Name":"Jeff Kelley",
+    "Title":"Understanding Objective-C Inside and Out",
+    "Description":"How many times have you tried to debug something in Objective-C without really knowing *why* it works a certain way? Do you start sweating when Xcode throws linker errors your way, or when you have to mix ARC and non-ARC code? This talk will reveal how Objective-C works, what actually happens when your application is linked, and reveal what ARC is actually doing. Objective-C is a 30-year-old language, and it’s evolving faster than ever. We’ll look at the basics of the language, how properties and categories work, and cover advanced topics like creating classes at runtime, memory management and ARC, and tagged pointers. At the end of the talk, you’ll be able to diagnose issues with your app more quickly, dive into system components more readily, and have a better sense of why your code works.",
+    "Bio":"Jeff Kelley makes iOS apps for Detroit Labs, and wrote Learn Cocoa Touch for iOS. He’s a frequent guest star on podcasts, CocoaHeads within driving distance of Detroit, and iOS-focused conferences. He’s been working with iOS since its infancy in 2008, and managed the OS X environment at the University of Michigan before that.",
+    "Headshot":"http://i.imgur.com/NJCt8DH.jpg",
+    "Twitter":"@SlaunchaMan"
+  },
+  {
+    "Name":"Chris Nelson",
+    "Title":"Web Components: The Bright and Shiny Future of Web app development",
+    "Description":"Chances are if you've been doing web development you've heard that web components are coming to a browser near you. But reading the W3C web components meta-spec is enough to make your head asplode. We'll step through each spec in this \"spec of specs\" and see what they bring to the party and how they fit together to make building reusable web components easy and fun. We'll look at an example of how to build a web component using built-in browser apis with no external libraries or frameworks needed. Finally, we'll point you in the right direction for using all this stuff without having to wait for all the browsers to implement new APIs.                                ",
+    "Bio":"Chris Nelson is a software developer who hails from the fair city of Cincinnati, Ohio.  Though originally a violin performance major, he has been developing web applications for about 15 years and is passionate about finding better ways to do so.  He's spoken at most of the major ruby and java conferences and helped found Gaslight as a place for people to enjoy building amazing things together.",
+    "Headshot":"https://drxwg5otdx721.cloudfront.net/static/images/instructor-chris-n.jpg",
+    "Twitter":"@superchris"
+  },
+  {
+    "Name":"Daniel Davis",
+    "Title":"What the heck is Dev Ops and why do we need it?",
+    "Description":"During this session we'll explore what some of the various different flavors of \"Dev Ops\" are. We'll learn what some of the better practices are and get a good high level understanding of how they can be used to improve your organizations delivery of business value.",
+    "Bio":"Daniel Davis is a Business Improvement Consultant, Agile Practitioner/Developer, Innovator, Hacker, and Maker. He has been working in Agile and Agile Software Development for the last nine years. Currently, he is a Delivery Lead with Pillar and has spent the last few years focused on driving solutions at an enterprise level working with companies such as Delphi, AAA Life, General Motors, Blue Cross Blue Shield, Cengage Learning, and Delta Dental. Daniel's prior work background includes a wide range of disciplines such as mobile development, web development, design, marketing, and photography. His prevailing passion lies in helping businesses and people discover the true value in their efforts.",
+    "Headshot":"https://lh3.googleusercontent.com/-ncPF665rXAw/UpYNcEAPyMI/AAAAAAAAAI4/RKeZ854JIak/s898-no/crazy-hair-dano.jpg",
+    "Twitter":"@daniel_davis"
+  },
+  {
+    "Name":"Jensie Wight Simkins",
+    "Title":"Who's the Expert Here, Anyway? ",
+    "Description":"Whether the collaboration is among your team, or between your team and a client, building trust with team members is paramount to a great project outcome. We aren't talking hokey trust games: your team (or just you if you're rolling solo) needs to trust that the client is the expert on their brand, and your client needs to trust your expertise on the solution you are offering them. <br /><br />Internally, your team needs to be on the same page about what your brand means and what you stand for to avoid internal conflicts. You also need ensure they have the tools to adequately navigate tricky client needs and requests. Carefully managing expectations on both sides of relationship will keep tensions to a minimum and give clients the best project outcome. <br /><br />Come learn the steps to take with your team and client to make sure everyone knows who the experts are in every project.                                ",
+    "Bio":"Jensie Wight Simkins is a marketing consultant, content strategist, and branding expert based in Metro Detroit. With a Masters degree from UM-Flint in Composition and Rhetoric, she is passionate about articulating and defining an organization’s brand and effectively conveying it to the community. Her experience ranges from working with large hospitals to small start-ups and non-profit organizations. She believes every organization can benefit from great storytelling and brand integrity.<br /><br />When she's not working, Jensie is a Nerd Nite Detroit co-boss, an organizer of Give Camp Lansing, a wannabe triathlete, a partner to an MSU DO/PhD student, and mom to two great kids.",
+    "Headshot":"http://www.jensiesimkins.com/wp-content/uploads/2011/06/cropped-162709_10150330135315165_665845164_16085768_6542256_n.jpg",
+    "Twitter":"@jensie_simkins"
+  },
+  {
+    "Name":"Jason Stolaruk",
+    "Title":"Yes We Can Haskell!",
+    "Description":"Born in the \"ivory towers\" of research and heavily influenced by obscure branches of mathematics, Haskell unsurprisingly has a reputation for being impossible to understand. But fear not! Haskell, though not easy, is far from being hopelessly difficult: its clever design is simply based on principles that are largely unfamiliar to most mainstream programmers. This, however, is precisely what makes it fascinating and fun!<br />In this presentation we’ll exploit the REPL to take a “deep dive” into Haskell. We’ll see how type safety, purity, and lazy evaluation make Haskell an attractive choice for many applications.<br />This introductory presentation is suitable for those with little or no experience with Haskell and functional programming.",
+    "Bio":"Jason Stolaruk has dabbled with programming in everything from assembly to Common Lisp from a young age. He works at Detroit Labs where he creates Android apps. Over the last year, he has become stricken with the sickness of Haskell monomania, and his unfortunate condition continues to worsen daily.",
+    "Headshot":"http://photos4.meetupstatic.com/photos/member/2/a/3/c/highres_105370812.jpeg",
+    "Twitter":"@JasonStolaruk"
+  }
+]
