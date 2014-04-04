@@ -171,7 +171,7 @@ a {
 	letter-spacing: 1.5px;
 	text-shadow: none;
 	font-family: "Lato";
-	padding: 10px 14px;
+	padding: 10px 12px;
 }
 
 .navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus {
