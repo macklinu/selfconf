@@ -1,17 +1,27 @@
 <div class="mid_block">
 	<div class="container">
 		<div class="row">
-            <div class="span2">
+            <div class="offset1 span3 visible-desktop">
                 <div class="speaker-nav" id="top"  data-spy="affix" data-offset-top="272">
-                    <ul class="nav nav-list">
-                        <li ng-repeat="speaker in speakers | orderBy:'Name'">
-                            <a ng-click="scrollTo(speaker.Code)">{{speaker.Name}}</a>
-                        </li>
+
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#names" data-toggle="tab">Names</a></li>
+                        <li><a href="#talks" data-toggle="tab">Talks</a></li>
                     </ul>
+
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="names">
+                            <ul class="nav nav-list"></ul>
+                        </div>
+                        <div class="tab-pane" id="talks">
+                            <ul class="nav nav-list"></ul>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
-			<div class="offset1 span10">
+			<div class="span7">
 				<ul class="speaker-list"></ul>
 			</div>
 		</div>
@@ -21,5 +31,10 @@
 <script type="text/javascript">
     $(function() {
         SC.speakers();
+
+        $('.speaker-nav ul>li>a').click(function (e) {
+            e.preventDefault();
+            $(this).tab('show');
+        })
     });
 </script>
