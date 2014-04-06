@@ -185,6 +185,31 @@ ul.tag-line {
 	border-bottom: 1px solid #b80c0c;
 }
 
+.speaker-nav {
+	padding: 15px;
+	background-color: #f7f7f7;
+	border-radius: 6px;
+	box-shadow: 0 1px 4px rgba(0,0,0,.65);
+	height: 325px;
+	overflow-y: scroll;
+}
+
+.speaker-nav.affix {
+    position: fixed;
+    top: 30px;
+}
+
+.speaker-nav li {
+	padding: 0;
+}
+
+.speaker-nav li>a {
+	font-family: Lato;
+	font-weight: 300;
+	font-size: 14px;
+	padding: 0;
+}
+
 .img-polaroid {
 	background-color: #f7f7f7;
 }

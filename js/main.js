@@ -30,8 +30,18 @@ app.controller('Scrontroller', function($window) {
 	$window.scrollTo(0,0);
 });
 
-app.controller('SpeakersController', function($window, $scope, $http) {
+app.controller('SpeakersController', function($window, $scope, $http, $anchorScroll, $location) {
     $window.scrollTo(0,0);
+    
+    $scope.scrollTo = function(id) {
+        var old = $location.hash();
+    
+        $location.hash(id);
+        $anchorScroll();
+    
+        $location.replace();
+        $location.hash(old);
+    };
 
     $http.get('/files/speakers.json').success(function(speakers) {
         $scope.speakers = speakers;

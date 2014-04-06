@@ -1,18 +1,30 @@
 <div class="mid_block">
 	<div class="container">
 		<div class="row">
-			<div class="offset1 span10">
+			<div class="span2">
+		    	<div class="speaker-nav" id="top"  data-spy="affix" data-offset-top="272">
+					<ul class="nav nav-list">
+			        	<li ng-repeat="speaker in speakers | orderBy:string:Name">
+			        		<a ng-click="scrollTo(speaker.Code)">{{speaker.Name}}</a>
+				        </li>
+			        </ul>
+			    </div>
+		    </div>
+
+			<div class="span9">
 				<ul>
 				    <li ng-repeat="speaker in speakers" class="speaker">
-		                <img src="{{speaker.Headshot}}" class="img-polaroid img-rounded speaker-img pull-left">
-		                <img ng-if="speaker.Headshot2" src="{{speaker.Headshot2}}" class="img-polaroid img-rounded speaker-img pull-left">
-		                <h4>{{speaker.Name}} – {{speaker.Title}}</h4>
-		                <h5 class="italic" ng-if="speaker.Twitter"><a href="http://twitter.com/{{speaker.Twitter}}">{{speaker.Twitter}}</a></h5>
+				    	<div id="{{speaker.Code}}">
+			                <img src="{{speaker.Headshot}}" class="img-polaroid img-rounded speaker-img pull-left">
+			                <img ng-if="speaker.Headshot2" src="{{speaker.Headshot2}}" class="img-polaroid img-rounded speaker-img pull-left">
+			                <h4>{{speaker.Name}} – {{speaker.Title}}</h4>
+			                <h5 class="italic" ng-if="speaker.Twitter"><a href="http://twitter.com/{{speaker.Twitter}}">{{speaker.Twitter}}</a></h5>
 
-		                <p ng-bind-html="speaker.Description">{{speaker.Description}}</p>
+			                <p ng-bind-html="speaker.Description">{{speaker.Description}}</p>
 
-						<h5 class="italic">About {{speaker.Name}}:</h5>
-			            <p ng-bind-html="speaker.Bio">{{speaker.Bio}}</span></p>
+							<h5 class="italic">About {{speaker.Name}}:</h5>
+				            <p ng-bind-html="speaker.Bio">{{speaker.Bio}}</span></p>
+			            </div>
 			        </li>
 				</ul>
 			</div>
