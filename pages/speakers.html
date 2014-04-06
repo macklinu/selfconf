@@ -4,7 +4,7 @@
 			<div class="span2">
 		    	<div class="speaker-nav" id="top"  data-spy="affix" data-offset-top="272">
 					<ul class="nav nav-list">
-			        	<li ng-repeat="speaker in speakers | orderBy:string:Name">
+			        	<li ng-repeat="speaker in speakers | orderBy:'Name'">
 			        		<a ng-click="scrollTo(speaker.Code)">{{speaker.Name}}</a>
 				        </li>
 			        </ul>
