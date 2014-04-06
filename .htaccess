@@ -1,5 +1,0 @@
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-    RewriteCond %{HTTP_HOST} ^selfconference.org [NC]
-    RewriteRule ^(.*)$ http://www.selfconference.org/$1 [L,R=301]
-</IfModule>
