@@ -69,7 +69,7 @@ a {
 	font-weight: 900;
 }
 
-@media (max-width: 480px) { 
+@media (max-width: 480px) {
 
 	h1{
 		font-size: 52px;
@@ -90,7 +90,7 @@ a {
 
 }
 
-@media (min-width: 481px) and (max-width: 767px) { 
+@media (min-width: 481px) and (max-width: 767px) {
 
 	h1{
 		font-size: 64px;
@@ -111,7 +111,7 @@ a {
 
 }
 
-@media (min-width: 768px) and (max-width: 979px) { 
+@media (min-width: 768px) and (max-width: 979px) {
 
 	h1{
 		font-size: 88px;
@@ -124,7 +124,7 @@ a {
 
 }
 
-@media (min-width: 980px) and (max-width: 1199px) { 
+@media (min-width: 980px) and (max-width: 1199px) {
 
 	h1{
 		font-size: 116px;
@@ -137,7 +137,7 @@ a {
 
 }
 
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) {
 
 	h1{
 		font-size: 146px;
@@ -183,6 +183,32 @@ ul.tag-line {
 	margin-bottom: 40px;
 	padding-bottom: 30px;
 	border-bottom: 1px solid #b80c0c;
+}
+
+.speaker-nav {
+	padding: 15px;
+	background-color: #f7f7f7;
+	border-radius: 6px;
+	box-shadow: 0 1px 4px rgba(0,0,0,.65);
+	height: 382px;
+	overflow-y: scroll;
+    width: 240px;
+}
+
+.speaker-nav.affix {
+    position: fixed;
+    top: 30px;
+}
+
+.speaker-nav li {
+	padding: 0;
+}
+
+.nav-list li>a {
+	font-family: Lato;
+	font-weight: 300;
+	font-size: 14px;
+	padding: 0;
 }
 
 .img-polaroid {
