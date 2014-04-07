@@ -126,6 +126,10 @@ a {
 
 @media (min-width: 980px) and (max-width: 1199px) {
 
+    .speaker-nav {
+        width: 190px;
+    }
+
 	h1{
 		font-size: 116px;
 		padding: 50px 0px 46px 0px;
@@ -138,6 +142,10 @@ a {
 }
 
 @media (min-width: 1200px) {
+
+    .speaker-nav {
+        width: 240px;
+    }
 
 	h1{
 		font-size: 146px;
@@ -201,7 +209,6 @@ ul.tag-line {
 	box-shadow: 0 1px 4px rgba(0,0,0,.65);
 	height: 381px;
 	overflow: hidden;
-    width: 240px;
 }
 
 .speaker-nav.affix {
