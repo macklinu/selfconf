@@ -185,13 +185,22 @@ ul.tag-line {
 	border-bottom: 1px solid #b80c0c;
 }
 
+.nav {
+    margin-bottom: 0;
+}
+
+.nav-wrapper {
+    height: 342px;
+    overflow-y: scroll;
+}
+
 .speaker-nav {
 	padding: 15px;
 	background-color: #f7f7f7;
 	border-radius: 6px;
 	box-shadow: 0 1px 4px rgba(0,0,0,.65);
-	height: 382px;
-	overflow-y: scroll;
+	height: 381px;
+	overflow: hidden;
     width: 240px;
 }
 
