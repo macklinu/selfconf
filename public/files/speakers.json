@@ -6,7 +6,6 @@
     "bio":"Nathan is a software engineer at Detroit Labs, where miracles are performed on mobile devices. He is a founding member of the All Hands Active Hackerspace, which has been working steadfastly to awesomify the brains of creators for over 4 years. He’s an open-source contributor, an open-education advocate, and a functional programming fanboy.",
     "headshot":"http://i.imgur.com/ABipvhd.jpg",
     "twitter":"@nathandotz",
-    "email":"ndotz@detroitlabs.com",
     "name_anchor":"nathan-dotz",
     "talk_anchor":"android-testing"
   },
@@ -17,7 +16,6 @@
     "bio":"Jeff Kelley makes iOS apps for Detroit Labs, and wrote Learn Cocoa Touch for iOS. He’s a frequent guest star on podcasts, CocoaHeads within driving distance of Detroit, and iOS-focused conferences. He’s been working with iOS since its infancy in 2008, and managed the OS X environment at the University of Michigan before that.",
     "headshot":"http://i.imgur.com/NJCt8DH.jpg",
     "twitter":"@SlaunchaMan",
-    "email":"jeff@detroitlabs.com",
     "name_anchor":"Jeff-Kelley",
     "talk_anchor":"opengl"
   },
@@ -28,7 +26,6 @@
     "bio":"Jamie Wright is a part of Brilliant Fantastic, a software development consulting service provider and an ISV for software management applications. He has over ten years of software development experience in Microsoft technologies and over 5 years development experience in Ruby and Ruby on Rails. He specializes in application architecture, design patterns, object-oriented design, and test driven development. He blogs at brilliantfantastic.com and is currently seeking help for his gadget addiction.",
     "headshot":"http://www.gravatar.com/avatar/94d3675b2e2431b326b0de7aff01b742.png",
     "twitter":"@jwright",
-    "email":"jamie@brilliantfantastic.com",
     "name_anchor":"Jamie-Wright",
     "talk_anchor":"ember"
   },
@@ -39,7 +36,6 @@
     "bio":"As a Delivery Practice Manager and Agile Coach for RIIS, Stacey leads teams in agile best practices and delivery. She has nearly a decade of experience working with organizations to discover how agile can create stronger teams and better products. Stacey is a Certified Scrum Professional (CSP) and has volunteered at many agile conferences in the community. She is passionate about coaching at multiple levels within an organization and building strong teams.",
     "headshot":"http://www.riis.com/wp-content/uploads/2014/03/s-oconnor.jpg",
     "twitter":"@riisllc_stacey",
-    "email":"soconnor@riis.com",
     "name_anchor":"Stacey-O-Connor",
     "talk_anchor":"agile-squishy"
   },
@@ -50,7 +46,6 @@
     "bio":"Nayan Hajratwala is the owner of Chikli Consulting. A Lean/Agile Coach with over 15 years of hands-on experience delivering software, he has significant programming experience and is a deep technologist always exploring new languages and ideas. His specialties include training software teams to increase their productivity and decrease their time-to-market while improving the quality of their product.<br />Nayan is a speaker at many user groups and conferences in the Midwest. He is also one of the core organizers for Southeast Michigan's Agile & Beyond conference.<br />He is one of the founders of CodeRetreat, designed to increase the skill level of developers through techniques such as Test Driven Development, Paired Programming, and Simple Design.",
     "headshot":"http://www.gravatar.com/avatar/1f1d8371eca200cc839af02a2c9a4334.png",
     "twitter":"@nhajratw",
-    "email":"nayan@chikli.com",
     "name_anchor":"Nayan-Hajratwala",
     "talk_anchor":"agile-practice"
   },
@@ -61,7 +56,6 @@
     "bio":"Chelsey has been programming professionally for two years, focusing on iOS development for the past six months. After working on a complex UI project, she experienced the perks (and the pain) of using Auto Layout properly. She enjoys making other people’s lives simpler, and hopes to save fellow developers some time and frustration with iOS.",
     "headshot":"http://static.squarespace.com/static/512050cfe4b068400108abd5/5254540ee4b05048ea3b7f4b/5304dd83e4b00af361a01543/1392827886748/Chelsey3.jpg?format=300w",
     "twitter":"@_chelseybaker",
-    "email":"chelsey@detroitlabs.com",
     "name_anchor":"Chelsey-Baker",
     "talk_anchor":"auto-layout"
   },
@@ -72,7 +66,6 @@
     "bio":"Kevin has spent over a decade participating in software projects for enterprises and the community, sporting classy titles such as Sr. Software Engineer and Enterprise Architect.  He has a strong focus on creating strategies that spark innovation and facilitate growth within organizations.  Kevin is passionate about open collaboration and the benefits of free software.  He is the author of Siren, a hypermedia specification, as well as many open source software projects.  Kevin is the co-organizer of API Craft Conference, DetNode (the Detroit Node.js Meetup), and the regional API Craft Detroit Meetup.",
     "headshot":"http://i.imgur.com/kzHH6U8.jpg",
     "twitter":"@kevinswiber",
-    "email":"kswiber@gmail.com",
     "name_anchor":"Kevin-Swiber",
     "talk_anchor":"aingularity"
   },
@@ -83,7 +76,6 @@
     "bio":"My first program, which I wrote when I was 10, was a version of Rock, Scissors, Paper done in BASIC on an Aquarius computer (and it cheated when the user entered my sister's name) and from there I continued to use computers as a tool for creativity by making games, writing software to help my dad, building software to help my family, and crafting software to help my employer. I strive to encourage people to use computers for their own creative purposes or to take over the world.",
     "headshot":"https://media.licdn.com/media/p/1/005/029/07e/109516e.jpg",
     "twitter":"@ronsbrain",
-    "email":"ron@ronsbrain.com",
     "name_anchor":"Ron-Martin",
     "talk_anchor":"asynchronous-js"
   },
@@ -94,7 +86,6 @@
     "bio":"I am a senior software developer at the Medical School, University of Michigan, Ann Arbor. For the past ten years, I have been building custom data-to-web applications for research projects. Programming is my passion, and I want to share it with you.",
     "headshot":"https://lh5.googleusercontent.com/-Px6ZDDJH8RU/AAAAAAAAAAI/AAAAAAAAABg/7bdbQ4mrBtg/s120-c/photo.jpg",
     "twitter":"@weymouth_umich",
-    "email":"weymouth@umich.edu",
     "name_anchor":"Terry-Weymouth",
     "talk_anchor":"geb-selenium"
   },
@@ -105,7 +96,6 @@
     "bio":"Jeff is a software developer in the Metro-Detroit area with 15 years of professional experience. He has worked on enterprise tools like DevPartner Studio, Web sites like therapycharts.com, and apps like Service MIT. He is language agnostic having written in C, C++, Perl, Java, JavaScript, C#, Python, and Objective-C. He has instructed classes and presented on webinars. Currently, he is doing iOS app development for General Motors. Jeff has a passion for minimalist code, user-centered design, and continuous integration.",
     "headshot":"http://i.imgur.com/inEUROP.jpg",
     "twitter":"@jeffery_thomas",
-    "email":"jeffery.thomas@gmail.com",
     "name_anchor":"Jeffery-Thomas",
     "talk_anchor":"tiny-classes"
   },
@@ -116,7 +106,6 @@
     "bio":"Mike Behnke is a website developer and software engineer, a tech geek, focused on front-end programming but also a bit dangerous on the server-side.  He is a JavaScript and Android enthusiast. Mike Behnke works at Enlighten Agency (@EnlightenAgency) and tweets at @LocalPCGuy.",
     "headshot":"http://i.imgur.com/utzvKNZ.jpg",
     "twitter":"@LocalPCGuy",
-    "email":"mike@local-pc-guy.com",
     "name_anchor":"Mike-Behnke",
     "talk_anchor":"blind-faith"
   },
@@ -127,7 +116,6 @@
     "bio":"Tony Surma is the CTO of Microsoft’s Disaster Response program which is responsible for the development and deployment of Microsoft and their partners' technologies to enable response organizations’ critical relief efforts and connect communities affected by natural disasters throughout the world. He is a member of the core team for Random Hacks of Kindness on behalf of Microsoft and is one of founders of the Humanitarian Toolbox initiative. He now spends seemingly equal amounts of time in making presentations at work and writing code at home and at work with a technical focus on user experience (UX) of mobile, web and desktop applications and the architecture of the large cloud applications they depend on. Beyond work, Tony is always looking forward to volunteering to help non-profits leverage angle brackets, semi-colons and command line switches.",
     "headshot":"https://pbs.twimg.com/profile_images/3108386270/23db259358b497e4e7cda2b825b028e3.jpeg",
     "twitter":"@tonysurma",
-    "email":"tony@surmafamily.com",
     "name_anchor":"Tony-Surma",
     "talk_anchor":"cross-platofrm"
   },
@@ -138,7 +126,6 @@
     "bio":"Talia Selitsky is a mobile developer based in Detroit. She currently works for HP as a mobile developer, and recently worked at Ford developing apps for in-vehicle systems.  She is also an app developer for Photosynq, an open-research project that focuses on developing open-hardware solutions for measuring plant-health.",
     "headshot":"https://media.licdn.com/media/p/4/000/15e/325/1cd2e8a.jpg",
     "twitter":"@Talia_Selitsky",
-    "email":"talqsel@gmail.com",
     "name_anchor":"Talia-Selitsky",
     "talk_anchor":"glass-class"
   },
@@ -149,7 +136,6 @@
     "bio":"Angela Harms is an agile developer, coach, facilitator, and instigator. She loves beautiful code that emerges from collaboration, and learning new ways to make it work. When she’s not pairing on tests and the code they inspire, you can find her at conferences speaking about what she’s learned (so far), facilitating kick-ass retrospectives, or discussing the intersection of software and love in open space.",
     "headshot":"img/speakers/angela.jpg",
     "twitter":"@angelaharms",
-    "email":"angela.harms@gmail.com",
     "name_anchor":"Angela-Harms",
     "talk_anchor":"keynote"
   },
@@ -160,7 +146,6 @@
     "bio":"Aimme Keener is passionate about building collaborative, cross-functional, high performing teams. Aimme started using agile based frameworks to create these types of environments about ten years ago. It didn't take her long in her journey to realize that people problems were the biggest issue facing most software development companies. However, it was a only a few years ago that she understood the root of the \"people problem\": company culture. Since then, Aimme has spent her time and energy trying to make every organization a better place to work, play and do business. Aimme works for Cengage Learning as a sometime engineering manager and sometime software developer and is the organizer of Michigan Agile Enthusiasts meetings. A certified culture freak, Aimme also dabbles in lean start up and is a start up wannabee.",
     "headshot":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/248/120/0c6a8a5.jpg",
     "twitter":"@AimmeKeener",
-    "email":"aimmekeener@gmail.com",
     "name_anchor":"Aimme-Keener",
     "talk_anchor":"tribe"
   },
@@ -171,7 +156,6 @@
     "bio":"My name is Vince Speelman I'm a front-end developer from Detroit, Michigan that loves moving the web forward. My weapons of choice are CSS, HTML, and JavaScript. I also love pre-processors (Sass, CoffeeScript) good tools (Vim, TMUX, Git, LiveReload), and people who care.<br /><br />I'm all about responsive web design, unwavering semantics, and modular code. I've created responsive web apps for multi-billion dollar financial institutions, social communities for teen pop idols, socially aware movements for anti-bullying campaigns, accessible sites for government organizations, and platforms for musical revolutions.<br /><br />I ship code outside of my day job and I fight for what's right inside of it. User experience is king. Accessibility and interoperability must not be an afterthought. Progressive enhancement is a mantra.<br /><br />Off-screen, I'm a musician, beer snob, and food lover.",
     "headshot":"http://i.imgur.com/iBoCzu3.jpg",
     "twitter":"@VinSpee",
-    "email":"v@vinspee.me",
     "name_anchor":"Vince-Speelman",
     "talk_anchor":"design-systems"
   },
@@ -182,7 +166,6 @@
     "bio":"Jay is a code wrangler, software consultant, and president of Arana Software. He has been developing on the web since 1995, when the Blink tag lured him away from Visual Basic 3. With a career focus on user experience, Jay has a passion for practices that improve quality and user experience, such as performance optimization, unit testing, and proper grammar.",
     "headshot":"https://dl.dropboxusercontent.com/u/3407542/Headshot-Color-300x300.png",
     "twitter":"@jayharris",
-    "email":"jay@aranasoft.com",
     "name_anchor":"Jay-Harris",
     "talk_anchor":"gulp"
   },
@@ -193,7 +176,6 @@
     "bio":"Scott Weber is lead Android developer for the Mobiata-branded apps FlightTrack and FlightBoard at Expedia. He has been doing Android development for two and  a half years and finds something new to love about it almost every day.",
     "headshot":"http://i.imgur.com/SmCQHZv.png",
     "twitter":"@ScottDWeber",
-    "email":"scott.d.weber@gmail.com",
     "name_anchor":"Scott-Weber",
     "talk_anchor":"volley-networking"
   },
@@ -204,7 +186,6 @@
     "bio":"Dave is an embedded developer and Rubyist who has worked on projects as diverse as operating system kernels, safety critical systems, web apps, and 3D graphics rendering engines. He is the organizer of the Milwaukee Ruby users group and teaches a weekly programming class for kids.",
     "headshot":"https://pbs.twimg.com/profile_images/1498305795/head_shot.jpg",
     "twitter":"@davestrock",
-    "email":"dave.strock@gmail.com",
     "name_anchor":"Dave-Strock",
     "talk_anchor":"empathy-superpower"
   },
@@ -215,7 +196,6 @@
     "bio":"Author of over two dozen tweets, Chris has been continuously re-estimating projects for almost 15 years. Chris has been a part of several waterfall and Agile projects, each one with the burning question: \"When will it be done?\"  In between estimates, he develops mobile apps for Detroit Labs where he also curates the Hot Vinyl Lounge.",
     "headshot":"http://static.squarespace.com/static/512050cfe4b068400108abd5/5254540ee4b05048ea3b7f4b/5266c0c2e4b0547c6f288493/1382553548618/ChrisT.jpg",
     "twitter":"@malusman",
-    "email":"ct@detroitlabs.com",
     "name_anchor":"Chris-Trevarthen",
     "talk_anchor":"estimation"
   },
@@ -226,7 +206,6 @@
     "bio":"Husband, dad, team builder, software developer and founder with songbird products, author, problem solver, innovator, music artist, landlord, deck swabber and life long learner.                                ",
     "headshot":"https://pbs.twimg.com/profile_images/378800000610146726/965761143f66c0ade28555c6b9fd2f11.jpeg",
     "twitter":"@bjallmon",
-    "email":"bjallmon@gmail.com",
     "name_anchor":"BJ-Allmon",
     "talk_anchor":"feedback"
   },
@@ -237,7 +216,6 @@
     "bio":"I'm a developer with 4 years of professional experience. I'm interested in all kinds of digital media, but my major focus is on designing websites and web applications. Recently I've been playing with AngularJS and Laravel and conducting usability testing to see if users find what I develop as intuitive as I think it is.",
     "headshot":"http://aaronmaturen.com/assets/me.jpg",
     "twitter":"@atmaturen",
-    "email":"aaron.maturen@gmail.com",
     "name_anchor":"Aaron-Maturen",
     "talk_anchor":"forms"
   },
@@ -248,7 +226,6 @@
     "bio":"I'm a UI/UX designer at Apigee. I work out of our Detroit field office helping to build an IoT platform for makers and hardware engineers. <br /><br />I'm a graphic designer and photographer by education, and have over 7 years of experience with web technologies like HTML, CSS, JS and now Node. <br /><br />I love to bike, cook in large groups, sail, and go stand-up paddling. ",
     "headshot":"https://pbs.twimg.com/profile_images/3088922099/e9d262863c424b2090422e6eff5c0e94.jpeg",
     "twitter":"@13protons",
-    "email":"alan@13protons.com",
     "name_anchor":"Alan-Languirand",
     "talk_anchor":"napkin"
   },
@@ -259,7 +236,6 @@
     "bio":"Dan has been developing software for 45 years and, after a long and checkered career, has come home to roost at Pillar Technology, where he mostly pairs with  client developers as a coach in Agile methodologies.  For about half that long, he's been a volunteer for a Christian prison ministry known as Kairos.  For about half <i>that</i> long, he's been helping prisoners learn to be Agile software developers.  He's a fan of Perlis languages, business value, and turning up the juice to see what shakes loose.",
     "headshot":"http://i.imgur.com/sYpw2yS.jpg",
     "twitter":"@dnwiebe",
-    "email":"dnwiebe@gmail.com",
     "name_anchor":"Dan-Wiebe",
     "talk_anchor":"felons"
   },
@@ -270,7 +246,6 @@
     "bio":"Julie Cameron is a frontend developer for Articulate working in the metro-Detroit area.  Julie is a fan of Sassy CSS and modular architecture, responsive web design, and is a student of JavaScript and self-improvement.",
     "headshot":"http://www.gravatar.com/avatar/f49c5780805d9e50bdc348069a7db59d.png?size=200",
     "twitter":"@jewlofthelotus",
-    "email":"jewlofthelotus@gmail.com",
     "name_anchor":"Julie-Cameron",
     "talk_anchor":"sassy-css"
   },
@@ -281,7 +256,6 @@
     "bio":"\"Forged of iron and walrus blood, Magnus Stahre comes from an ancient line of nordic code smiths. His technology engineering heritage was primarily responsible for preventing the narwahl invasions of Sweden in both 1683 and 1915. As a craftsman of such pedigree, Magnus knows from generation of experience meticulously hand-crafting from some of the worst raw-material code out there that the only way to have exquisite code is with expertly wielded revision control. Mere mortals must often avert their gaze from his profound use of git to avoid being paralyzed in awe.\"<br /><br />- Nathan Dotz (@nathandotz)<br /><br />\"Magnus is a local software engineer known far-and-wide as a master of all, and one with the version control.\"<br /><br />- Andrew Sardone (@andrewa2)<br /><br />\"Magnus fed > 5000+ people with &lt; 3 fishes && 5 loaves\"<br /><br />- James York (@kroysemaj)<br /><br />\"Magnus is mostly harmless.\"<br /><br />- Magnus Stahre (@magnusstahre)™",
     "headshot":"https://pbs.twimg.com/profile_images/1927778787/IMG_6728.jpg",
     "twitter":"@magnusstahre",
-    "email":"magnus.stahre@gmail.com",
     "name_anchor":"Magnus-Stahre",
     "talk_anchor":"git-gone-wild"
   },
@@ -292,7 +266,6 @@
     "bio":"Just a city boy born and raised in south Detroit (Windsor), Brandon Linton officially started his career in product development in a tent in Fort McMurray, Alberta in the summer of 2007.  That adventure got old quick and he left Never Never Land for more sensible career opportunities in project leadership/mobile apps.  Longing for Tigers baseball and Buddy’s Pizza, Brandon returned to Detroit in 2010 to take a role as Mobile Application Product Owner at General Motors and has been falling off of bar stools in the 313 ever since.",
     "headshot":"http://photos3.meetupstatic.com/photos/member/5/6/3/8/member_103222072.jpeg",
     "twitter":"@brandon_linton",
-    "email":"brando.linton@gmail.com",
     "name_anchor":"Brandon-Linton",
     "talk_anchor":"go-team"
   },
@@ -303,7 +276,6 @@
     "bio":"I am a team-oriented, value-driven software delivery professional. I help businesses to raise the bar for delighting their customers through technology delivery. I reside in Flint, Michigan, and I work with a team that is distributed cross-country from Virginia to California.",
     "headshot":"http://0.gravatar.com/avatar/9ca621fb982fd8664ecd168426518620?size=400px",
     "twitter":"@baraabasata",
-    "email":"bbasata@gmail.com",
     "name_anchor":"Baraa-Basata",
     "talk_anchor":"ansible"
   },
@@ -314,7 +286,6 @@
     "bio":"Steve Keinath has been teaching Programming at the Jackson Area Career Center for thirteen years.  His students are high school juniors and seniors interested in learning programming to make cool things.",
     "headshot":"https://pbs.twimg.com/profile_images/2457866229/e7o8fqgrh955kwx4aoh9.jpeg",
     "twitter":"@keinath",
-    "email":"steve.keinath@jcisd.org",
     "name_anchor":"Steve-Keinath",
     "talk_anchor":"high-schoolers"
   },
@@ -325,7 +296,6 @@
     "bio":"Mark Stanislav is the Security Evangelist for Duo Security, an Ann Arbor, Michigan-based startup focused on two-factor authentication and mobile security. With a career spanning over a decade, Mark has worked within small business, academia, startup, and corporate environments, primarily focused on Linux architecture, information security, and web application development. <br /><br />Mark has spoken internationally at over 75 events including RSA, ISSA, B-Sides, GrrCon, Infragard, and the Rochester Security Summit. Mark’s security research has been featured on web sites including CSO Online, Security Ledger, and Slashdot. Additionally, Mark is an active participant of local and nationals security organizations including ISSA, Infragard, HTCIA, ArbSec, and MiSec.<br /><br />Mark earned his Bachelor of Science Degree in Networking & IT Administration and his Master of Science Degree in Technology Studies, focused on Information Assurance, both from Eastern Michigan University. During his time at EMU, Mark built the curriculum for two courses focused on Linux administration and taught as an Adjunct Lecturer for two years. Mark holds CISSP, Security+, Linux+, and CCSK certifications.",
     "headshot":"http://www.rsaconference.com/writable/speakers/photo/520x520centertop/mark_stanislav.jpg",
     "twitter":"@markstanislav",
-    "email":"mstanislav@duosecurity.com",
     "name_anchor":"Mark-Stanislav",
     "talk_anchor":"secure-iot"
   },
@@ -336,7 +306,6 @@
     "bio":"After seven years of pretending he knows what he is doing, Ryan Albertson settled into the glamorous life of a graphic  designer. Fast cars, hot nightclubs, beautiful women... Ryan designed them all, working out of his tiny, one-bedroom apartment. Today he does User Experience & Graphic Design, working on web and mobile applications and attempting to convince clients that pink is not the color of the future.",
     "headshot":"http://giard.smugmug.com/Tech-Community/Great-Lakes-Area-Net-User-1/i-XSjfGST/0/M/IMG_5272-M.jpg",
     "twitter":"@PellHelix",
-    "email":"Gryphon331@gmail.com",
     "name_anchor":"Ryan-Albertson",
     "talk_anchor":"invent-universe"
   },
@@ -347,7 +316,6 @@
     "bio":"I have been in software development for about 15 years or so. I started out with a small book on QuickBASIC, then moved the Visual Basic for DOS, then Visual Basic for Windows, then Visual Basic .NET and eventually Visual C#. When I am not working at my full time job I donate my time to several community efforts like:<br /><br />Former President of INETA North America, currently Vice President.<br />Founder of the Southeast Valley .NET User Group (SEVDNUG) in Chandler, AZ.<br />Serving on my City's Parks and Recreation board.<br />I have or have had the following \"MVP\" awards:<br />Visual Basic MVP in 1996<br />C# MVP since 2009<br />Telerik MVP from 2010 to 2012<br />I maintain a Open Source project on CodePlex which wraps the Bing API called BingSharp.<br /><br />I also help / organize or participate in several community events:<br />Desert Code Camp<br />AZGiveCamp<br />Organizer for the 1st Time MVP event at the MVP Summit<br />MVP 2 MVP Sessions at MVP Summit.<br />Awesome bean pusher at GeekGive at the MVP Summit.",
     "headshot":"https://mrytkg.dm1.livefilestore.com/y2mGD-sAm-Z9m6h3vNnn2PUEbtbi6uGc3Ec3o5W3L37XWeGVpspSdJW56WJXz8NzXLW_Jy0-nklVO3JBaqynVWGGGQLeQ_OGoL5gfuPg6I0REc4OWMiPRH32_zSCjRJ_F3y/jguadagno_headshot_small.png?psid=1",
     "twitter":"@jguadagno",
-    "email":"jguadagno@hotmail.com",
     "name_anchor":"Joseph-Guadagno",
     "talk_anchor":"bootstrap"
   },
@@ -358,7 +326,6 @@
     "bio":"Bill’s time is spent between curly braces, primarily with C#. His technical areas of focus are C#, .NET, TypeScript. His other, non-coding passion is to help organizations build effective, high-functioning developer teams.<br /><br />Bill is the author of the best selling \"Effective C#\", now in its second edition, and \"More Effective C#\". He has created LiveLessons on Async programming in C# and C# Puzzlers. His articles have appeared in MSDN Magazine, the C# Developer Center, Visual C++ Developer's Journal, Visual Studio Magazine, ASP.NET Pro, .NET Developer's Journal and more. He's written hundreds of technical articles for software developers. He actively blogs about technical and business topics. Bill is also a regional director for Microsoft.<br />",
     "headshot":"http://thebillwagner.com/Media/Default/Page/DSC_4599-Edit-Small.jpg",
     "twitter":"@billwagner",
-    "email":"bill.w.wagner@outlook.com",
     "name_anchor":"Bill-Wagner",
     "talk_anchor":"typescript"
   },
@@ -369,7 +336,6 @@
     "bio":"Alex is a senior engineer at eSpark learning, using technology to make an impact on the way students learn. Previously, Alex led the API and infrastructure team for Wunderlist in Berlin, built a social marketing platform at what is now Adobe, and led part of a massive electronic medical record project. He’s active in the open source community as the author of the Koala Facebook gem, and has spoken at conferences and meetups in Europe and the US. Alex studied computer science and scavenger hunts at the University of Chicago.",
     "headshot":"http://www.gravatar.com/avatar/5c442951c4a3d0315580f45e4ffe551f.png?s=1000",
     "twitter":"@arsduo",
-    "email":"alex@alexkoppel.com",
     "name_anchor":"Alex-Koppel",
     "talk_anchor":"scale-tablets"
   },
@@ -380,7 +346,6 @@
     "bio":"April is an agilist passionate about helping deliver world class software to customers whether as a team member, facilitator, or coach. She has worked in IT for over thirteen years with an agile journey that began nine years ago as an XP team member. Currently working as a scrum master and process coach with multiple Scrum/XP teams.",
     "headshot":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/082/2a1/29a3e7e.jpg",
     "twitter":"@_AprilJefferson",
-    "email":"jeffersonapril@yahoo.com",
     "name_anchor":"April-Jefferson",
     "talk_anchor":"your-fault"
   },
@@ -391,7 +356,6 @@
     "bio":"Gerry focuses on improving individual, team, project, program and portfolio performance in the context of organizational change – specifically in reducing the time it takes to move from the birth of an idea to the delivery of customer value. He specializes in bringing to life change initiatives involving Agile, Lean and Kanban, whether it’s across your team, group, division or organization. He delivers creative, engaging learning using training from Innovation Games® and Training from the Back of the Room.",
     "headshot":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/05c/0ce/193e1a3.jpg",
     "twitter":"@gerrykirk",
-    "email":"gerry@gerrykirk.net",
     "name_anchor":"Gerry-Kirk",
     "talk_anchor":"your-fault2"
   },
@@ -402,7 +366,6 @@
     "bio":"James York is a musician-turned-software-developer who likes knowing stuff. He builds AngularJS apps for OnStar's connected car platform. He has previously worked in Enterprise Java and other Enterprise-y sounding things that are both impressive and forgettable.",
     "headshot":"http://www.gravatar.com/avatar/77da3b4d41f980aad1a08076f3ecd661.png",
     "twitter":"@kroysemaj",
-    "email":"kroysemaj@gmail.com",
     "name_anchor":"James-York",
     "talk_anchor":"jr-dev-survival"
   },
@@ -413,7 +376,6 @@
     "bio":"Jeff McWherter is the Director of Development at Gravity Works Design and Development (www.GravityWorksDesign.com). Jeff graduated from Michigan State University with a degree in Telecommunications, and has fourteen years of professional experience in software development. He is a founding member and current Vice President for the Greater Lansing Users for .NET (GLUG.net). He enjoys profiling code, applying design patterns, finding obscure namespaces, and long walks in the park. His lifelong interest in programming began with a Home Computing Magazine in 1983, which included an article about writing a game called Boa Alley in BASIC. Jeff currently lives in a farming community near Lansing, MI. When he is not in front of the computer he enjoys rock and ice climbing with his smart and beautiful wife; which leads to his favorite activity of all, road trips.",
     "headshot":"http://www.gravityworksdesign.com/Portals/0/Photos/About/Gravity-Works_Jeff-McWherter.jpg",
     "twitter":"@jmcw",
-    "email":"jeff@gravityworksdesign.com",
     "name_anchor":"Jeff-McWherter",
     "talk_anchor":"leading-uncertainty"
   },
@@ -424,7 +386,6 @@
     "bio":"Victor R. Volkman graduated cum laude from Michigan Technological University with a BS in Computer Science in 1986.  Since then, he has written for numerous publications including The C Gazette, C/C++ Users Journal, Windows Developers Journal and many others. Victor has 30 years of programming experience in SouthEastern Michigan. He has taught college-level programming classes at Washtenaw Community College and has served on the CS Faculty Advisory Board for more than a decade.  You can find books he has written on Amazon.com",
     "headshot":"http://www.lovinghealing.com/authors/VictorVolkman_2012.jpg",
     "twitter":"@vvolkman",
-    "email":"victor@lhpress.com",
     "name_anchor":"Victor-R-Volkman",
     "talk_anchor":"learn-python"
   },
@@ -435,7 +396,6 @@
     "bio":"Daniel Davis is a Business Improvement Consultant, Agile Practitioner/Developer, Innovator, Hacker, and Maker. He has been working in Agile and Agile Software Development for the last nine years. Currently, he is a Delivery Lead with Pillar and has spent the last few years focused on driving solutions at an enterprise level working with companies such as Delphi, AAA Life, General Motors, Blue Cross Blue Shield, Cengage Learning, and Delta Dental. Daniel's prior work background includes a wide range of disciplines such as mobile development, web development, design, marketing, and photography. His prevailing passion lies in helping businesses and people discover the true value in their efforts.",
     "headshot":"https://lh3.googleusercontent.com/-ncPF665rXAw/UpYNcEAPyMI/AAAAAAAAAI4/RKeZ854JIak/s898-no/crazy-hair-dano.jpg",
     "twitter":"@daniel_davis",
-    "email":"daniel.davis.tech@gmail.com",
     "name_anchor":"Daniel-Davis",
     "talk_anchor":"agile-learning"
   },
@@ -446,7 +406,6 @@
     "bio":"Leon tends binary zen gardens. He currently works with the wonderful folks at GitHub building tools to make collaboration even better for developers. An avid public speaker, Leon travels the region speaking on topic ranging from learning Ruby to humanity's quixotic reverence for time and it’s impact on the collective unconscious. Leon loves hats, being barefoot and talking for hours with friends old and new. His favorite languages currently are Ruby, JavaScript, Objective-C, and Go. You can find him online at leongersing.com.<br />",
     "headshot":"http://d13pix9kaak6wt.cloudfront.net/background/leongersing_1327030832_56.png",
     "twitter":"@rubybuddha",
-    "email":"leongersing@gmail.com",
     "name_anchor":"Leon-Gersing",
     "talk_anchor":"cave-allegory"
   },
@@ -457,7 +416,6 @@
     "bio":"Jonah is a multidisciplinary designer whose practices begin and end with empathy. His experience, both in life and academia, has taught him to approach each opportunity as a tabula rasa, setting aside assumptions and letting the truth rise to meet him through research and thoughtful consideration. Jonah doesn't ever shy away from challenging visual design tasks, but believes that a pretty solution without empathy is, at its foundation, hollow. There are days he wishes he'd gone to art school instead of studying European history, but believes that doing so has given him an invaluable understanding of human nature and the systems to which we adhere or break from.",
     "headshot":"http://www.mutuallyhuman.com/assets/avatars/jonah-bailey/face-full-a6f902e60c0e9deabcafd25eff17d5c0.jpg",
     "twitter":"@jonahbailey",
-    "email":"jonah@mutuallyhuman.com",
     "name_anchor":"Jonah-Bailey",
     "talk_anchor":"team-balance"
   },
@@ -468,7 +426,6 @@
     "bio":"Adam Goodman is Principal Security Architect at Duo Security, where he and his cohorts work to radically improve the ease-of-use in strong authentication systems. He was previously a founding engineer at Zattoo, Europe's leading live-streaming Internet TV operator, where he led the development of secure P2P distribution and digital rights management protocols. Adam enjoys bicycles and craft beer (sometimes in close proximity to one another), and has a fondness for puns that has led to many threats of bodily harm...",
     "headshot":"http://i.imgur.com/OV3uKRx.jpg",
     "twitter":"@akgood",
-    "email":"adamgood1111@gmail.com",
     "name_anchor":"Adam-Goodman",
     "talk_anchor":"default-security"
   },
@@ -479,7 +436,6 @@
     "bio":"Brian Korzynski is the lead developer of a .NET consulting firm based in Troy, MI. During his 5+ years of experience as a developer he has done everything from database development with WinForms to enterprise level web applications. He specializes in software engineering & architecture, .NET, SQL Server, MVC, and mathematics.",
     "headshot":"http://www.gravatar.com/avatar/b7787634d9e6f488d2b9f314d6ef5946.png",
     "twitter":"@bkorzynski",
-    "email":"korzy1bj@gmail.com",
     "name_anchor":"Brian-Korzynski",
     "talk_anchor":"math"
   },
@@ -490,7 +446,6 @@
     "bio":"Jason Bock is a Practice Lead for Magenic (http://www.magenic.com) and a Microsoft MVP (C#). He has worked on a number of business applications using a diverse set of substrates and languages such as C#, .NET, and JavaScript. He is the author or co-author of a number of technical books, including \"Metaprogramming in .NET\", \"Applied .NET Attributes\", and \"CIL Programming: Under the Hood of .NET\", and he has written articles on software development issues and has presented at conferences and user groups. He is a leader of the Twin Cities Code Camp (http://www.twincitiescodecamp.com). Jason holds a Master's degree in Electrical Engineering from Marquette University. Visit his web site at http://www.jasonbock.net.",
     "headshot":"http://www.jasonbock.net/jb/images/Portrait.png",
     "twitter":"@jasonbock",
-    "email":"jasonb@magenic.com",
     "name_anchor":"Jason-Bock",
     "talk_anchor":"modern-dotnet"
   },
@@ -501,7 +456,6 @@
     "bio":"David Giard is a former accountant and a former biochemist, who has been developing solutions using Microsoft technologies for over 2 decades.  Currently, David helps people build solutions in his role as a Microsoft Technical Evangelist. David has been very active in the developer community, speaking at numerous major conferences, code camps, and user groups; helping to lead user groups; and helping to organize conferences and other geek events. He is the host and producer of the mildly popular online TV show Technology and Friends. He is the co-author of the Wrox book Real World .NET, C#, and Silverlight. You can read his latest thoughts at www.DavidGiard.com.  His hobbies include video, photography, sports, and embarrassing his sons.                                ",
     "headshot":"https://tena2013.eventpoint.com/resources/documents/p/tena2013/photos/913a496b-7099-e211-ae09-001ec953730b.jpg",
     "twitter":"@DavidGiard",
-    "email":"dgiard@microsoft.com",
     "name_anchor":"David-Giard",
     "talk_anchor":"own-career"
   },
@@ -512,7 +466,6 @@
     "bio":"I'm a software developer that has historically worked in Perl and PHP though I've worked on projects in Objective-C, Java, Python, and Ruby.<br /><br />I've mainly worked for very corporate companies such as Level 3, Global Crossing, and Consumers Energy but have also done consulting gigs in the past specializing in custom software development, custom VoIP PBX solutions, and virtualized infrastructure deployments.<br /><br />My biggest project to date has consisted of writing software to manipulate and transfer alarming data for one of the largest fiber optic networks in the world; I also have an adopted pug named Gainsborough. I feel the latter of those two statements is the most braggable.",
     "headshot":"https://pbs.twimg.com/profile_images/178578911/andrew.jpg",
     "twitter":"@andrewkehrig",
-    "email":"andrew@andrewkehrig.com",
     "name_anchor":"Andrew-Kehrig",
     "talk_anchor":"php"
   },
@@ -523,7 +476,6 @@
     "bio":"I'm a web developer for Engagor, a company based in Gent, Belgium and San Francisco, California. I was a buspreneur on the StartupBus where I co-founded Plumer, an A/B testing tool for online dating profiles.<br /><br />I'm passionate about hackathons and StartupWeekends. I'm splitting my time between Gent, Belgium and Phoenix, Arizona. <br /><br />Since I'm a social female developer, I feel like I should take advantage of that fact to use my voice to reach out to more people. I hope some people will be inspired by it. ",
     "headshot":"https://pbs.twimg.com/profile_images/1825342672/image.jpg",
     "twitter":"@lienvdsteen",
-    "email":"lienvandensteen@gmail.com",
     "name_anchor":"Lien-Van-Den-Steen",
     "talk_anchor":"dev-pivot"
   },
@@ -534,7 +486,6 @@
     "bio":"Kaitlin Flynn is a 4th year PhD candidate in Microbiology and Immunology at the University of Michigan Medical School. Kaitlin studies genetic regulation of the spread of antibiotic resistance in the lung pathogen Legionella pneumophila. Kaitlin got interested in programming for biology after taking her first C++ class at Michigan. She is originally from Holland, Michigan and also holds a Bachelor's in Biochemistry, as well as loves to run, eat sushi and drink beer. ",
     "headshot":"https://media.licdn.com/media/p/8/000/21a/0b2/2e78864.jpg",
     "twitter":"@runforsushi",
-    "email":"kjflynn@umich.edu",
     "name_anchor":"Kaitlin-Flynn",
     "talk_anchor":"dna-coding"
   },
@@ -545,7 +496,6 @@
     "bio":"Game developer, gamer, musician, and oh yeah, polyglot software craftsman. I am an avid fan of AR (augmented reality) and game development, which is why I was happy to pay more money than I should to be a part of the Google Glass Explorers program. It is something that I am passionate about, and hope to share that passion with you! As for the boring bits, I have been developing professionally for 8 years in a number of different languages, and multiple platforms, from back end java webservices, to flash webgames, to automated cucumber test suites and of course, mobile applications. I have been doing agile development for most of them, and am happy to consider myself a software craftsman who is interested in improving her skills!",
     "headshot":"https://pbs.twimg.com/profile_images/2706931002/0830d05aa8cbe60a7b3db47f37d65b37.jpeg",
     "twitter":"@GabbieGibson",
-    "email":"chaopsychochick@gmail.com",
     "name_anchor":"Gabbie-Gibson",
     "talk_anchor":"glass-imilated"
   },
@@ -556,7 +506,6 @@
     "bio":"Matt Shwery is a hybrid developer-designer, who specializes in UI design. His knack for simple, semantic markup and rich JavaScript applications has helped raise dev standards in New Orleans, Louisiana. He has brought beautifully functional pattern libraries and living styleguides to the booming startups in his region. Senior Front-end Developer at Federated Sample, Matt is charting a new path forward to transform the tools for the next generation of market research.",
     "headshot":"http://farm8.staticflickr.com/7355/12908448205_f77a65a184_o.jpg",
     "twitter":"@mshwery",
-    "email":"mshwery@gmail.com",
     "name_anchor":"Matt-Shwery",
     "talk_anchor":"d3"
   },
@@ -567,7 +516,6 @@
     "bio":"Terry is Director and the QA Service Offering Lead with Quick Solutions in Columbus, Ohio. She inherited her passion for exploring and learning from her great-great grandfather who was part of the Lewis & Clark Expedition. Terry’s software experience spans commercial software product and backoffice application development across public and private sectors using a variety of methods, and she is passionate about helping teams celebrate learning and working with agility, efficiency and joy.",
     "headshot":"http://i.imgur.com/2e25oqL.jpg",
     "twitter":"@twieg",
-    "email":"twiegmann@sbcglobal.net",
     "name_anchor":"Terry-Wiegmann",
     "talk_anchor":"retrospectives"
   },
@@ -578,7 +526,6 @@
     "bio":"Dave is a software developer with over 20 years of professional IT experience, which the D-I team often reminds him is almost longer than some of them have been alive. He is passionate about clean, well tested code. He also has a mildly disturbing love of SQL, and is often found serving as the team's DBA. Even though Dave was the old man of the team, he's unquestionably the best volleyball player. ",
     "headshot":"http://d-i.co/images/team/dave-goerlich.png",
     "twitter":"@dgoerlich",
-    "email":"dgoerlich@designinginteractive.com",
     "name_anchor":"Dave-Goerlich",
     "talk_anchor":"ruby"
   },
@@ -589,7 +536,6 @@
     "bio":"J Wolfgang Goerlich supports information security initiatives for clients in the healthcare, education, financial services, and energy verticals. As Vice President of Consulting Services for VioPoint, Wolfgang leads an information security team specializing in managed security services, regulatory compliance, and penetration testing. Wolfgang regularly advises and presents on the topics of managing security risks and securing systems through-out the development lifecycle.                     ",
     "headshot":"http://technologyfirst.org/images/jwgoerlich.png",
     "twitter":"@jwgoerlich",
-    "email":"wolf@jwgoerlich.com",
     "name_anchor":"J-Wolfgang-Goerlich",
     "talk_anchor":"sdlc"
   },
@@ -600,7 +546,6 @@
     "bio":"E.J. is currently a Software Craftsman at Mutually Human. He works with clients of all sizes to make software that is well-designed, easy to maintain, and a joy to use. His experience ranges from being an engineer at an early-stage Silicon Valley startup, building and scaling v1.0 of scienceexchange.com; to being a program manager on the Exchange team at Microsoft, designing and building the primary mail reading experience for the latest version of Outlook Web App.",
     "headshot":"http://www.mutuallyhuman.com/assets/avatars/e-j-dyksen/face-full-41bc98efb08bf03f1383deef852ff309.jpg",
     "twitter":"@ejdyksen",
-    "email":"ejdyksen@gmail.com",
     "name_anchor":"EJ-Dyksen",
     "talk_anchor":"seamless-software"
   },
@@ -611,7 +556,6 @@
     "bio":"Nilanjan is a consultant/trainer and core member of Play framework team. He works for Typesafe. He has more than 14 years of experience managing and developing software solutions in Java, Ruby, Groovy and also in Scala. He is zealous about programming in Scala ever since he got introduced to this beautiful language. He enjoys sharing his experience via talks in various conferences and he is also the author of the “Scala in Action” and upcoming \"Play recipes\" book.                ",
     "headshot":"https://avatars3.githubusercontent.com/u/41426?s=460",
     "twitter":"@nraychaudhuri",
-    "email":"nraychaudhuri@gmail.com",
     "name_anchor":"Nilanjan-Raychaudhuri",
     "talk_anchor":"self-improve"
   },
@@ -622,7 +566,6 @@
     "bio":"Jeff McKenzie has worked in software development for fifteen years, in both freelance and full-time capacities, as a developer and team leader. He enjoys helping others solve problems through technology, whether it's the small business getting on the web for the first time, or a Fortune 500 company expanding its enterprise. Although he started his career using BASIC on an Atari 800, he took a big detour, getting Biology and English degrees before rediscovering programming, with a new thing called the World Wide Web. He is currently Managing Architect for the .NET practice at Information Control Company in Columbus, Ohio.",
     "headshot":"https://pbs.twimg.com/profile_images/1357274436/jeffreymckenzie.png",
     "twitter":"@jeffreymckenzie",
-    "email":"mail@jeffreymckenzie.com",
     "name_anchor":"Jeff-McKenzie",
     "talk_anchor":"gitlandia"
   },
@@ -633,7 +576,6 @@
     "bio":"Ryan Cromwell is a coder by trade with over 10 years of experience delivering solutions ranging from real-time customer loyalty systems and elegant user experiences to streamlined statistical process control software.  Having worked with passionate, high-performing Agile teams, Ryan ventured into the world of Scrum.org training and Agile coaching to replicate those amazing experiences.  Ryan's passion remains delivering software as a member the Sparkbox Team in Dayton, OH.  He is co-founder of Dayton Clean Coders, the Dayton Elixir virtual Meetup, co-organizer of Southwest Ohio GiveCamp, and all around software community ally.  You can find Ryan at http://cromwellhaus.com and on Twitter as @cromwellryan.",
     "headshot":"http://i.imgur.com/Kut5iBS.png",
     "twitter":"@cromwellryan",
-    "email":"Ryan Cromwell <ryan@cromwellhaus.com>",
     "name_anchor":"Ryan-Cromwell",
     "talk_anchor":"sweet-elixir"
   },
@@ -644,7 +586,6 @@
     "bio":"Dylan Swartz is a developer at Cengage Learning with a passion for education and technology. AngularJS is his current tool of choice, but he isn't a hater. Lately he has been playing with Elixir, Raspberry PIs and Arduinos. He frequents Startup Weekends just for the rush and high stakes awesomenss. Dylan has a love for developer conferences, user groups and software craftsmanship. ",
     "headshot":"http://dylanswartz.com/selfie.jpg",
     "twitter":"@dylan_swartz",
-    "email":"dylan@ivorypenguin.com",
     "name_anchor":"Dylan-Swartz",
     "talk_anchor":"ionic"
   },
@@ -655,7 +596,6 @@
     "bio":"Jason Felice is an XP developer from Cleveland, Ohio (USA).   He's been coding since he discovered there's no level after 99 in Space Invaders on the Atari 800, using Vim and hitting the *nix man pages for twelve years, and been around more environments (POSIX, Windows, mobile, embedded, web) than he remembers.<br /><br />In previous lives, he was a game developer, a full-stack consultant and the guy who used TDD, software kanban, and continuous integration to turn around a large code base and a department.",
     "headshot":"https://lh6.googleusercontent.com/-uvwQuCHS-9g/UzY3hpIlDhI/AAAAAAAACbg/cMzIS1rpdPk/w1186-h1185-no/IMG_20140328_155323.jpg",
     "twitter":"@eraserhd",
-    "email":"jason.m.felice@gmail.com",
     "name_anchor":"Jason-Felice",
     "talk_anchor":"1999-tdd"
   },
@@ -666,7 +606,6 @@
     "bio":"Andy Brown brings over 8 years of applying Agile thinking to organizations trying to change the way technology solutions get delivered. Having worked in a variety of verticals over the past 15 years in a range of roles, he brings a broad perspective to every situation. The best part of every experience along the way has been the people he's had the opportunity to connect with, learn from and deliver value for. Andy works with the University of Michigan's Medical School and is an instructor with Grand Circus. When he's not talking about Agile, expressing optimism over the latest Tigers' game or off-season move, or lamenting the torture of being a Lions fan, Andy finds few things better than spending time with his wife and two kids.",
     "headshot":"http://i.imgur.com/fdlROe2.jpg",
     "twitter":"@turbobrown",
-    "email":"ajbrwn@med.umich.edu",
     "name_anchor":"Andy-Brown",
     "talk_anchor":"experiential-agile"
   },
@@ -677,7 +616,6 @@
     "bio":"Scott Radcliff is a Software Developer and proponent of example based teaching from Toledo Ohio. He has been building stuff on the web in some capacity for 10 years and designed and taught a web development program at a Toledo area college for 3 years before moving on to bigger and better things.<br />",
     "headshot":"http://scottradcliff.com/assets/profile-2c8326ecd221a884a4f06258217c4fc5.jpg",
     "twitter":"@scottradcliff",
-    "email":"scott@scottradcliff.com",
     "name_anchor":"Scott-Radcliff",
     "talk_anchor":"teaching-empathy"
   },
@@ -688,7 +626,6 @@
     "bio":"I am a husband, father and software craftsman from Brighton, MI.  I am currently a Senior Web Developer for aboutGolf Ltd. <br /><br />I started my career in sales, but volunteered a lot of my time helping others build (bad) web sites.  That experience lead me to a job with the Onion (www.theonion.com) and has grown ever since.  Without opening those doors I would not be where I am today.<br /><br />I live in Brighton, MI with my beautiful wife Maria and my two kids Lauren and Evan.  And our goldfish Goldie.",
     "headshot":"https://secure.gravatar.com/avatar/cd45a1374966337e5d4d31da0ad0eb86",
     "twitter":"@jdinkelmann",
-    "email":"jdinkelmann@gmail.com",
     "name_anchor":"Jason-Dinkelmann",
     "talk_anchor":"accidental-volunteer"
   },
@@ -699,7 +636,6 @@
     "bio":"Bryan Kelly and David McKinnon are Android app developers with Detroit Labs. <br />While Bryan specializes in Android development, he also has iOS experience and a working knowledge of robotics.   <br />David, will forever be trying to catch up to Bryan's Android knowledge. This makes Dave generally grumpy, much of the time. ",
     "headshot":"http://tinyurl.com/lyloubg",
     "twitter":"@bobbake4",
-    "email":"bkelly@detroitlabs.com",
     "name_anchor":"Bryan Kelly",
     "talk_anchor":"android-toolchest"
   },
@@ -710,7 +646,6 @@
     "bio":"Bryan Kelly and David McKinnon are Android app developers with Detroit Labs. <br />While Bryan specializes in Android development, he also has iOS experience and a working knowledge of robotics.   <br />David, will forever be trying to catch up to Bryan's Android knowledge. This makes Dave generally grumpy, much of the time. ",
     "headshot":"http://tinyurl.com/m2enjln",
     "twitter":"@detroitjug",
-    "email":"dmckinnon@detroitlabs.com",
     "name_anchor":"David-McKinnon",
     "talk_anchor":"android-toolchest2"
   },
@@ -721,7 +656,6 @@
     "bio":"Brian Korzynski is the lead developer of a .NET consulting firm based in Troy, MI. During his 5+ years of experience as a developer he has done everything from database development with WinForms to enterprise level web applications. He specializes in software engineering & architecture, .NET, SQL Server, MVC, and mathematics.                 ",
     "headshot":"http://www.gravatar.com/avatar/b7787634d9e6f488d2b9f314d6ef5946.png",
     "twitter":"@bkorzynski",
-    "email":"korzy1bj@gmail.com",
     "name_anchor":"Brian-Korzynski2",
     "talk_anchor":"linq"
   },
@@ -732,7 +666,6 @@
     "bio":"Jonathan is a product designer, software engineer, team builder and startup evangelist who enjoys contributing to the growth of the Chicago and Detroit startup communities.<br /><br />In his current role, Jonathan serves as VP, Product at Zest Health, a Chicago-based start-up that is reinventing the healthcare experience for its members via mHealth innovation. Backed by Lightbank and 7wire Ventures, Zest’s dual focus on healthcare innovation and consumerism is deeply engrained in the company’s DNA. Additionally, he is an Adjunct Lecturer at Northwestern University where he teaches mobile application design and prototyping and also serves as Technical Director and Co-Founder at Ridogulous Labs.<br /><br />In an earlier role as VP of Product & Mobile for RECSOLU, he led product development and focused on the customer experience, API architecture and mobile applications in a mission to reinvent face-to-face recruiting via a SaaS enterprise platform and connected mobile apps. <br /><br />Prior to RECSOLU, he served as mobile technology strategist and headed the design team for Lextech, a mobile engineering group focused on Fortune-1000 enterprise customers looking to deploy custom business apps to an employee workforce.<br /><br />Before Lextech, he built and led the mobile applications / R&D group for the Tribune Company and was responsible for several dozen apps from conception to shipping including the L.A. Times for iPhone, Chicago Blackhawks for Android, etc as well as the architecture, design and delivery of mobile tools and APIs used across newspaper, radio and television businesses.<br /><br />Academically, Jonathan received a bachelor's degree in political science from the University of Michigan and a master's degree in computer & information systems from Northwestern University.",
     "headshot":"https://media.licdn.com/media/p/7/005/00d/1f8/07f2eef.jpg",
     "twitter":"@jozeran",
-    "email":"ozeranjo@gmail.com",
     "name_anchor":"Jonathan-Ozeran",
     "talk_anchor":"wireless-dog-collar"
   },
@@ -743,7 +676,6 @@
     "bio":"Charlie is a purveyor of attention. He helps growing brands stand out from the clutter.  <br /><br />He opened the doors at Curve Detroit Marketing Strategy & Creative Design after being thrown out of several well respected ad agencies. As a marketing strategist and creative director, he has delivered blue sky ideas and bottom line results for blue chip national clients and budding challenger brands.   <br /><br />Charlie's an unabashed lover of Detroit where he's actively involved in the social media and entrepreneur communities. Along with a handful of cool friends, he produces the annual TEDxDetroit conference.<br /><br />When he's not building brands, you'll find Charlie inspiring, educating and entertaining business audiences with his lively keynote presentations on marketing, innovation and motivation. Last year, he was named the second best PowerPoint Karaoke presenter in the world. This year, he hopes to win something that people have actually heard of. <br /><br />Charlie is happily married to his unhappily married wife, Elena. They have two young sons with wild imaginations and boundless energy and one lazy cat. ",
     "headshot":"http://www.curvedetroit.com/images/CharlieHeadshot.jpg",
     "twitter":"@CharlieCurve",
-    "email":"charlie@curvedetroit.com",
     "name_anchor":"Charlie-Wollborg",
     "talk_anchor":"pissing-people-off"
   },
@@ -754,7 +686,6 @@
     "bio":"Christopher Smith developer in SE Michigan. He graduated from the University of Michigan, Dearborn with a BS Software Engineering. He has worked for large companies and small start-ups. Currently he get paid to learn Angular, D3, and other JavaScript technology. With his free time he likes to learn from his peers and share what he knows.",
     "headshot":"https://pbs.twimg.com/profile_images/425496919591243777/guka21d0.jpeg",
     "twitter":"@cmsmithco",
-    "email":"chrismsmith@gmail.com",
     "name_anchor":"Christopher-Smith",
     "talk_anchor":"angular"
   },
@@ -765,7 +696,6 @@
     "bio":"Call me \"TC\"<br /><br />Military roots and a career in aviation are an eclectic backdrop for an IT Transformation Leader.  Paralleling his 20 year military career with a civilian career in Information Technology that spanned banking, aerospace, non-profits, health services, marketing, education and consulting, TC has had exposure to organizational design and business challenges in a wide variety of cultures and environments.  <br /><br />He is an enthusiastic IT Leader and understands firsthand, that adaptive and agile execution challenges are as much organizational and cultural as they are technical issues. Fundamental coordination and communication practices are the difference between success and failure on both business and IT projects.  In his experience, he finds the most precious skills to foster are passion for excellence, infinite curiosity, commitment to the skills of human interaction and rigorous execution practices.    <br /><br />                                ",
     "headshot":"https://pbs.twimg.com/profile_images/378800000506692268/00d0e9dd37606a15def62b9ff01e6f41.png",
     "twitter":"@tchurchwell",
-    "email":"tom.churchwell@cengage.com",
     "name_anchor":"Tom-Churchwell",
     "talk_anchor":"trust-teams"
   },
@@ -776,7 +706,6 @@
     "bio":"Mark Stanislav is the Security Evangelist for Duo Security, an Ann Arbor, Michigan-based startup focused on two-factor authentication and mobile security. With a career spanning over a decade, Mark has worked within small business, academia, startup, and corporate environments, primarily focused on Linux architecture, information security, and web application development. <br /><br />Mark has spoken internationally at over 75 events including RSA, ISSA, B-Sides, GrrCon, Infragard, and the Rochester Security Summit. Mark’s security research has been featured on web sites including CSO Online, Security Ledger, and Slashdot. Additionally, Mark is an active participant of local and nationals security organizations including ISSA, Infragard, HTCIA, ArbSec, and MiSec.<br /><br />Mark earned his Bachelor of Science Degree in Networking & IT Administration and his Master of Science Degree in Technology Studies, focused on Information Assurance, both from Eastern Michigan University. During his time at EMU, Mark built the curriculum for two courses focused on Linux administration and taught as an Adjunct Lecturer for two years. Mark holds CISSP, Security+, Linux+, and CCSK certifications.",
     "headshot":"http://www.rsaconference.com/writable/speakers/photo/520x520centertop/mark_stanislav.jpg",
     "twitter":"@markstanislav",
-    "email":"mstanislav@duosecurity.com",
     "name_anchor":"Mark-Stanislav2",
     "talk_anchor":"two-factor"
   },
@@ -787,7 +716,6 @@
     "bio":"Jeff Kelley makes iOS apps for Detroit Labs, and wrote Learn Cocoa Touch for iOS. He’s a frequent guest star on podcasts, CocoaHeads within driving distance of Detroit, and iOS-focused conferences. He’s been working with iOS since its infancy in 2008, and managed the OS X environment at the University of Michigan before that.",
     "headshot":"http://i.imgur.com/NJCt8DH.jpg",
     "twitter":"@SlaunchaMan",
-    "email":"jeff@detroitlabs.com",
     "name_anchor":"Jeff-Kelley2",
     "talk_anchor":"obj-c"
   },
@@ -798,7 +726,6 @@
     "bio":"Chris Nelson is a software developer who hails from the fair city of Cincinnati, Ohio.  Though originally a violin performance major, he has been developing web applications for about 15 years and is passionate about finding better ways to do so.  He's spoken at most of the major ruby and java conferences and helped found Gaslight as a place for people to enjoy building amazing things together.",
     "headshot":"https://drxwg5otdx721.cloudfront.net/static/images/instructor-chris-n.jpg",
     "twitter":"@superchris",
-    "email":"chris@gaslight.co",
     "name_anchor":"Chris-Nelson",
     "talk_anchor":"bright-shiny"
   },
@@ -809,7 +736,6 @@
     "bio":"Daniel Davis is a Business Improvement Consultant, Agile Practitioner/Developer, Innovator, Hacker, and Maker. He has been working in Agile and Agile Software Development for the last nine years. Currently, he is a Delivery Lead with Pillar and has spent the last few years focused on driving solutions at an enterprise level working with companies such as Delphi, AAA Life, General Motors, Blue Cross Blue Shield, Cengage Learning, and Delta Dental. Daniel's prior work background includes a wide range of disciplines such as mobile development, web development, design, marketing, and photography. His prevailing passion lies in helping businesses and people discover the true value in their efforts.",
     "headshot":"https://lh3.googleusercontent.com/-ncPF665rXAw/UpYNcEAPyMI/AAAAAAAAAI4/RKeZ854JIak/s898-no/crazy-hair-dano.jpg",
     "twitter":"@daniel_davis",
-    "email":"daniel.davis.tech@gmail.com",
     "name_anchor":"Daniel-Davis2",
     "talk_anchor":"dev-ops"
   },
@@ -820,9 +746,18 @@
     "bio":"Jensie Wight Simkins is a marketing consultant, content strategist, and branding expert based in Metro Detroit. With a Masters degree from UM-Flint in Composition and Rhetoric, she is passionate about articulating and defining an organization’s brand and effectively conveying it to the community. Her experience ranges from working with large hospitals to small start-ups and non-profit organizations. She believes every organization can benefit from great storytelling and brand integrity.<br /><br />When she's not working, Jensie is a Nerd Nite Detroit co-boss, an organizer of Give Camp Lansing, a wannabe triathlete, a partner to an MSU DO/PhD student, and mom to two great kids.",
     "headshot":"http://www.jensiesimkins.com/wp-content/uploads/2011/06/cropped-162709_10150330135315165_665845164_16085768_6542256_n.jpg",
     "twitter":"@jensie_simkins",
-    "email":"jwightsimkins@gmail.com",
     "name_anchor":"Jensie-Wight-Simkins",
     "talk_anchor":"whos-the-expert"
+  },
+  {
+    "name":"Chris Petersen",
+    "title":"When everyone looks like an idiot, no one looks like an idiot",
+    "description":"Although improv games have been used for theater and comedy for decades, recently they have gotten a lot of use in team-building and brainstorming. Improv can stimulate new ideas through having to create and act as a group. It also enables us to fail in front of others and survive the experience. Developer and improv performer/teacher Chris Petersen will lead the group in a number of improv games and exercises.",
+    "bio":"Chris Petersen has been performing and teaching improv for several years. He trained at Second City Detroit and regularly performs and teaches at Go Comedy Improv Theater in Ferndale. After working as a project manager/delivery lead at Detroit Labs, he has recently started learning iOS development.",
+    "headshot":"https://i.imgur.com/LzE096K.jpg",
+    "twitter":"@cdpetersenmi",
+    "name_anchor":"Chris-Petersen",
+    "talk_anchor":"improv"
   },
   {
     "name":"Jason Stolaruk",
@@ -831,7 +766,6 @@
     "bio":"Jason Stolaruk has dabbled with programming in everything from assembly to Common Lisp from a young age. He works at Detroit Labs where he creates Android apps. Over the last year, he has become stricken with the sickness of Haskell monomania, and his unfortunate condition continues to worsen daily.",
     "headshot":"http://photos4.meetupstatic.com/photos/member/2/a/3/c/highres_105370812.jpeg",
     "twitter":"@JasonStolaruk",
-    "email":"jason@detroitlabs.com",
     "name_anchor":"Jason-Stolaruk",
     "talk_anchor":"haskell"
   }
