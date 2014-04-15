@@ -9,7 +9,7 @@ SC.speakers = (function($) {
             '<img src="<%= speaker.headshot %>" class="img-polaroid img-rounded speaker-img pull-left">' +
             '<h4><%= speaker.name %> – <%= speaker.title %></h4>' +
             '<% if (speaker.twitter) { %>' +
-            '<h5 class="italic"><a href="http://twitter.com/<%= speaker.Twitter %>"><%= speaker.twitter %></a></h5>' +
+            '<h5 class="italic"><a href="http://twitter.com/<%= speaker.twitter %>"><%= speaker.twitter %></a></h5>' +
             '<% } %>' +
             '<p><%= speaker.description %></p>' +
 
