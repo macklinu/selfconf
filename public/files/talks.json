@@ -1,0 +1,146 @@
+[
+  {
+    "name":"Jeff Kelley",
+    "title":"Understanding Objective-C Inside and Out",
+    "twitter":"@SlaunchaMan",
+    "talk_anchor":"obj-c"
+  },
+  {
+    "name":"David Giard",
+    "title":"Own Your Own Career – Advice from a Veteran Consultant",
+    "twitter":"@DavidGiard",
+    "talk_anchor":"own-career"
+  },
+  {
+    "name":"Andrew Kehrig",
+    "title":"PHP misses you.",
+    "twitter":"@andrewkehrig",
+    "talk_anchor":"php"
+  },
+  {
+    "name":"Charlie Wollborg",
+    "title":"The Virtue of Pissing People Off",
+    "twitter":"@CharlieCurve",
+    "talk_anchor":"pissing-people-off"
+  },
+  {
+    "name":"Terry Wiegmann",
+    "title":"Rock Your Retrospectives!",
+    "twitter":"@twieg",
+    "talk_anchor":"retrospectives"
+  },
+  {
+    "name":"Dave Goerlich",
+    "title":"Ruby in the Real World",
+    "twitter":"@dgoerlich",
+    "talk_anchor":"ruby"
+  },
+  {
+    "name":"Julie Cameron",
+    "title":"Getting Sassy with CSS",
+    "twitter":"@jewlofthelotus",
+    "talk_anchor":"sassy-css"
+  },
+  {
+    "name":"Alex Koppel",
+    "title":"iPads everywhere: Working with tablets at scale",
+    "twitter":"@arsduo",
+    "talk_anchor":"scale-tablets"
+  },
+  {
+    "name":"J Wolfgang Goerlich",
+    "title":"SDLC in Hostile Environments",
+    "twitter":"@jwgoerlich",
+    "talk_anchor":"sdlc"
+  },
+  {
+    "name":"E.J. Dyksen",
+    "title":"Seamless Software: Making All the Pieces Fit",
+    "twitter":"@ejdyksen",
+    "talk_anchor":"seamless-software"
+  },
+  {
+    "name":"Mark Stanislav",
+    "title":"How We're Failing to Secure the \"Internet of Things\"",
+    "twitter":"@markstanislav",
+    "talk_anchor":"secure-iot"
+  },
+  {
+    "name":"Nilanjan Raychaudhuri",
+    "title":"self.improve",
+    "twitter":"@nraychaudhuri",
+    "talk_anchor":"self-improve"
+  },
+  {
+    "name":"Ryan Cromwell",
+    "title":"Sweet Elixir! A Gentle Introduction to Erlang’s cute younger brother Elixir",
+    "twitter":"@cromwellryan",
+    "talk_anchor":"sweet-elixir"
+  },
+  {
+    "name":"Scott Radcliff",
+    "title":"Teaching Programmers Through Empathy",
+    "twitter":"@scottradcliff",
+    "talk_anchor":"teaching-empathy"
+  },
+  {
+    "name":"Jonah Bailey",
+    "title":"Living Happily Ever After in Balanced Team Land",
+    "twitter":"@jonahbailey",
+    "talk_anchor":"team-balance"
+  },
+  {
+    "name":"Jeffery Thomas",
+    "title":"Big Improvements Can Come in Tiny Classes",
+    "twitter":"@jeffery_thomas",
+    "talk_anchor":"tiny-classes"
+  },
+  {
+    "name":"Aimme Keener",
+    "title":"Choose a tribe.  Not a job.",
+    "twitter":"@AimmeKeener",
+    "talk_anchor":"tribe"
+  },
+  {
+    "name":"Tom Churchwell",
+    "title":"Trust Centered Teams",
+    "twitter":"@tchurchwell",
+    "talk_anchor":"trust-teams"
+  },
+  {
+    "name":"Mark Stanislav",
+    "title":"Two-Factor Authentication for Developers",
+    "twitter":"@markstanislav",
+    "talk_anchor":"two-factor"
+  },
+  {
+    "name":"Bill Wagner",
+    "title":"Introduction to TypeScript",
+    "twitter":"@billwagner",
+    "talk_anchor":"typescript"
+  },
+  {
+    "name":"Scott Weber",
+    "title":"Effective Use of the Volley Networking Library",
+    "twitter":"@ScottDWeber",
+    "talk_anchor":"volley-networking"
+  },
+  {
+    "name":"Jensie Wight Simkins",
+    "title":"Who's the Expert Here, Anyway? ",
+    "twitter":"@jensie_simkins",
+    "talk_anchor":"whos-the-expert"
+  },
+  {
+    "name":"Jonathan Ozeran",
+    "title":"The Tail of a Wireless Dog Collar: Building a Hardware Product with a Globally Dispersed Team for Fun and Profit",
+    "twitter":"@jozeran",
+    "talk_anchor":"wireless-dog-collar"
+  },
+  {
+    "name":"April Jefferson & Gerry Kirk",
+    "title":"It's Your Fault!",
+    "twitter":"@_AprilJefferson & @gerrykirk",
+    "talk_anchor":"your-fault"
+  }
+]

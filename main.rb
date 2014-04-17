@@ -17,4 +17,10 @@ class SelfConf < Sinatra::Application
     @title = 'Speakers | Self.conference'
     erb :speakers
   end
+
+  get '/tweets' do
+    @title = 'Tweets | Self.conference'
+    @tweets = JSON.parse(File.read('public/files/talks.json'))
+    erb :tweets
+  end
 end

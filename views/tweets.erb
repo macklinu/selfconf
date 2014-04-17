@@ -1,0 +1,15 @@
+<div class="mid_block">
+	<div class="container">
+		<div class="row">
+			<div class="offset1 span10">
+				<ul class="speaker-list">
+                    <% @tweets.each do | tweet | %>
+                        <li>
+                            <p>"<%= tweet['title'] %>" with <%= tweet['twitter'] %> is at #selfconf! http://selfconference.org/speakers#<%= tweet['talk_anchor'] %></p>
+                        </li>
+                    <% end %>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
