@@ -17,4 +17,9 @@ class SelfConf < Sinatra::Application
     @title = 'Speakers | Self.conference'
     erb :speakers
   end
+
+  get '/schedule' do
+    @title = 'Schedule | Self.conference'
+    erb :schedule
+  end
 end

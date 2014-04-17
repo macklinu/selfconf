@@ -30,9 +30,9 @@
     <meta name="description" content="Two days of tech talks to provide you the opportunity to grow, mentor and learn as yourself, a part of the community, and a part of Detroit." />
     <title><%= @title %></title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
 
     <script type="text/javascript" src="js/underscore-min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
@@ -40,7 +40,39 @@
     <script type="text/javascript" src="js/speakers.js"></script>
 </head>
 <body>
-<div class="top_line"></div>
+
+<div class="navbar navbar-fixed-top" id="main-nav">
+    <div class="navbar-inner">
+        <div class="container">
+            <div class="row">
+                <div class="offset1 span10">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+
+                    <div class="nav-collapse collapse">
+                        <ul class="nav">
+                            <li class="active"><a href="/">home</a></li>
+                            <li><a href="/#keynote">keynote</a></li>
+                            <li><a href="/#location">location</a></li>
+                            <li><a href="/#register">register</a></li>
+                            <li><a href="/speakers">speakers</a></li>
+                            <li><a href="/schedule">schedule</a></li>
+                            <li><a href="/#sponsors">sponsors</a></li>
+                            <li><a href="/#organizers">organizers</a></li>
+                            <li><a href="/coc">code of conduct</a></li>
+                            <li><a href="http://twitter.com/selfconference"><img src="../img/twitter.png" class="social"></a></li>
+                            <li><a href="http://lanyrd.com/2014/selfconf/"><img src="../img/lanyrd.png" class="social"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="top_block">
     <a href="/">
         <header class="jumbotron subhead">
@@ -66,22 +98,6 @@
 
 <div>
     <%= yield %>
-</div>
-
-<div class="top_block">
-    <div class="container">
-        <div class="row">
-            <div class="offset1 span10">
-                <ul class="footer">
-                    <li><a href="coc">Code of Conduct</a></li>
-                    <li class="muted">·</li>
-                    <li><a href="http://twitter.com/selfconference">@selfconference</a></li>
-                    <li class="muted">·</li>
-                    <li><a href="http://lanyrd.com/2014/selfconf/">Lanyrd</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
 </div>
 
 <script type="text/javascript">
