@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'sinatra'
 require 'json'
+require 'date'
 
 class SelfConf < Sinatra::Application
   get '/' do
@@ -23,6 +24,8 @@ class SelfConf < Sinatra::Application
 
   get '/schedule' do
     @title = 'Schedule | Self.conference'
+    talks = JSON.parse(File.read('public/files/schedule.json'))
+    @schedule = talks.sort_by { | talk | [DateTime.strptime(talk['beginning'], '%m/%d/%Y %H:%M:%S'), talk['room']] }.group_by { | thing | thing['beginning'] }
     erb :schedule
   end
 end
