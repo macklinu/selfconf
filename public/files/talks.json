@@ -1,47 +1,5 @@
 [
   {
-    "name":"Jeff Kelley",
-    "title":"Understanding Objective-C Inside and Out",
-    "twitter":"@SlaunchaMan",
-    "talk_anchor":"obj-c"
-  },
-  {
-    "name":"David Giard",
-    "title":"Own Your Own Career – Advice from a Veteran Consultant",
-    "twitter":"@DavidGiard",
-    "talk_anchor":"own-career"
-  },
-  {
-    "name":"Andrew Kehrig",
-    "title":"PHP misses you.",
-    "twitter":"@andrewkehrig",
-    "talk_anchor":"php"
-  },
-  {
-    "name":"Charlie Wollborg",
-    "title":"The Virtue of Pissing People Off",
-    "twitter":"@CharlieCurve",
-    "talk_anchor":"pissing-people-off"
-  },
-  {
-    "name":"Terry Wiegmann",
-    "title":"Rock Your Retrospectives!",
-    "twitter":"@twieg",
-    "talk_anchor":"retrospectives"
-  },
-  {
-    "name":"Dave Goerlich",
-    "title":"Ruby in the Real World",
-    "twitter":"@dgoerlich",
-    "talk_anchor":"ruby"
-  },
-  {
-    "name":"Julie Cameron",
-    "title":"Getting Sassy with CSS",
-    "twitter":"@jewlofthelotus",
-    "talk_anchor":"sassy-css"
-  },
-  {
     "name":"Alex Koppel",
     "title":"iPads everywhere: Working with tablets at scale",
     "twitter":"@arsduo",
