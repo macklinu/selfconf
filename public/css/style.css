@@ -61,6 +61,10 @@ p {
 	margin: 0 0 15px 0;
 }
 
+table {
+    font-size: 15px;
+}
+
 .navbar-inner {
     background-color: #7d8fac;
     background-image: none;
@@ -68,11 +72,12 @@ p {
     color: #f7f7f7;
 }
 
-.navbar a {
+.navbar a, .navbar-collapse a {
     color: #f7f7f7;
 }
 
-.navbar .nav>li>a {
+.navbar .nav>li>a,
+.navbar-collapse .nav>li>a {
     color: #f7f7f7;
     font-weight: 500;
     font-size: 16px;
@@ -82,13 +87,21 @@ p {
     padding: 10px 11px;
 }
 
-.navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus {
+.navbar .nav>.active>a,
+.navbar .nav>.active>a:hover,
+.navbar .nav>.active>a:focus
+.nav-collapse .nav>.active>a,
+.nav-collapse .nav>.active>a:hover,
+.nav-collapse .nav>.active>a:focus {
     background-color: #364660;
     color: #f7f7f7;
     font-weight: 900;
 }
 
-.navbar .nav>li>a:focus, .navbar .nav>li>a:hover {
+.navbar .nav>li>a:focus,
+.navbar .nav>li>a:hover,
+.nav-collapse .nav>li>a:focus,
+.nav-collapse .nav>li>a:hover {
     background-color: #364660;
     color: #f7f7f7;
 }
