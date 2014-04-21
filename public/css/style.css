@@ -234,9 +234,13 @@ ul.tag-line {
 }
 
 .speaker {
-	margin-bottom: 40px;
+    padding-top: 60px;
 	padding-bottom: 30px;
 	border-bottom: 1px solid #b80c0c;
+}
+
+.speaker:first-child {
+    padding-top: 0;
 }
 
 .nav {
@@ -259,7 +263,7 @@ ul.tag-line {
 
 .speaker-nav.affix {
     position: fixed;
-    top: 30px;
+    top: 60px;
 }
 
 .speaker-nav li {

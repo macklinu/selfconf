@@ -15,6 +15,9 @@ class SelfConf < Sinatra::Application
 
   get '/speakers' do
     @title = 'Speakers | Self.conference'
+    @speakers = JSON.parse(File.read('public/files/speakers.json'))
+    @speaker_nav = @speakers.map { | speaker | { :name => speaker['name'], :anchor => speaker['name_anchor'] } }.sort_by { | speaker | speaker[:name] }
+    @talk_nav = @speakers.map { | speaker | { :title => speaker['title'], :anchor => speaker['talk_anchor'] } }.sort_by { | speaker | speaker[:title] }
     erb :speakers
   end
 

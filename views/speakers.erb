@@ -11,12 +11,24 @@
                     <div class="tab-content">
                         <div class="tab-pane active" id="names">
                             <div class="nav-wrapper">
-                                <ul class="nav nav-list"></ul>
+                                <ul class="nav nav-list">
+                                    <% @speaker_nav.each do | speaker | %>
+                                        <li>
+                                            <a href="#<%= speaker[:anchor] %>"><i class="icon-chevron-right"></i><%= speaker[:name] %></a>
+                                        </li>
+                                    <% end %>
+                                </ul>
                             </div>
                         </div>
                         <div class="tab-pane" id="talks">
                             <div class="nav-wrapper">
-                                <ul class="nav nav-list"></ul>
+                                <ul class="nav nav-list">
+                                    <% @talk_nav.each do | talk | %>
+                                        <li>
+                                            <a href="#<%= talk[:anchor] %>"><i class="icon-chevron-right"></i><%= talk[:title] %></a>
+                                        </li>
+                                    <% end %>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -24,7 +36,23 @@
             </div>
 
 			<div class="span7">
-				<ul class="speaker-list"></ul>
+				<ul class="speaker-list">
+                    <% @speakers.each do | speaker | %>
+                        <li class="speaker" id="<%= speaker['name_anchor'] %>">
+                            <div id="<%= speaker['talk_anchor'] %>">
+                                <img src="<%= speaker['headshot'] %>" class="img-polaroid img-rounded speaker-img pull-left">
+                                <h4><%= speaker['name'] %> – <%= speaker['title'] %></h4>
+                                <% if (speaker['twitter']) %>
+                                <h5 class="italic"><a href="http://twitter.com/<%= speaker['twitter'] %>"><%= speaker['twitter'] %></a></h5>
+                                <% end %>
+                                <p><%= speaker['description'] %></p>
+
+                                <h5 class="italic">About <%= speaker['name'] %>:</h5>
+                                <p><%= speaker['bio'] %></p>
+                            </div>
+                        </li>
+                    <% end %>
+				</ul>
 			</div>
 		</div>
 	</div>
@@ -32,9 +60,7 @@
 
 <script type="text/javascript">
     $(function() {
-        SC.speakers();
-
-        $('.speaker-nav ul>li>a').click(function (e) {
+        $('.nav-tabs li>a').click(function (e) {
             e.preventDefault();
             $(this).tab('show');
         })
