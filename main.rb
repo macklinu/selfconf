@@ -25,7 +25,11 @@ class SelfConf < Sinatra::Application
   get '/schedule' do
     @title = 'Schedule | Self.conference'
     talks = JSON.parse(File.read('public/files/schedule.json'))
-    @schedule = talks.sort_by { | talk | [DateTime.strptime(talk['beginning'], '%m/%d/%Y %H:%M:%S'), talk['room']] }.group_by { | thing | thing['beginning'] }
+    schedule = talks.sort_by { | talk | [DateTime.strptime(talk['beginning'], '%m/%d/%Y %H:%M:%S'), talk['room']] }.group_by { | thing | thing['beginning'] }
+
+    @friday = schedule.select{|key| key.include? '05/30/2014' }
+    @saturday = schedule.select{|key| key.include? '05/31/2014' }
+
     erb :schedule
   end
 end

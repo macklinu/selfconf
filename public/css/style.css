@@ -65,6 +65,10 @@ table {
     font-size: 15px;
 }
 
+table h5 {
+    font-size: 15px;
+}
+
 .navbar-inner {
     background-color: #7d8fac;
     background-image: none;
