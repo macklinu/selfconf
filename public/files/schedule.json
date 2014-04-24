@@ -164,7 +164,7 @@
     "title":"Web Components: The Bright and Shiny Future of Web app development",
     "anchor":"bright-shiny",
     "room":"B",
-    "beginning":"05/30/2014 14:00:00",
+    "beginning":"05/31/2014 16:00:00",
     "slots":1
   },
   {
@@ -388,7 +388,7 @@
     "title":"The Tail of a Wireless Dog Collar: Building a Hardware Product with a Globally Dispersed Team for Fun and Profit",
     "anchor":"wireless-dog-collar",
     "room":"E",
-    "beginning":"05/31/2014 16:00:00",
+    "beginning":"05/30/2014 14:00:00",
     "slots":1
   },
   {
@@ -432,6 +432,14 @@
     "slots":1
   },
   {
+    "name":"Les Orchard",
+    "title":"Firefox OS: Web Native",
+    "anchor":"firefox",
+    "room": "E",
+    "beginning":"05/30/2014 11:00:00",
+    "slots":1
+  },
+  {
     "name":"Lien Van Den Steen",
     "title":"Pivoting myself or How I stopped hiding behind the word “junior” in “Junior Web Developer”",
     "anchor":"dev-pivot",
@@ -454,14 +462,6 @@
     "room":"Ballroom",
     "beginning":"05/31/2014 12:00:00",
     "slots":2
-  },
-  {
-    "name":"Unconfirmed",
-    "title":"Unconfirmed",
-    "anchor":"none",
-    "room":"E",
-    "beginning":"05/30/2014 11:00:00",
-    "slots":1
   },
   {
     "name":"Magnus Stahre",

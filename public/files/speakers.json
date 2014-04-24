@@ -210,6 +210,16 @@
     "talk_anchor":"feedback"
   },
   {
+    "name":"Les Orchard",
+    "title":"Firefox OS: Web Native",
+    "description":"Firefox OS is a new mobile operating system developed by Mozilla where the Web is native. This includes the development of WebAPIs as open standards that improve access to hardware & device features, along with the tools to build open marketplaces for the distribution of Web-based apps.<br /><br />This session aims to offer a look at what all that means for Web developers, what you can build for it, and even how you can get under the hood and hack on the thing itself.",
+    "bio":"Les is a {web,mad,computer} scientist; {tech,scifi} writer; and home{brew,roast}er. He telecommutes as a web developer for the Mozilla Corporation from his home office in Royal Oak, MI. Lately, the Mozilla Developer Network (<a href=\"http://developer.mozilla.org/\">developer.mozilla.org</a>) has been the focus of his workaday world, helping to grow one of the best places on the Web to learn about the Web. At night, he does even more webdev for fun while hanging out with his awesome wife, 3 cats, 2 bunnies, and a house full of video games and gadgets.",
+    "headshot":"http://i.imgur.com/W5Zcuwf.jpg",
+    "twitter":"@lmorchard",
+    "name_anchor":"Les-Orchard",
+    "talk_anchor":"firefox"
+  },
+  {
     "name":"Aaron Maturen",
     "title":"Forms, the Universe and Everything",
     "description":"It’s inevitable at some point you’re going to need a form on your website somewhere. Gone are the days of your Grandparent’s web forms. With the advent of HTML5 our options for types have exploded, it is now possible to make forms that are more functional, more usable, and a joy to use. That’s just using vanilla html, how much more trouble can we get in if we start playing with CSS and JavaScript? I for one, am tired of trying to use forms with the wrong input types on my smartphone. Won’t you join me in the coalition to end inferior forms, to make the world better for everyone?",
