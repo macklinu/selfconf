@@ -61,8 +61,63 @@ p {
 	margin: 0 0 15px 0;
 }
 
+table {
+    font-size: 15px;
+}
+
+table h5 {
+    font-size: 15px;
+}
+
+.navbar-inner {
+    background-color: #7d8fac;
+    background-image: none;
+    border: none;
+    color: #f7f7f7;
+}
+
+.navbar a, .navbar-collapse a {
+    color: #f7f7f7;
+}
+
+.navbar .nav>li>a,
+.navbar-collapse .nav>li>a {
+    color: #f7f7f7;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    text-shadow: none;
+    font-family: "Lato";
+    padding: 10px 11px;
+}
+
+.navbar .nav>.active>a,
+.navbar .nav>.active>a:hover,
+.navbar .nav>.active>a:focus
+.nav-collapse .nav>.active>a,
+.nav-collapse .nav>.active>a:hover,
+.nav-collapse .nav>.active>a:focus {
+    background-color: #364660;
+    color: #f7f7f7;
+    font-weight: 900;
+}
+
+.navbar .nav>li>a:focus,
+.navbar .nav>li>a:hover,
+.nav-collapse .nav>li>a:focus,
+.nav-collapse .nav>li>a:hover {
+    background-color: #364660;
+    color: #f7f7f7;
+}
+
+.social {
+    width: 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .credit-line {
-	font-style: italic;
+    font-style: italic;
 }
 
 a {
@@ -130,7 +185,11 @@ a {
         width: 190px;
     }
 
-	h1{
+    body {
+        padding-top: 92px;
+    }
+
+    h1{
 		font-size: 116px;
 		padding: 50px 0px 46px 0px;
 	}
@@ -147,7 +206,11 @@ a {
         width: 240px;
     }
 
-	h1{
+    body {
+        padding-top: 46px;
+    }
+
+    h1{
 		font-size: 146px;
 		padding: 60px 0px 60px 0px;
 	}
@@ -188,9 +251,13 @@ ul.tag-line {
 }
 
 .speaker {
-	margin-bottom: 40px;
+    padding-top: 60px;
 	padding-bottom: 30px;
 	border-bottom: 1px solid #b80c0c;
+}
+
+.speaker:first-child {
+    padding-top: 0;
 }
 
 .nav {
@@ -213,7 +280,7 @@ ul.tag-line {
 
 .speaker-nav.affix {
     position: fixed;
-    top: 30px;
+    top: 60px;
 }
 
 .speaker-nav li {

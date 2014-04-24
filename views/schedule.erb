@@ -1,0 +1,105 @@
+<div class="mid_block">
+	<div class="container">
+		<div class="row">
+            <div class="offset1 span10">
+                <div class="visible-desktop">
+                    <h4>Friday, May 30th</h4>
+                    <table class="table table-striped table-bordered">
+                        <% @friday.keys.each do | slot | %>
+                            <tr>
+                                <td>
+                                     <h5><%= DateTime.strptime(slot, '%m/%d/%Y %H:%M:%S').strftime('%l:%M %p') %></h5>
+                                </td>
+
+                                <% rooms = @friday[slot] %>
+                                <% if (rooms.length > 1) %>
+                                    <% rooms.each do | row | %>
+                                        <td <% if (row['slots'] > 1) %>rowspan="<%= row['slots'] %>"<% end %>>
+                                            <% hasLink = row['anchor'] != 'none' %>
+                                            <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                            <%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %>
+                                            <% if hasLink %></a><% end %>
+                                        </td>
+                                    <% end %>
+                                <% else %>
+                                    <td colspan="7">
+                                        <% row = @friday[slot].first %>
+                                        <% hasLink = row['anchor'] != 'none' %>
+                                        <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                        <%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %>
+                                        <% if hasLink %></a><% end %>
+                                    </td>
+                                <% end %>
+                            </tr>
+                        <% end %>
+                    </table>
+
+                    <h4>Saturday, May 31st</h4>
+                    <table class="table table-striped table-bordered">
+                        <% @saturday.keys.each do | slot | %>
+                            <tr>
+                                <td>
+                                     <h5><%= DateTime.strptime(slot, '%m/%d/%Y %H:%M:%S').strftime('%l:%M %p') %></
+                                </td>
+
+                                <% rooms = @saturday[slot] %>
+                                <% if (rooms.length > 1) %>
+                                    <% rooms.each do | row | %>
+                                        <td <% if (row['slots'] > 1) %>rowspan="<%= row['slots'] %>"<% end %>>
+                                            <% hasLink = row['anchor'] != 'none' %>
+                                            <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                            <%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %>
+                                            <% if hasLink %></a><% end %>
+                                        </td>
+                                    <% end %>
+                                <% else %>
+                                    <td colspan="7">
+                                        <% row = @saturday[slot].first %>
+                                        <% hasLink = row['anchor'] != 'none' %>
+                                        <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                        <%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %>
+                                        <% if hasLink %></a><% end %>
+                                    </td>
+                                <% end %>
+                            </tr>
+                        <% end %>
+                    </table>
+                </div>
+
+                <div class="hidden-desktop">
+                    <h4>Friday, May 30th</h4>
+                    <% @friday.keys.each do | slot | %>
+                        <h5><%= DateTime.strptime(slot, '%m/%d/%Y %H:%M:%S').strftime('%l:%M %p') %></h5>
+                        <ul>
+                            <% rooms = @friday[slot] %>
+                            <% rooms.each do | row | %>
+                                <li>
+                                    <% hasLink = row['anchor'] != 'none' %>
+                                    <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                    <%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %>
+                                    <% if hasLink %></a><% end %>
+                                </li>
+                            <% end %>
+                        </ul>
+                    <% end %>
+
+                    <h4>Saturday, May 31st</h4>
+                    <% @saturday.keys.each do | slot | %>
+                        <h5><%= DateTime.strptime(slot, '%m/%d/%Y %H:%M:%S').strftime('%l:%M %p') %></h5>
+                        <ul>
+                            <% rooms = @saturday[slot] %>
+                            <% rooms.each do | row | %>
+                                <li>
+                                    <% hasLink = row['anchor'] != 'none' %>
+                                    <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                    <%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %>
+                                    <% if hasLink %></a><% end %>
+                                </li>
+                            <% end %>
+                        </ul>
+                    <% end %>
+                </div>
+            </div>
+		</div>
+	</div>
+</div>
