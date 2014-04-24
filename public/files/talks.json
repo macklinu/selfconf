@@ -1,53 +1,5 @@
 [
   {
-    "name":"Alex Koppel",
-    "title":"iPads everywhere: Working with tablets at scale",
-    "twitter":"@arsduo",
-    "talk_anchor":"scale-tablets"
-  },
-  {
-    "name":"J Wolfgang Goerlich",
-    "title":"SDLC in Hostile Environments",
-    "twitter":"@jwgoerlich",
-    "talk_anchor":"sdlc"
-  },
-  {
-    "name":"E.J. Dyksen",
-    "title":"Seamless Software: Making All the Pieces Fit",
-    "twitter":"@ejdyksen",
-    "talk_anchor":"seamless-software"
-  },
-  {
-    "name":"Mark Stanislav",
-    "title":"How We're Failing to Secure the \"Internet of Things\"",
-    "twitter":"@markstanislav",
-    "talk_anchor":"secure-iot"
-  },
-  {
-    "name":"Nilanjan Raychaudhuri",
-    "title":"self.improve",
-    "twitter":"@nraychaudhuri",
-    "talk_anchor":"self-improve"
-  },
-  {
-    "name":"Ryan Cromwell",
-    "title":"Sweet Elixir! A Gentle Introduction to Erlang’s cute younger brother Elixir",
-    "twitter":"@cromwellryan",
-    "talk_anchor":"sweet-elixir"
-  },
-  {
-    "name":"Scott Radcliff",
-    "title":"Teaching Programmers Through Empathy",
-    "twitter":"@scottradcliff",
-    "talk_anchor":"teaching-empathy"
-  },
-  {
-    "name":"Jonah Bailey",
-    "title":"Living Happily Ever After in Balanced Team Land",
-    "twitter":"@jonahbailey",
-    "talk_anchor":"team-balance"
-  },
-  {
     "name":"Jeffery Thomas",
     "title":"Big Improvements Can Come in Tiny Classes",
     "twitter":"@jeffery_thomas",
