@@ -120,6 +120,16 @@
     "talk_anchor":"cross-platofrm"
   },
   {
+    "name":"Jeff Seagard",
+    "title":"Build Cross-Platform Apps that Work When All Else Fails",
+    "description":"Anyone with a phone knows that despite widespread coverage cellular connections are spotty and often slower and weaker than what we hope.<br /><br />Are your apps one of the few that responsibly handles connectivity issues and manages delays and stale data for the user?  Based upon experiences designing and deploying applications in areas hit by natural disasters, we will discuss best practices and strategies for coding these responsible applications across mobile platforms that minimize data transferred, connection delays, store and forward uploads and requests, and use fallback technologies, like SMS, that are more likely to work in limited connectivity scenarios.  To help you build consistent user experiences across device platforms we will focus on implementations with C# and .NET, leveraging open source frameworks and Mono/Xamarin across Windows Phone, Windows 8 and iOS & Android apps.",
+    "bio":"Jeff Seagard is the chief cloud and development Technology Architect at the Microsoft Technology Center in Chicago. He has 18 years of experience in software covering consulting, development, architecture, and technical sales. He has spent the last 13 years at Microsoft where he leads sessions varying from peeling the onion identifying business needs in briefings, white-boarding architecture in design sessions, to rolling up his sleeves and coding in POCs. He has a passion for .NET and mobile app development and has recently presented at MonkeySpace and the St. Louis Days of .NET.",
+    "headshot":"https://pbs.twimg.com/profile_images/459401837922095104/CwG5kolU.jpeg",
+    "twitter":"@jseagard",
+    "name_anchor":"Jeff-Seagard",
+    "talk_anchor":"cross-platofrm"
+  },
+  {
     "name":"Talia Selitsky",
     "title":"Building Glass with Class",
     "description":"Google released their Glass Development Kit(GDK) Sneak Preview recently for Google Glass.  The GDK is an add-on to the Android SDK.  Android developers can now make glassware using the programming paradigms that they are used to.  Most of the APIs are the same, with some specific features for Glass. Glass apps can now be built for offline-use, real-time user interaction, and have more access to the hardware. This workshop walks through the basics of glassware creation using the GDK, and helps developers write their first Google Glass apps.",
@@ -668,16 +678,6 @@
     "twitter":"@bkorzynski",
     "name_anchor":"Brian-Korzynski2",
     "talk_anchor":"linq"
-  },
-  {
-    "name":"Jonathan Ozeran",
-    "title":"The Tail of a Wireless Dog Collar: Building a Hardware Product with a Globally Dispersed Team for Fun and Profit",
-    "description":"This is the tale of a globally distributed team of individuals who came together to build a product for their dogs in 2013 without ever having been in the same room together. Month by month, the team started to grow and now includes individuals from the U.S., Canada, France, Germany, Venezuela and Pakistan, all working to bring the product to life and into the marketplace of wearable dog collars.<br /><br />A few of the experiences to be shared with the audience will include how team member initiatives and responsibilities have been divvied up, approaches to making routine team communication work, insights into assembling software engineering talent and building a business pipeline of customer demand and preorders. Additionally, current challenges will be shared and discussed alongside open Q&A.",
-    "bio":"Jonathan is a product designer, software engineer, team builder and startup evangelist who enjoys contributing to the growth of the Chicago and Detroit startup communities.<br /><br />In his current role, Jonathan serves as VP, Product at Zest Health, a Chicago-based start-up that is reinventing the healthcare experience for its members via mHealth innovation. Backed by Lightbank and 7wire Ventures, Zest’s dual focus on healthcare innovation and consumerism is deeply engrained in the company’s DNA. Additionally, he is an Adjunct Lecturer at Northwestern University where he teaches mobile application design and prototyping and also serves as Technical Director and Co-Founder at Ridogulous Labs.<br /><br />In an earlier role as VP of Product & Mobile for RECSOLU, he led product development and focused on the customer experience, API architecture and mobile applications in a mission to reinvent face-to-face recruiting via a SaaS enterprise platform and connected mobile apps. <br /><br />Prior to RECSOLU, he served as mobile technology strategist and headed the design team for Lextech, a mobile engineering group focused on Fortune-1000 enterprise customers looking to deploy custom business apps to an employee workforce.<br /><br />Before Lextech, he built and led the mobile applications / R&D group for the Tribune Company and was responsible for several dozen apps from conception to shipping including the L.A. Times for iPhone, Chicago Blackhawks for Android, etc as well as the architecture, design and delivery of mobile tools and APIs used across newspaper, radio and television businesses.<br /><br />Academically, Jonathan received a bachelor's degree in political science from the University of Michigan and a master's degree in computer & information systems from Northwestern University.",
-    "headshot":"https://media.licdn.com/media/p/7/005/00d/1f8/07f2eef.jpg",
-    "twitter":"@jozeran",
-    "name_anchor":"Jonathan-Ozeran",
-    "talk_anchor":"wireless-dog-collar"
   },
   {
     "name":"Charlie Wollborg",

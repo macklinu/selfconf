@@ -384,9 +384,9 @@
     "slots":1
   },
   {
-    "name":"Jonathan Ozeran",
-    "title":"The Tail of a Wireless Dog Collar: Building a Hardware Product with a Globally Dispersed Team for Fun and Profit",
-    "anchor":"wireless-dog-collar",
+    "name":"Unconfirmed",
+    "title":"Unconfirmed",
+    "anchor":"none",
     "room":"E",
     "beginning":"05/30/2014 14:00:00",
     "slots":1
@@ -616,7 +616,7 @@
     "slots":1
   },
   {
-    "name":"Tony Surma",
+    "name":"Tony Surma & Jeff Seagard",
     "title":"Build Cross-Platform Apps that Work When All Else Fails",
     "anchor":"cross-platofrm",
     "room":"C",
