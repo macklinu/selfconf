@@ -283,8 +283,8 @@
     "name":"Jamie Wright",
     "title":"A Tale of Two Apps : How Ember Changed the Way I Build Web Apps",
     "anchor":"ember",
-    "room":"C",
-    "beginning":"05/31/2014 15:00:00",
+    "room":"E",
+    "beginning":"05/30/2014 14:00:00",
     "slots":1
   },
   {
@@ -384,11 +384,11 @@
     "slots":1
   },
   {
-    "name":"Unconfirmed",
-    "title":"Unconfirmed",
-    "anchor":"none",
-    "room":"E",
-    "beginning":"05/30/2014 14:00:00",
+    "name":"Adam Kempa",
+    "title":"How to build a time machine: WhatWasThere.com case study",
+    "anchor":"Adam-Kempa",
+    "room":"C",
+    "beginning":"05/31/2014 15:00:00",
     "slots":1
   },
   {

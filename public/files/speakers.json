@@ -310,6 +310,16 @@
     "talk_anchor":"high-schoolers"
   },
   {
+    "name":"Adam Kempa",
+    "title":"How to build a time machine: WhatWasThere.com case study",
+    "description":"A look at the challenges encountered when attempting to use javascript, Google APIs, and crowdsourcing to travel into the past.",
+    "bio":"Adam Kempa lives in Ann Arbor, Michigan with his wife, cat, and two elderly beagles. He works on “internet-related things” at Enlighten (enlighten.com). He's super into vinyl, Lego, pinball, and craft beer. You can follow his ongoing nerdly pursuits at Kempa.com.",
+    "headshot":"http://www.kempa.com/photos/2013-Adam-Kempa-Photo.jpg",
+    "twitter":"@adamkempa",
+    "name_anchor":"Adam-Kempa",
+    "talk_anchor":"time-machine"
+  },
+  {
     "name":"Mark Stanislav",
     "title":"How We're Failing to Secure the \"Internet of Things\"",
     "description":"This presentation will do a deep dive into security research, outcomes, and recommendations for two very different contexts of improperly securing the \"Internet of Things\".<br /><br />Discussion of network protocols, iOS reverse engineering, firmware security, cloud APIs, and other technical topics will be presented in a straight-forward manner to help ensure that every attendee walking out will know what avenues lead to failure when designing software for Internet-enabled devices.<br /><br />Hear first hand about the research Mark has conducted that has exposed critical failures in seemingly secure devices that inadvertently put consumers at risk for compromise of personal data and worse. Mark will also explain a best practices list of what to do if a security research ever contacts you to make sure the process goes as well as possible for your company.<br /><br />If you're a developer who plans to work on embedded devices (especially with a mobile component) this talk will give you real-world examples of what not to do with your software. Don’t make the same mistakes others have as we continue to quickly expand the network of connectivity-centric devices populating our homes, businesses, and pockets.",
