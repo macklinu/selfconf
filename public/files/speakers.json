@@ -673,21 +673,11 @@
     "name":"Bryan Kelly",
     "title":"The Android Developer's Tool Chest",
     "description":"The Android SDK, Android Studio or the ADT plug-in, are essential tools for building Android apps.  <br />However, there are a number of open source libraries and projects that can help speed development, reduce boilerplate code and provide new solutions for old problems. This session will give a practical overview of several such libraries. We’ll also code some working examples and discuss possible pitfalls.  <br />Attendees will come away from this session with a solid grasp of open source tools, that every Android developer, should have in their tool chest. ",
-    "bio":"Bryan Kelly and David McKinnon are Android app developers with Detroit Labs. <br />While Bryan specializes in Android development, he also has iOS experience and a working knowledge of robotics.   <br />David, will forever be trying to catch up to Bryan's Android knowledge. This makes Dave generally grumpy, much of the time. ",
+    "bio":"Bryan Kelly is an Android app developer with Detroit Labs. <br />While Bryan specializes in Android development, he also has iOS experience and a working knowledge of robotics.",
     "headshot":"http://tinyurl.com/lyloubg",
     "twitter":"@bobbake4",
     "name_anchor":"Bryan Kelly",
     "talk_anchor":"android-toolchest"
-  },
-  {
-    "name":"David McKinnon",
-    "title":"The Android Developer's Tool Chest",
-    "description":"The Android SDK, Android Studio or the ADT plug-in, are essential tools for building Android apps.  <br />However, there are a number of open source libraries and projects that can help speed development, reduce boilerplate code and provide new solutions for old problems. This session will give a practical overview of several such libraries. We’ll also code some working examples and discuss possible pitfalls.  <br />Attendees will come away from this session with a solid grasp of open source tools, that every Android developer, should have in their tool chest. ",
-    "bio":"Bryan Kelly and David McKinnon are Android app developers with Detroit Labs. <br />While Bryan specializes in Android development, he also has iOS experience and a working knowledge of robotics.   <br />David, will forever be trying to catch up to Bryan's Android knowledge. This makes Dave generally grumpy, much of the time. ",
-    "headshot":"http://tinyurl.com/m2enjln",
-    "twitter":"@detroitjug",
-    "name_anchor":"David-McKinnon",
-    "talk_anchor":"android-toolchest2"
   },
   {
     "name":"Brian Korzynski",
