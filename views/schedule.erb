@@ -81,8 +81,8 @@
                             <% rooms.each do | row | %>
                                 <li>
                                     <% hasLink = row['anchor'] != 'none' %>
-                                    <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
-                                    <% if row['name'] != 'blank' %><%= row['room'] %><%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %><% end %>
+                                    <%= row['room'] %>: <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                    <% if row['name'] != 'blank' %><%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %><% end %>
                                     <% if hasLink %></a><% end %>
                                 </li>
                             <% end %>
@@ -97,8 +97,8 @@
                             <% rooms.each do | row | %>
                                 <li>
                                     <% hasLink = row['anchor'] != 'none' %>
-                                    <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
-                                    <% if row['name'] != 'blank' %><%= row['room'] %><%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %><% end %>
+                                    <%= row['room'] %>: <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                    <% if row['name'] != 'blank' %><%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %><% end %>
                                     <% if hasLink %></a><% end %>
                                 </li>
                             <% end %>
