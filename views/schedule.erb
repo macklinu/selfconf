@@ -82,7 +82,7 @@
                                 <li>
                                     <% hasLink = row['anchor'] != 'none' %>
                                     <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
-                                    <% if row['name'] != 'blank' %><%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %><% end %>
+                                    <% if row['name'] != 'blank' %><%= row['room'] %><%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %><% end %>
                                     <% if hasLink %></a><% end %>
                                 </li>
                             <% end %>
@@ -98,7 +98,7 @@
                                 <li>
                                     <% hasLink = row['anchor'] != 'none' %>
                                     <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
-                                    <%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %>
+                                    <% if row['name'] != 'blank' %><%= row['room'] %><%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %><% end %>
                                     <% if hasLink %></a><% end %>
                                 </li>
                             <% end %>
