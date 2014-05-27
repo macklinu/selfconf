@@ -510,16 +510,6 @@
     "talk_anchor":"dev-pivot"
   },
   {
-    "name":"Kaitlin Flynn",
-    "title":"Programming life by coding with DNA",
-    "description":"Your body is made up of tiny cellular machines, that are controlled by many other tiny protein-based robots. Recent advances in science and technology have made redesigning and directing these robots easier than filing your taxes-- and with much more of a payoff, to boot! This exciting field, called synthetic biology, uses genetic toggle switches, logic gates and other toolkits to create complex bacterial systems that sense their surroundings, compute or calculate a response, and then deliver the effect-- just like simple input and output systems. This type of engineering and tight control over biologicals has enormous and awesome potential for design of therapeutic systems, curing complex diseases and creating useful consumer products. Imagine a toothpaste that is full of predatory bacteria that will prevent cavities from forming, flashlights that glow without electricity or mats of cells that can transport electrical current as they grow. This talk will start with the basics of biology and DNA \"code\", transition into discussing the components to write complex \"functions\" within cells and discuss the \"compiler\", or the bacteria that put it all together, to complete a successful cellular program. ",
-    "bio":"Kaitlin Flynn is a 4th year PhD candidate in Microbiology and Immunology at the University of Michigan Medical School. Kaitlin studies genetic regulation of the spread of antibiotic resistance in the lung pathogen Legionella pneumophila. Kaitlin got interested in programming for biology after taking her first C++ class at Michigan. She is originally from Holland, Michigan and also holds a Bachelor's in Biochemistry, as well as loves to run, eat sushi and drink beer. ",
-    "headshot":"https://media.licdn.com/media/p/8/000/21a/0b2/2e78864.jpg",
-    "twitter":"@runforsushi",
-    "name_anchor":"Kaitlin-Flynn",
-    "talk_anchor":"dna-coding"
-  },
-  {
     "name":"Elmer Thomas",
     "title":"Quantify Thyself, then Go Forth and Conquer with a Personal Life API",
     "description":"Learn what to quantify, how to automatically gather the data and then we will create a Life API to access and analyze your data for tasks ranging from making real-time decisions to long term planning.<br /> <br /> <br />The talk is composed of the following three phases. <br /> <br />Phase 1: Use techniques from Personal Productivity experts to identify what data is important to quantify. <br /> <br />Phase 2: Create a template for helping us determine what tools, services and devices will automate (mostly) our data collection. <br /> <br />Phase 3: Combine and expose our data behind a Life API. We will design the API using APIary.io and implement it using Python/Flask. At this point we will explore how we can use this API and put our data to work. <br /> <br />To focus and make sure you all walk away with a tangible result within our allotted time, we will limit our scope to the area of health.",
