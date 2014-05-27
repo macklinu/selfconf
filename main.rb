@@ -31,9 +31,6 @@ class SelfConf < Sinatra::Application
     @friday = schedule.select{|key| key.include? '05/30/2014' }
     @saturday = schedule.select{|key| key.include? '05/31/2014' }
 
-    puts JSON.generate(@friday)
-
-
     erb :schedule
   end
 end
