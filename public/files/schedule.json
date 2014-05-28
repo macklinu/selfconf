@@ -418,9 +418,9 @@
   {
     "name":"Kevin Swiber",
     "title":"Approaching the Singularity: A Stroll into the Future",
-    "anchor":"aingularity",
-    "room":"140A",
-    "beginning":"05/31/2014 16:00:00",
+    "anchor":"singularity",
+    "room":"140G",
+    "beginning":"05/30/2014 17:00:00",
     "slots":1
   },
   {
@@ -507,8 +507,8 @@
     "name":"Nathan Dotz",
     "title":"A Brave New World of Android Testing",
     "anchor":"android-testing",
-    "room":"140G",
-    "beginning":"05/30/2014 17:00:00",
+    "room":"140A",
+    "beginning":"05/31/2014 16:00:00",
     "slots":1
   },
   {
