@@ -730,6 +730,16 @@
     "talk_anchor":"obj-c"
   },
   {
+    "name":"Matt Chowning",
+    "title":"Unit Testing Network Calls Can Be Easy? -- Using OHHTTPStubs in iOS Development",
+    "description":"Unit testing network calls is hard.  OHHTTPStubs makes it easier by allowing you to stub network requests to return the specific data you want in your test.  In this introduction to the use of OHHTTPStubs, I will show how using it can make your unit tests of network calls simpler, cleaner, and less error-prone.",
+    "bio":"Matt loves learning new things and having the opportunity to share them with other developers. When he is not busy helping his wife try to herd their dog and two cats, he develops mobile apps at Detroit Labs.",
+    "headshot":"",
+    "twitter":"@MattChowning",
+    "name_anchor":"Matt-Chowning",
+    "talk_anchor":"ohhttpstubs"
+  },
+  {
     "name":"Chris Nelson",
     "title":"Web Components: The Bright and Shiny Future of Web app development",
     "description":"Chances are if you've been doing web development you've heard that web components are coming to a browser near you. But reading the W3C web components meta-spec is enough to make your head asplode. We'll step through each spec in this \"spec of specs\" and see what they bring to the party and how they fit together to make building reusable web components easy and fun. We'll look at an example of how to build a web component using built-in browser apis with no external libraries or frameworks needed. Finally, we'll point you in the right direction for using all this stuff without having to wait for all the browsers to implement new APIs.                                ",

@@ -96,10 +96,10 @@
     "slots":1
   },
   {
-    "name":"Brandon Linton",
-    "title":"Go Team!",
-    "anchor":"go-team",
-    "room":"140F",
+    "name":"Cancelled",
+    "title":"",
+    "anchor":"none",
+    "room":"140G",
     "beginning":"05/30/2014 11:00:00",
     "slots":1
   },
@@ -147,7 +147,7 @@
     "name":"Charlie Wollborg",
     "title":"The Virtue of Pissing People Off",
     "anchor":"pissing-people-off",
-    "room":"140G",
+    "room":"140F",
     "beginning":"05/30/2014 11:00:00",
     "slots":1
   },
@@ -267,7 +267,7 @@
     "name":"J Wolfgang Goerlich",
     "title":"SDLC in Hostile Environments",
     "anchor":"sdlc",
-    "room":"140F",
+    "room":"140G",
     "beginning":"05/30/2014 16:00:00",
     "slots":1
   },
@@ -307,7 +307,7 @@
     "name":"Jason Felice",
     "title":"TDD: Why We Don't Party Like It's 1999",
     "anchor":"1999-tdd",
-    "room":"140G",
+    "room":"140F",
     "beginning":"05/30/2014 16:00:00",
     "slots":1
   },
@@ -409,9 +409,9 @@
   },
   {
     "name":"Dustin Li",
-    "title":"Engineer Different: Hacking for Disaster Response",
+    "title":"Engineer Different: Hacking for Humanitarian Disaster Response",
     "anchor":"engineer-different",
-    "room":"140D",
+    "room":"140B",
     "beginning":"05/31/2014 15:00:00",
     "slots":1
   },
@@ -464,9 +464,9 @@
     "slots":1
   },
   {
-    "name":"Cancelled",
-    "title":"",
-    "anchor":"none",
+    "name":"Matt Chowning",
+    "title":"Unit Testing Network Calls Can Be Easy? -- Using OHHTTPStubs in iOS Development",
+    "anchor":"ohhttpstubs",
     "room":"140B",
     "beginning":"05/30/2014 15:00:00",
     "slots":1
@@ -547,7 +547,7 @@
     "name":"Ryan Cromwell",
     "title":"Sweet Elixir! A Gentle Introduction to Erlang’s cute younger brother Elixir",
     "anchor":"sweet-elixir",
-    "room":"140B",
+    "room":"140D",
     "beginning":"05/31/2014 15:00:00",
     "slots":1
   },
