@@ -408,9 +408,9 @@
     "slots":1
   },
   {
-    "name":"None",
-    "title":"",
-    "anchor":"none",
+    "name":"Dustin Li",
+    "title":"Engineer Different: Hacking for Disaster Response",
+    "anchor":"engineer-different",
     "room":"140D",
     "beginning":"05/31/2014 15:00:00",
     "slots":1
@@ -464,9 +464,9 @@
     "slots":1
   },
   {
-    "name":"Magnus Stahre",
-    "title":"git gone wild: how to recover from common git mistakes.",
-    "anchor":"git-gone-wild",
+    "name":"Cancelled",
+    "title":"",
+    "anchor":"none",
     "room":"140B",
     "beginning":"05/30/2014 15:00:00",
     "slots":1

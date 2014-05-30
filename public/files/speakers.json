@@ -200,6 +200,16 @@
     "talk_anchor":"empathy-superpower"
   },
   {
+    "name":"Dustin Li",
+    "title":"Engineer Different: Hacking for Disaster Response",
+    "description":"On November 8th, 2013, Typhoon Yolanda (aka Haiyan) made landfall multiple times in the Philippines. Infrastructure was severely damaged throughout one of the poorest regions of the country, and thousands of people lost their lives and went missing in the typhoon that generated storm surges in excess of 20 feet and winds in excess of 185 mph. In response, an international effort was mounted to provide humanitarian relief. Communications capabilities are critical for responders on the ground in order to effectively coordinate and solve logistics problems. A team of engineers and technicians was deployed to bring internet, two-way radio, and voice capabilities to take the place of destroyed telecoms infrastructure. Volunteers included software developers, electricians, IT managers, and more. This talk discusses some of the challenges, hacks, and other activities that took place in the field, and encourages other adventurous geeks to participate.",
+    "bio":"Dustin is a traveling adventure geek and a doctoral student in the bioengineering program at Georgia Tech. He has spent the last 3 years in the United Arab Emirates helping to establish one of the first biomedical engineering programs in the Middle East, and a few months in the Philippines as a technical disaster relief consultant for a United Nations organization following Typhoon Haiyan. He doesn't like long walks on the beach, but he does enjoy coding for fun and profit and for the good of people around the world.",
+    "headshot":"",
+    "twitter":"@OnGoogPlus",
+    "name_anchor":"Dustin-Li",
+    "talk_anchor":"engineer-different"
+  },
+  {
     "name":"Chris Trevarthen",
     "title":"Estimation for the Real World",
     "description":"Estimation sucks. You can poker-plan and t-shirt-size like crazy, but it seems like as soon as you're done with one round, you're asked to re-estimate the whole project again.  Let's talk about how we can reduce the amount of time we spend by estimating when it makes sense, providing more meaningful estimates, and building trust with the business.",
@@ -268,16 +278,6 @@
     "twitter":"@jewlofthelotus",
     "name_anchor":"Julie-Cameron",
     "talk_anchor":"sassy-css"
-  },
-  {
-    "name":"Magnus Stahre",
-    "title":"git gone wild: how to recover from common git mistakes.",
-    "description":"\"Oh no! I just typed something into git and now my work is gone! Ahh!\"<br /><br />Don't panic. Contrary to popular belief, git is one of the most non-destructive version control systems available. When used right, git<br />never loses any data, and even when misused, chances are very high you can still recover.<br /><br />This talk will present turn-by-turn directions on how to recover from a wide array of common git mistakes, and also provide some workflows<br />to minimize them.<br /><br />Examples include, but are not limited to:<br />* Changing spelling errors in commit messages.<br />* Split commits into multiple commits with logical separation.<br />* Combining multiple commits into one.<br />* Resetting the base commit when you accidentally branch off of the wrong branch.<br />* Recovering from merge conflicts.<br /><br />As well as more advanced topics, such as:<br />* Extracting parts (e.g. sub-directory) of a repository as a new repository.<br />* Merging multiple repositories into one while retaining version history.<br />* Removing confidential data accidentally committed.<br />",
-    "bio":"\"Forged of iron and walrus blood, Magnus Stahre comes from an ancient line of nordic code smiths. His technology engineering heritage was primarily responsible for preventing the narwahl invasions of Sweden in both 1683 and 1915. As a craftsman of such pedigree, Magnus knows from generation of experience meticulously hand-crafting from some of the worst raw-material code out there that the only way to have exquisite code is with expertly wielded revision control. Mere mortals must often avert their gaze from his profound use of git to avoid being paralyzed in awe.\"<br /><br />- Nathan Dotz (@nathandotz)<br /><br />\"Magnus is a local software engineer known far-and-wide as a master of all, and one with the version control.\"<br /><br />- Andrew Sardone (@andrewa2)<br /><br />\"Magnus fed > 5000+ people with &lt; 3 fishes && 5 loaves\"<br /><br />- James York (@kroysemaj)<br /><br />\"Magnus is mostly harmless.\"<br /><br />- Magnus Stahre (@magnusstahre)™",
-    "headshot":"https://pbs.twimg.com/profile_images/1927778787/IMG_6728.jpg",
-    "twitter":"@magnusstahre",
-    "name_anchor":"Magnus-Stahre",
-    "talk_anchor":"git-gone-wild"
   },
   {
     "name":"Brandon Linton",
@@ -633,7 +633,7 @@
     "name":"Andy Brown",
     "title":"Teaching Agile Principles Through Experiential Exercises",
     "description":"Agile values and principles like individuals and interactions, limiting work-in-process, and continuous improvement are relatively simple to discuss but difficult to internalize and convert into value systems. Facilitated exercises and games that illustrate them can be used to drive home why they really matter. This session will combine the experience of participating in some key exercises, seeing firsthand how they run, and learning how to translate them into practical lessons on why Agile advocates certain values.",
-    "bio":"Andy Brown brings over 8 years of applying Agile thinking to organizations trying to change the way technology solutions get delivered. Having worked in a variety of verticals over the past 15 years in a range of roles, he brings a broad perspective to every situation. The best part of every experience along the way has been the people he's had the opportunity to connect with, learn from and deliver value for. Andy works with the University of Michigan's Medical School and is an instructor with Grand Circus. When he's not talking about Agile, expressing optimism over the latest Tigers' game or off-season move, or lamenting the torture of being a Lions fan, Andy finds few things better than spending time with his wife and two kids.",
+    "bio":"Andy Brown brings over 8 years of applying Agile thinking to organizations trying to change the way technology solutions get delivered. Having worked in a variety of verticals over the past 15 years in a range of roles, he brings a broad perspective to every situation. The best part of every experience along the way has been the people he's had the opportunity to connect with, learn from and deliver value for. Andy recently joined Ford Motor Company to lead their Global Agile Coaching Hub. When he's not talking about Agile, expressing optimism over the latest Tigers' game or off-season move, or lamenting the torture of being a Lions fan, Andy finds few things better than spending time with his wife and two kids.",
     "headshot":"http://i.imgur.com/fdlROe2.jpg",
     "twitter":"@turbobrown",
     "name_anchor":"Andy-Brown",
