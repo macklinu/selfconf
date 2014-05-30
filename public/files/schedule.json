@@ -99,7 +99,7 @@
     "name":"Cancelled",
     "title":"",
     "anchor":"none",
-    "room":"140G",
+    "room":"140A",
     "beginning":"05/30/2014 11:00:00",
     "slots":1
   },
@@ -147,7 +147,7 @@
     "name":"Charlie Wollborg",
     "title":"The Virtue of Pissing People Off",
     "anchor":"pissing-people-off",
-    "room":"140F",
+    "room":"140G",
     "beginning":"05/30/2014 11:00:00",
     "slots":1
   },
@@ -339,7 +339,7 @@
     "name":"Jeff Kelley",
     "title":"Understanding Objective-C Inside and Out",
     "anchor":"obj-c",
-    "room":"140A",
+    "room":"140F",
     "beginning":"05/30/2014 11:00:00",
     "slots":1
   },
