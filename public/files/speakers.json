@@ -60,16 +60,6 @@
     "talk_anchor":"auto-layout"
   },
   {
-    "name":"Kevin Swiber",
-    "title":"Approaching the Singularity: A Stroll into the Future",
-    "description":"Software has penetrated every aspect of our lives.  The tools and techniques we employ to build software continue to evolve.  What is the programming landscape today, and where do we go from here?  We’ll examine industry buzzwords such as mobile, social, big data, cloud, and the Internet of Things.  Will JavaScript really run everywhere?  Are we shifting to a world of APIs?  How smart is a wristwatch?   Let's explore language evolution, design patterns, architecture, databases, smart devices, and more!  The Singularity is just around the corner.  Are you ready for the future?",
-    "bio":"Kevin has spent over a decade participating in software projects for enterprises and the community, sporting classy titles such as Sr. Software Engineer and Enterprise Architect.  He has a strong focus on creating strategies that spark innovation and facilitate growth within organizations.  Kevin is passionate about open collaboration and the benefits of free software.  He is the author of Siren, a hypermedia specification, as well as many open source software projects.  Kevin is the co-organizer of API Craft Conference, DetNode (the Detroit Node.js Meetup), and the regional API Craft Detroit Meetup.",
-    "headshot":"http://i.imgur.com/kzHH6U8.jpg",
-    "twitter":"@kevinswiber",
-    "name_anchor":"Kevin-Swiber",
-    "talk_anchor":"singularity"
-  },
-  {
     "name":"Ron Martin",
     "title":"Asynchronous JavaScript",
     "description":"I talk about how JavaScript handles asynchronous tasks, then we come up with ways to be smart about it, and then *BAM* we invent promises.                                ",
