@@ -112,7 +112,7 @@
     "slots":1
   },
   {
-    "name":"Breakfast",
+    "name":"Morning Coffee",
     "title":"",
     "anchor":"none",
     "room":"Ballroom",
@@ -448,7 +448,7 @@
     "slots":1
   },
   {
-    "name":"Lunch",
+    "name":"Lunch - Check out the food court!",
     "title":"",
     "anchor":"none",
     "room":"Ballroom",
@@ -456,7 +456,7 @@
     "slots":1
   },
   {
-    "name":"Lunch",
+    "name":"Lunch - Check out the food court!",
     "title":"",
     "anchor":"none",
     "room":"Ballroom",
