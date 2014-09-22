@@ -25,7 +25,7 @@
                                     <% if (session) %>
                                         <td <% if (session['slots'] > 1) %>rowspan="<%= session['slots'] %>"<% end %>>
                                             <% hasLink = session['anchor'] != 'none' %>
-                                            <% if hasLink %><a href="/speakers#<%= session['anchor'] %>"><% end %>
+                                            <% if hasLink %><a href="/2014/speakers#<%= session['anchor'] %>"><% end %>
                                             <%= session['name'] %><% if hasLink %> – <%= session['title'] %><% end %>
                                             <% if hasLink %></a><% end %>
                                         </td>
@@ -59,7 +59,7 @@
                                     <% if (session) %>
                                         <td <% if (session['slots'] > 1) %>rowspan="<%= session['slots'] %>"<% end %>>
                                             <% hasLink = session['anchor'] != 'none' %>
-                                            <% if hasLink %><a href="/speakers#<%= session['anchor'] %>"><% end %>
+                                            <% if hasLink %><a href="/2014/speakers#<%= session['anchor'] %>"><% end %>
                                             <%= session['name'] %><% if hasLink %> – <%= session['title'] %><% end %>
                                             <% if hasLink %></a><% end %>
                                         </td>
@@ -81,7 +81,7 @@
                             <% rooms.each do | row | %>
                                 <li>
                                     <% hasLink = row['anchor'] != 'none' %>
-                                    <%= row['room'] %>: <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                    <%= row['room'] %>: <% if hasLink %><a href="/2014/speakers#<%= row['anchor'] %>"><% end %>
                                     <% if row['name'] != 'blank' %><%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %><% end %>
                                     <% if hasLink %></a><% end %>
                                 </li>
@@ -97,7 +97,7 @@
                             <% rooms.each do | row | %>
                                 <li>
                                     <% hasLink = row['anchor'] != 'none' %>
-                                    <%= row['room'] %>: <% if hasLink %><a href="/speakers#<%= row['anchor'] %>"><% end %>
+                                    <%= row['room'] %>: <% if hasLink %><a href="/2014/speakers#<%= row['anchor'] %>"><% end %>
                                     <% if row['name'] != 'blank' %><%= row['name'] %><% if hasLink %> – <%= row['title'] %><% end %><% end %>
                                     <% if hasLink %></a><% end %>
                                 </li>
