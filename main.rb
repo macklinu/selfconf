@@ -3,6 +3,7 @@ require 'sinatra'
 require 'json'
 require 'date'
 require './2014/routes.rb'
+require './mobile/routes.rb'
 
 class SelfConf < Sinatra::Application
   get '/' do
