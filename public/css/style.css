@@ -110,6 +110,12 @@ table h5 {
     color: #f7f7f7;
 }
 
+.footer-twitter {
+	padding: 36px;
+	display:block;
+  margin:auto;
+}
+
 .social {
     width: 16px;
     padding-top: 5px;
