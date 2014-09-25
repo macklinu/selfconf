@@ -411,7 +411,7 @@ ul.tag-line {
 }
 
 .blue_header {
-	background-color: #7d8fac;
+	background-color: #FB6B40;
 }
 
 .blue_header h1 {
@@ -429,16 +429,19 @@ ul.tag-line {
 
 .blue_block h4 {
 	color: #f7f7f7;
+	font-size: 30px;
 }
 
 .blue_block a, .footer a {
 	color: #f7f7f7;
+	text-decoration: underline;
 }
 
 .blue_block p {
 	margin-top: 10px;
 	letter-spacing:.3px;
-	line-height: 25px;
+	line-height: 125%;
+	font-size: 18px;
 }
 
 ul.hotels li {
