@@ -421,15 +421,16 @@ ul.tag-line {
 }
 
 .blue_block {
-	padding-bottom: 50px;
-	padding-top: 40px;
+	padding: 25px;
 	color: #f7f7f7;
 	background-color: #339194;
+	font-size: 18px;
+	line-height: 150%;
 }
 
 .blue_block h4 {
 	color: #f7f7f7;
-	font-size: 30px;
+	font-size: 23px;
 }
 
 .blue_block a, .footer a {
@@ -490,29 +491,29 @@ ul.tag-line {
 	margin-left: 0px;
 }
 
-label {
+.google-form label {
 	font-weight: 900;
 }
 
-input {
+.google-form input {
 	height: 35px !important;
 	margin-left: 30px;
 }
 
-textarea {
+.google-form textarea {
 	margin-left: 30px;
 }
 
-.control-label {
+.google-form .control-label {
 	width: 100% !important;
 }
 
-.ss-navigate {
+.google-form .ss-navigate {
 	text-align: center;
 	padding-right: 40px;
 }
 
-.ss-password-warning {
+.google-form .ss-password-warning {
 	margin-top: 15px;
 }
 
@@ -537,4 +538,17 @@ textarea {
 
 .thank-you {
 	background-color: #f7f7f7;
+}
+
+.sign-up {
+	font-family: Lato, sans-serif;
+	background-color: #FB6B40;
+	color: #f7f7f7;
+	border: none;
+	border-radius: 2px;
+	padding: 5px;
+}
+
+.indicates-required {
+	font-size: 14px;
 }
