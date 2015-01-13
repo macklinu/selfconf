@@ -70,7 +70,7 @@ table h5 {
 }
 
 .navbar-inner {
-    background-color: #7d8fac;
+    background-color: #339194;
     background-image: none;
     border: none;
     color: #f7f7f7;
@@ -381,7 +381,7 @@ ul.tag-line {
 	width: auto;
 	background-color: #339194;
 	color: #f7f7f7;
-	padding: 20px 0;
+	padding-top: 60px;
 }
 
 .text_block_wide {

@@ -10,4 +10,9 @@ class SelfConf < Sinatra::Application
     @title = 'self.conference'
     erb :main
   end
+
+  get '/coc', :layout => false do
+    @title = 'Code of Conduct | self.conference'
+    erb :coc
+  end
 end
