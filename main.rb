@@ -7,7 +7,7 @@ require './mobile/routes.rb'
 
 class SelfConf < Sinatra::Application
   get '/' do
-    @title = 'Self.conference'
+    @title = 'self.conference'
     erb :main
   end
 end

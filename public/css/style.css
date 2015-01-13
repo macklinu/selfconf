@@ -9,7 +9,7 @@ body{
 	background-position: center top;
 	text-align: left;
 	font-family:"Lato";
-	font-size: 32px;
+	font-size: 24px;
 	font-weight: 300;
 	text-align: left;
 	color: #339194;
@@ -42,7 +42,7 @@ h3{
 }
 h4{
 	font-family:"Lato";
-	font-size: 48px;
+	font-size: 30px;
 	font-weight: 900;
 	color: #A70267;
 	text-align: left;
@@ -258,12 +258,12 @@ a:hover, a:active, a:focus {
 	}
 
 	ul.tag-line {
-		font-size: 103px;
-		line-height: 80px;
+		font-size: 30px;
+		line-height: 24px;
 	}
 
 	.top_block {
-		height: 290px;
+		height: 235px;
 	}
 
 }
@@ -444,15 +444,8 @@ ul.tag-line {
 	font-size: 18px;
 }
 
-ul.hotels li {
-	padding: 5px;
-	margin-bottom: 10px;
-	height: 125px;
-}
-
 .hotels img {
-	height: 115px;
-	margin-right: 25px;
+	width: 19%
 }
 
 .btn-medium {
